@@ -1,0 +1,3707 @@
+ion.49 
+Is this plurality an embarrassment for advocacy of the capability 
+perspective for evaluative purposes? Quite the contrary. To insist that 
+there should be only one homogeneous magnitude that we value is to 
+reduce drastically the range of our evaluative reasoning. It is not, for 
+example, to the credit of classical utilitarianism that it values only 
+pleasure, without taking any direct interest in freedom, rights, cre­
+ativity or actual living conditions. To insist on the mechanical com­
+fort of having just one homogeneous "good thing" would be to deny 
+our humanity as reasoning creatures. It is like seeking to make the life 
+of the chef easier by finding something which-and which alone-we 
+all like (such as smoked salmon, or perhaps even french fries), or 
+some one quality which we must all try to maximize (such as the 
+saltiness of the food). 
+Heterogeneity of factors that influence individual advantage is a 
+pervasive feature of actual evaluation. While we can decide to close 
+our eyes to this issue by simply assuming that there is some one 
+homogeneous thing (such as "income" or "utility") in terms of which 
+everyone's overall advantage can be judged and interpersonally com­
+pared (and that variations of needs, personal circumstances and so 
+on can be assumed away), this does not resolve the problem but only 
+evades it. Preference fulfillment may have some obvious attraction in 
+dealing with one person's individual needs, but (as was discussed ear­
+lier) it does little, on its own, for interpersonal comparisons, central 
+to any social evaluation. Even when each person's preference is taken 
+to be the ultimate arbiter of the well-being for that person, even when 
+everything other than well-being (such as freedom) is ignored, and 
+even when-to take a very special case-everyone has the same 
+demand function or preference map, the comparison of market valu­
+ations of commodity bundles (or their relative placement on a shared 
+system-ofuindifference map in the commodity space) tells us little 
+about interpersonal comparisons. 
+In evaluative traditions involving fuller specification, considerable 
+
+
+
+--- [Book Page 78 | PDF Page 95] ---
+
+DEVELOPMENT 
+AS 
+FREEDOM 
+heterogeneity is explicitly admitted. For example, in Rawlsian analy­
+sis primary goods are taken to be constitutively diverse (including 
+"rights, liberties and opportunities, income and wealth, and the 
+social basis of self-respect'>), and Rawls deals with them through an 
+overall ''index'Å of primary goods holdings.so While a similar exercise 
+of judging over a space with heterogeneity is involved both in the 
+i
+Rawlsian approach and in the use of functionings, the former is 
+informationally poorer, for reasons discussed already, because of the 
+parametric variation of resources and primary goods vis-a-vis the 
+opportunity to achieve high quality of living. 
+The problem of valuation is not, however, one of an ali-or-nothing 
+kind. Some judgments, with incomplete reach, follow immediately 
+from the specification of a focal space. When some functionings are 
+selected as significant, such a focal space is specified, and the relation 
+of dominance itself leads to a "partial ordering', over the alternative 
+states of affairs. If person i has more of a significant functioning than 
+person j, and at least as much of all such functionings, then i clearly 
+has a higher valued functioning vector than j has. This partial order ... 
+ing can be "extended" by further specifying the possible weights. A 
+f
+unique set of weights will, of course, be sufficient to generate a com-
+,
+plete order, but it is typically not necessary. Given a "range,' of weights 
+)
+on which there is agreement (that is, when it is agreed that the weights 
+are to be chosen from a specified range, even without any agreement 
+as to the exact point on that range), there will be a partial ordering 
+based on the intersection of rankings. This partial ordering will get 
+systematically extended as the range is made more and more nar ... 
+row. Somewhere in the process of narrowing the range possibly well 
+before the weights are unique-the partial ordering will become 
+complete.P 
+It is of course crucial to ask, in any evaluative exercise of this 
+kind, how the weights are to be selected. This judgmental exercise 
+can be resolved only through reasoned evaluation. For a particular 
+person, who is making his or her own judgments, the selection of 
+weights will require reflection, rather than any interpersonal agree­
+ment (or consensus). However, in arriving at an "agreed', range for 
+social evaluation (for example, in social studies of poverty), there has 
+to be some kind of a reasoned "consensus" on weights, or at least on 
+a range of weights. This is a ''social choice"' exercise, and it requires 
+
+
+
+--- [Book Page 79 | PDF Page 96] ---
+
+.... 
+Freedom and the Foundations of Justice 
+79 
+public discussion and a democratic understanding and acceptance.s:z. 
+It is not a special problem that is associated only with the .use of the 
+functioning space. 
+There is an interesting choice here between Ë'technocracy" and 
+"democracy'' in the selection of weights, which may be worth dis­
+cussing a little. A choice procedure that relies on a democratic search 
+for agreement or a consensus can be extremely messy, and many tech­
+nocrats are sufficiently disgusted by its messiness to pine for some 
+wonderful formula that would simply give us ready-made weights 
+that are "just right." However, no such magic formula does, of 
+course, exist, since the issue of weighting is one of valuation and 
+judgment, and not one of some impersonal technology. 
+We are not prevented, by any means, from proposing that some 
+particular formula-rather than any alternative formula-be used 
+for aggregation, but in this inescapably socialÌchoice exercise its staÍ 
+tus must depend on its acceptability to others. There is nevertheless a 
+hankering after some "obviously correct" formula to which reason­
+able people cannot object. A good example comes from T. N. Srini­
+vasan's forceful critique of the capability approach (and its partial 
+use in UNDP's fluman Development Reports), where he worries 
+about the "varying importance of different capabilities" and pro­
+poses the rejection of this approach in favor of the advantage of "the 
+real-income framework" which "includes an operational metric for 
+weighting commodities-the metric of exchange value., 53 How con­
+vincing is this critique? There is certainly some metric in market valu­
+ation, but what does it tell us? 
+As was already discussed, the "operational metric" of exchange 
+value does not give us interpersonal comparisons of utility levels, 
+since such comparisons cannot be deduced from choice behavior. 
+There has been some confusion on this subject because of misreading 
+the tradition of consumption theory 
+sensible within its context­
+of taking utility to be simply the numerical representation of a given 
+person Îs choice. That is a useful way to define utility for the analysis 
+of consumption behavior of each person taken separately, but it 
+does not, on its own) offer any procedure whatever for substantive 
+interpersonal comparison. Paul Sarnuelson's elementary point that it 
+was "not necessary to make interpersonal comparisons of utility in 
+describing exchange/' 54 is the other side of the same coin: nothing 
+
+
+
+--- [Book Page 80 | PDF Page 97] ---
+
+8o 
+DEVELOPMENT 
+AS 
+FREEDOM 
+about interpersonal comparison of utility is learned from observing 
+"the metric of exchange value." 
+As noted earlier, this difficulty is present even when everyone has 
+the same demand function. It is intensified when the individual 
+demand functions differ, in which case even comparisons of the com­
+modity basis of utility are problematic. There is nothing in the 
+methodology of demand analysis, including the theory of revealed 
+preference, that permits any reading of interpersonal comparisons of 
+utilities or welfares from observed choices of commodity holdings, 
+and thus from real-income comparisons. 
+In fact, given interpersonal diversity, related to such factors as 
+age, gender, inborn talents, disabilities and illnesses, the commodity 
+holdings can actually tell us rather little about the nature of the lives 
+that the respective people can lead. Real incomes can, thus, be rather 
+poor indicators of important components of well-being and quality 
+of life that people have reason to value. More generally, the need for 
+evaluative judgments is inescapable in comparing individual well­
+being, or quality of life. Furthermore, anyone who values public 
+scrutiny must be under some obligation to make clear that a judg­
+ment is being made in using real incomes for this purpose and that 
+the weights implicitly used must be subjected to evaluative scrutiny. 
+In this context, the fact that market-price-based evaluation of utility 
+from commodity bundles gives the misleading impression-at least 
+to some-that an already available "operational metric" has been 
+preselected for evaluative use is a limitation rather than an asset. If 
+informed scrutiny by the public is central to any such social evalua­
+tion (as I believe is the case), the implicit values have to be made more 
+explicit, rather than being shielded from scrutiny on the spurious 
+ground that they are part of an ''already available" metric that the 
+society can immediately use without further ado. 
+Since the preference for market-price-based evaluation is quite 
+strong among many economists, it is also important to point out that 
+all variables other than commodity holdings (important matters such 
+as mortality, morbidity, education, liberties and recognized rights) 
+get-implicitly-a zero direct weight in evaluations based exclusively 
+on the real-income approach. They can get some indirect weight only 
+if-and only to the extent that-they enlarge real incomes and com­
+modity holdings. The cot'founding of welfare comparison with real­
+income comparison exacts a heavy price. 
+ 
+
+
+
+--- [Book Page 81 | PDF Page 98] ---
+
+Freedom and the Foundations of Justice 
+8I 
+There is thus a strong methodological case for emphasizing the 
+need to assign explicitly evaluative weights to different components 
+of quality of life (or of well-being) and then to place the chosen 
+weights for open public discussion and critical scrutiny. In any choice 
+of criteria for evaluative purposes, there would not only be use of 
+value judgments, but also, quite often, use of some judgments on 
+which full agreement would not exist. This is inescapable in a social­
+choice exercise of this kind.5s The real issue is whether we can use 
+some criteria that would have greater public support, for evaluative 
+purposes, than the crude indicators often recommended on allegedly 
+technological grounds, such as real-income measures. This is central 
+for the evaluative basis of public policy. 
+CAPABILITY INFORMATION: ALTERNATIVE USES 
+The capability perspective can be used in rather distinct ways. The 
+question as to which practical strategy to use for evaluating public 
+policy has to be distinguished from the foundational issue as to how 
+individual advantages are best judged and interpersonal comparisons 
+most sensibly made. At the foundational level, the capability perspec­
+tive has some obvious merits (for reasons already discussed) com­
+pared with concentrating on such instrumental variables as income. 
+This does not, however, entail that the most fruitful focus of practi­
+cal attention would invariably be measures of capabilities. 
+Some capabilities are harder to measure than others, and attempts 
+at putting them on a "metric" may sometimes hide more than they 
+reveal. Quite often income levels-with possible corrections for price 
+differences and variations of individual or group circumstances-can 
+be a very useful way of getting started in practical appraisal. The 
+need for pragmatism is quite strong in using the motivation under­
+lying the capability perspective for the use of available data for prac­
+tical evaluation and policy analysis. 
+Three alternative practical approaches may be considered in giving 
+practical shape to the foundational concern.s6 
+r) 
+The direct approach: This general approach takes the form 
+of directly examining what can be said about respective advantages 
+by examining and comparing vectors of functionings or capabilities. 
+In many ways, this is the most immediate and full-blooded way of 
+
+
+
+--- [Book Page 82 | PDF Page 99] ---
+
+DEVELOPMENT 
+AS 
+FREEDOM 
+going about incorporating capability considerations in evaluation. 
+It can, however, be used in different forms. The variants include the 
+following: 
+I. I) 
+"total comparison," involving the ranking of all such 
+vectors vis-a-vis each other in terms of poverty or inequality (or 
+whatever the subject matter is); 
+r.2) 
+"partial ranking/' involving the ranking of some vectors 
+vis-a-vis others, but not demanding completeness of the evalua­
+tive ranking; 
+I. 3) 
+"distinguished capability comparison," involving the 
+comparison of some particular capability chosen as the focus, 
+without looking for completeness of coverage. 
+Obviously, "total comparison'' is the most ambitious of the thre,..._e­
+often much too ambitious. We can go in that direction-maybe quite 
+far-by not insisting on a complete ranking of all the alternatives. 
+Examples of "distinguished capability comparison'' can be seen in 
+concentrated attention being paid to some particular capability vari­
+able, such as employment, or longevity, or literacy, or nutrition. 
+It is possible, of course, to go from a set of separate compari­
+sons of distinguished capabilities to an aggregated ranking of the sets 
+of capabilities. This is where the crucial role of weights would come 
+in, bridging the gap between , .. distinguished capability comparisons" 
+and "partial rankings'' (or even "total comparisons'' ).57 But it is 
+important to emphasize that despite the incomplete coverage that 
+distinguished capability comparisons provide, such comparisons 
+can be quite illuminating, even on their own, in evaluative exer­
+cises. There will be an opportunity to illustrate this issue in the next 
+chapter. 
+2) 
+The supplementary approach: A second approach is relatively 
+nonradical, and involves continued use of traditional procedures 
+of interpersonal comparisons in income spaces, but supplements 
+them by capability considerations (often in rather informal ways). 
+For practical purposes, some broadening of the informational base 
+can be achieved through this route. The supplementation may focus 
+either on direct comparisons of functionings themselves, or on instru­
+mental variables other than income that are expected to influence 
+the determination of capabilities. Such factors as the availability and 
+reach of health care, evidence of gender bias in family allocation, 
+and the prevalence and magnitude of joblessness can add to the par-
+
+
+
+--- [Book Page 83 | PDF Page 100] ---
+
+Freedom and the Foundations of Justice 
+tial illumination provided by the traditional measures in the income 
+space. Such extensions can enrich the overall understanding of prob­
+lems of inequality and poverty by adding to what gets known through 
+measures of income inequality and income poverty. Essentially, this 
+involves using "distinguished capability comparison,, as a supple­
+mentary device.ss 
+3) 
+The indirect approach: A third line of approach is more 
+ambitious than the supplementary approach but remains focused on 
+the familiar space of incomes, appropriately adjusted. Information 
+on determinants of capabilities other than income can be used to cal­
+culate "adjusted incomes." For example, family income levels may be 
+adjusted downward by illiteracy and upward by high levels of educa­
+tion, and so on, to make them equivalent in terms of capability 
+achievement. This procedure relates to the general literature on 
+'equivalence scales." It also connects with the research on analyzing 
+family expenditure patterns for indirectly assessing causal influences 
+that may not be observed directly (such as the presence or absence of 
+certain types of sex bias within the family).59 
+The advantage of this approach lies in the fact that income is a 
+familiar concept and often allows stricter measurement (than, say, 
+overall "indices" of capabilities). This may permit more articulation 
+and perhaps easier interpretation. The motivation for choosing the 
+"metric' of income in this case is similar to A. B. Atkinson's choice 
+of the income space to measure the effects of income inequality (in 
+his calculation of "equally distributed equivalent income,'), rather 
+than the utility space, as was originally proposed by Hugh Dalton. 60 
+Inequality can be seen in Dalton's approach in terms of utility loss 
+from disparity, and the shift that Atkinson brought in involved 
+assessing the loss from inequality in terms of ''equivalent income.'' 
+The "metric" issue is not negligible, and the indirect approach 
+does have some advantages. It is, however, necessary to recognize 
+that it is not any "simpler" than direct assessment. First, in assessing 
+the values of equivalent income, we have to consider how income 
+influences the relevant capabilities, since the conversion rates have to 
+be parasitic on the underlying motivation of capability evaluation. 
+Furthermore, all the issues of trade-offs between different capabilities 
+(and those of relative weights) have to be faced in the indirect 
+approach just as much as in the direct approach, since all that is 
+essentially altered is the unit of expression. In this sense the indirect 
+
+
+
+--- [Book Page 84 | PDF Page 101] ---
+
+DEVELOPMENT 
+AS 
+FREEDOM 
+approach is not basically different from the direct approach in terms 
+of the judgments that have to be made to get appropriate measures in 
+the space of equivalent incomes. 
+Second, it is important to distinguish between income as a unit in 
+which to measure inequality and income as the vehicle of inequality 
+reduction. Even if inequality in capabilities is well measured in terms 
+of equivalent incomes, it does not follow that transferring income 
+would be the best way to counteract the observed inequality. The 
+policy question of compensation or redress raises other issues ( effec­
+tiveness in altering capability disparities, the respective force of 
+incentive effects and so on), and the easy "reading" of income gaps 
+must not be taken as a suggestion that corresponding income trans­
+fers would remedy the disparities most effectually. There is, of 
+course, no need to fall into this mistaken reading of equivalent 
+incomes, but the clarity and immediacy of the income space may pose 
+that temptation, which has to be explicitly resisted. 
+Third, even though the income space has greater measurability 
+and articulation, the actual magnitudes can be very misleading in 
+terms of the values involved. Consider, for example, the possibility 
+that as the level of income is reduced and a person starts to starve, 
+there may be a sharp drop at some point in the person's chances of 
+survival. Even though the "distance" in the space of incomes between 
+two alternative values may be rather little (measured entirely in terms 
+of income), if the consequence of such a shift is a dramatic change in 
+the chances of survival, then the impact of that small income change 
+can be very large in the space of what really matters (in this case the 
+capability to survive). It may thus be deceptive to think of the differ­
+ence as being really "little" because the income difference is small. 
+Indeed, since income remains only instrumentally important, we can­
+not know how significant the income gaps are without actually con­
+sidering the consequences of the income gaps in the space that is 
+ultimately important. If a battle is lost for want of a nail (through a 
+chain of causal connections that the old verse outlines), then that nail 
+made a big difference, no matter how trivial it may be in the space of 
+incomes or expenditures. 
+Each of these approaches has contingent merit that may vary 
+depending on the nature of the exercise, the availability of informa-
+
+
+
+--- [Book Page 85 | PDF Page 102] ---
+
+Freedom and the Foundations of Justice 
+ss 
+tion, and the urgency of the decisions that have to be taken. Since the 
+capability perspective is sometimes interpreted in terribly exacting 
+terms (total comparisons under the direct approach), it is important 
+to emphasize the catholicity that the approach has. The foundational 
+affirmation of the importance of capabilities can go with various 
+strategies of actual evaluation involving practical compromises. The 
+pragmatic nature of practical reason demands this. 
+CONCLUDING REMARKS 
+Euclid is supposed to have told Ptolemy: "There is no 'royal road' to 
+geometry." It is not clear that there is any royal road to evaluation of 
+economic or social policies either. A variety of considerations that 
+call for attention are involved, and evaluations have to be done with 
+sensitivity to these concerns. Much of the debate on the alternative 
+approaches to evaluation relates to the priorities in deciding on what 
+should be at the core of our normative concern. 
+It has been argued here that the priorities that are accepted, often 
+implicitly, in the different approaches to ethics, welfare economics, 
+and political philosophy can be brought out and analyzed through 
+identifying the information on which the evaluative judgments rely in 
+the respective approaches. This chapter was concerned particularly 
+with showing how these "informational bases" work, and how the 
+different ethical and evaluative systems use quite different informa­
+tional bases. 
+From that general issue, the analysis presented in this chapter 
+moved to specific evaluative approaches, in particular utilitarianism, 
+libertarianism and Rawlsian justice. In line with the view that there 
+are indeed no royal roads to evaluation, it emerged that there are dis­
+tinct merits in each of these well-established strategies, but that each 
+also suffers from significant limitations. 
+The constructive part of this chapter proceeded to examine the 
+implications of focusing directly on the substantive freedoms of the 
+individuals involved, and identified a general approach that concen­
+trates on the capabilities of people to do things-and the freedom to 
+lead lives-that they have reason to value. I have discussed this 
+approach elsewhere as well, 6:r as have others, and its advantages and 
+limitations are also reasonably clear. It does appear that not only is 
+
+
+
+--- [Book Page 86 | PDF Page 103] ---
+
+86 
+DEVELOPMENT 
+AS 
+FREEDOM 
+this approach able to take direct note of the importance of freedom, 
+it can also pay substantial attention to the underlying motivations 
+that contribute to the relevance of the other approaches. In particu­
+lar, the freedom-based perspective can take note of, inter alia, utili­
+tarianism's interest in human well-being, libertarianism's involvement 
+with processes of choice and the freedom to act and Rawlsian 
+theory's focus on individual liberty and on the resources needed for 
+substantive freedoms. In this sense the capability approach has a 
+breadth and sensitivity that give it a very extensive reach, allowing 
+evaluative attention to be paid to a variety of important concerns, 
+some of which are ignored, one way or another, in the alternative 
+approaches. This extensive reach is possible because the freedoms of 
+persons can be judged through explicit reference to outcomes and 
+processes that they have reason to value and seek. 62 
+Different ways of using this freedomY based perspective were also 
+discussed, resisting in particular the idea that the use must take an 
+ali-or-none form. In many practical problems, the possibility of using 
+an explicitly freedom-based approach may be relatively limited. Yet 
+even there it is possible to make use of the insights and informational 
+interests involved in a freedom-based approach-without insisting 
+on ignoring other procedures when they can be, within particular 
+contexts, sensibly utilized. The analysis that follows builds on these 
+understandings, in an attempt to throw light on underdevelopment 
+(seen broadly in the form of unfreedom) and development (seen as a 
+process of removing unfreedoms and of extending the substantive 
+freedoms of different types that people have reason to value). A gen­
+eral approach can be used in many different ways, depending on the 
+context and on the information that is available. It is this combina­
+tion of foundational analysis and pragmatic use that gives the capa­
+bility approach its extensive reach. 
+
+
+
+--- [Book Page 87 | PDF Page 104] ---
+
+CHAPTER 
+4 
+POVERTY AS CAPABILITY 
+DEPRIVATION 
+It was argued in the last chapter that, in analyzing social justice, there 
+is a strong case for judging individual advantage in terms of the capa­
+bilities that a person has, that is, the substantive freedoms he or she 
+enjoys to lead the kind of life he or she has reason to value. In this 
+perspective, poverty must be seen as the deprivation of basic capabil­
+ities rather than merely as lowness of incomes, which is the standard 
+criterion of identification of poverty. I The perspective of capability­
+poverty does not involve any denial of the sensible view that low 
+income is clearly one of the major causes of poverty, since lack of 
+income can be a principal reason for a person's capability deprivation. 
+Indeed, inadequate income is a strong predisposing condition for 
+an impoverished life. If this is accepted, what then is all this fuss 
+about, in seeing poverty in the capability perspective (as opposed to 
+seeing it in terms of the standard income-based poverty assessment)? 
+The claims in favor of the capability approach to poverty are, I 
+believe, the following. 
+I) 
+Poverty can be sensibly identified in terms of capability depri­
+vation; the approach concentrates on deprivations that are intrinsi­
+cally important (unlike low income, which is only instrumentally 
+significant). 
+2) 
+There are influences on capability deprivation-and thus on 
+real poverty-other than lowness of income (income is not the only 
+instrument in generating capabilities). 
+
+
+
+--- [Book Page 88 | PDF Page 105] ---
+
+88 
+DEVELOPMENT 
+AS 
+FREEDOM 
+3) 
+The instrumental relation between low income and low capa­
+bility is variable between different communities and even between 
+different families and different individuals (the impact of income on 
+capabilities is contingent and conditional).2. 
+The third issue is particularly important in considering and evalu­
+ating public action aimed at reducing inequality or poverty. Various 
+reasons for conditional variations have been discussed in the litera­
+ture (and in chapter 3, earlier), and it is useful to emphasize some of 
+them specifically in the context of practical policy making. 
+First, the relationship between income and capability would 
+be strongly affected by the age of the person (e.g., by the specific 
+needs of the old and the very young), by gender and social roles 
+(e.g., through special responsibilities of maternity and also custom­
+determined family obligations), by location (e.g., by proneness to 
+flooding or drought, or by insecurity and violence in some inner­
+city living), by epidemiological atmosphere (e.g., through diseases 
+endemic in a region) and by other variations over which a person 
+may have no-or only limited-control.3 In making contrasts of 
+population groups classified according to age, gender, location and so 
+on, these parametric variations are particularly important. 
+Second, there can be some "coupling" of disadvantages between 
+(I) income deprivation and (2) adversity in converting income into 
+functionings.4 Handicaps, such as age or disability or illness, reduce 
+one's ability to earn an income.s But they also make it harder to con­
+vert income into capability, since an older, or more disabled, or more 
+seriously ill person may need more income (for assistance, for pros­
+thesis, for treatment) to achieve the same functionings (even when that 
+achievement is at all possible).6 This entails that "real poverty'' (in 
+terms of capability deprivation) may be, in a significant sense, more 
+intense than what appears in the income space. This can be a crucial 
+concern in assessing public action to assist the elderly and other groups 
+with "conversion" difficulties in addition to lowness of income. 
+Third, distribution within the family raises further complications 
+with the income approach to poverty. If the family income is used 
+disproportionately in the interest of some family members and not 
+others (for example, if there is a systematic "boy preference" in the 
+family allocation of resources), then the extent of the deprivation of 
+j
+
+
+
+--- [Book Page 89 | PDF Page 106] ---
+
+Poverty as Capability Deprivation 
+the neglected members (girls in the example considered) may not be 
+adequately reflected in terms of family income. This is a substantial 
+issue in many contexts; sex bias does appear to be a major factor in 
+the family allocation in many countries in Asia and North Africa. 
+The deprivation of girls is more readily checked by looking at capa­
+bility deprivation (in terms of greater mortality, morbidity, under­
+nourishment, medical neglect, and so on) than can be found on the 
+basis of income analysis.7 
+This issue is clearly not as central in the context of inequality and 
+poverty in Europe or North America, but the presumption-often 
+implicitly made-that the issue of gender inequality does not apply at 
+the basic level to the "Western" countries can be, to some extent, 
+misleading. For example, Italy has one of the highest ratios of 
+"unrecognized" labor by women vis-a-vis recognized labor included 
+in the standard national accounts. 8 The accounting of effort and time 
+expended, and the related reduction of freedom, has some bearing in 
+the analysis of poverty even in Europe and North America. There are 
+also other ways in which intrafamily divisions are important to 
+include among the considerations relevant for public policy in most 
+parts of the world. 
+Fourth, relative deprivation in terms of incomes can y ield abso­
+lute deprivation in terms of capabilities. Being relatively poor in a rich 
+country can be a great capability handicap, even when one's absolute 
+income is high in terms of world standards. In a generally opulent 
+country, more income is needed to buy enough commodities to achieve 
+the same social functioning. This consideration-pioneeringly outlined 
+by Adam Smith in The Wealth of Nations (r776)-is quite central to 
+sociological understandings of poverty, and it has been analyzed by 
+W. G. Runciman, Peter Townsend and others.9 
+For example, the difficulties that some groups of people experi­
+ence in "taking part in the life of the community" can be crucial for 
+any study of "social exclusion." The need to take part in the life of a 
+community may induce demands for modern equipment {televisions, 
+videocassette recorders, automobiles and so on) in a country where 
+such facilities are more or less universal (unlike what would be 
+needed in less affluent countries), and this imposes a strain on a rela­
+tively poor person in a rich country even when that person is at a 
+much higher level of income compared with people in less opulent 
+
+
+
+--- [Book Page 90 | PDF Page 107] ---
+
+' 
+' 
+l 
+·I 
+I 
+_, 
+90 
+DEVELOPMENT 
+AS 
+FREEDOM 
+countries. :ro Indeed, the paradoxical phenomenon of hunger in rich 
+countries-even in the United States-has something to do with the 
+competing demands of these expenses.11 
+What the capability perspective does in poverty analysis is to 
+enhance the understanding of the nature and causes of poverty and 
+deprivation by shifting primary attention away from means (and one 
+particular means that is usually given exclusive attention, viz., 
+income) to ends that people have reason to pursue, and, correspond­
+ingly, to the freedoms to be able to satisfy these ends. The examples 
+briefly considered here illustrate the additional discernment that 
+results from this basic extension. The deprivations are seen at a more 
+fundamental level-one closer to the informational demands of 
+social justice. Hence the relevance of the perspective of capability­
+poverty. 
+INCOME POVERTY AND CAPABILITY POVERTY 
+While it is important to distinguish conceptually the notion of 
+poverty as capability inadequacy from that of poverty as lowness of 
+income, the two perspectives cannot but be related, since income is 
+such an important means to capabilities. And since enhanced capa­
+bilities in leading a life would tend, typically, to expand a person's 
+ability to be more productive and earn a higher income, we would 
+also expect a connection going from capability improvement to 
+greater earning power and not only the other way around. 
+The latter connection can be particularly important for the 
+removal of income poverty. It is not only the case that, say, better 
+basic education and health care improve the quality of life directly; 
+they also increase a person's ability to earn an income and be free of 
+income-poverty as well. The more inclusive the reach of basic educa­
+tion and health care, the more likely it is that even the potentially 
+poor would have a better chance of overcoming penury. 
+The importance of this connection was a crucial point of focus of 
+my recent work on India, done jointly with Jean Dreze, dealing with 
+economic reforms. u In many ways, the economic reforms have 
+opened up for the Indian people economic opportunities that were 
+suppressed by overuse of control and by the limitations of what had 
+been called the "license Raj. "13 And yet the opportunity to make use 
+
+
+
+--- [Book Page 91 | PDF Page 108] ---
+
+Poverty as Capability Deprivation 
+of the new possibilities is not independent of the social preparation 
+that different sections of the Indian community have. While the 
+reforms were overdue, they could be much more productive if the 
+social facilities were there to support the economic opportunities for 
+all sections of the community. Indeed, many Asian economies-first 
+Japan, and then South Korea, Taiwan, Hong Kong, and Singapore, 
+and later post-reform China and Thailand and other countries in 
+East Asia and Southeast Asia-have done remarkably ·well in spread­
+ing the economic opportunities through an adequately supportive 
+social background, including high levels of literacy, numeracy, and 
+basic education; good general health care; completed land reforms; 
+and so on. The lesson of opening of the economy and the importance 
+of trade has been more easily learned in India than the rest of the 
+message from the same direction of the rising sun. z4 
+India is, of course, highly diverse in terms of human development, 
+with some regions (most notably, Kerala) having much higher levels 
+of education, health care and land reform than others (most notably, 
+Bihar, Uttar Pradesh, Rajasthan and Madhya Pradesh). The limita­
+tions have taken different forms in the different states. It can be 
+argued that Kerala has suffered from what were until recently fairly 
+anti-market policies, with deep suspicion of market-based economic 
+expansion without control. So its human resources have not been 
+as well used in spreading economic growth as they could have been 
+with a more complementary economic strategy, which is now being 
+attempted. On the other hand, some of the northern states have suf­
+fered from low levels of social development, with varying degrees 
+of control and market-based opportunities. The need for seizing the 
+relevance of complementarity is very strong in remedying the diverse 
+drawbacks. 
+It is, however, interesting that despite the rather moderate record 
+in economic growth, Kerala seems to have had a faster rate of reduc­
+tion in income poverty than any other state in India. rs While some 
+states have reduced income poverty through high economic growth 
+(Punjab is the most notable example of that), Kerala has relied a 
+great deal on expansion of basic education, health care and equitable 
+land distribution for its success in reducing penury. 
+While these connections between income poverty and capability 
+poverty are worth emphasizing, it is also important not to lose sight 
+
+
+
+--- [Book Page 92 | PDF Page 109] ---
+
+92 
+DEVELOPMENT 
+AS 
+FREEDOM 
+of the basic fact that the reduction of income poverty alone cannot 
+possibly be the ultimate motivation of antipoverty policy. There is a 
+danger in seeing poverty in the narrow terms of income deprivation, 
+and then justifying investment in education, health care and so forth 
+on the ground that they are good means to the end of reducing 
+income poverty. That would be a confounding of ends and means. 
+The basic foundational issues force us, for reasons already discussed, 
+toward understanding poverty and deprivation in terms of lives 
+people can actually lead and the freedoms they do actually have. The 
+expansion of human capabilities fits directly into these bask consid­
+erations. It so happens that the enhancement of human capabilities 
+also tends to go with an expansion of productivities and earning 
+power. That connection establishes an important indirect linkage 
+through which capability improvement helps both directly and indi­
+rectly in enriching human lives and in making human deprivations 
+more rare and less acute. The instrumental connections, important as 
+they are, cannot replace the need for a basic understanding of the 
+nature and characteristics of poverty. 
+INEQUALITY OF WHAT? 
+The treatment of inequality in economic and social evaluation 
+involves many dilemmas. Substantial inequalities are often hard to 
+defend in terms of models of "fairness." Adam Smith's concern with 
+the interests of the poor (and his outrage at the tendency for those 
+interests to be neglected) related naturally to his use of the imagina­
+tive device of what it would look like to an "impartial spectator"­
+an inquiry that offers far-reaching insights on the requirements of 
+fairness in social judgment.16 Similarly, John Rawls's idea of "justice 
+as fairness)' in terms of what can be expected to be chosen in a hypo­
+thetical "original position" in which people do not yet know who 
+they are going to be provides a rich understanding of the demands of 
+equity, and yields the anti-inequality features that are characteristic 
+of his "principles of justice." 17 Patent inequalities in social arrange­
+ments can also be difficult to justify in terms of reasonableness to 
+actual members of the society {for example, the case for these 
+inequalities being one that others "cannot reasonably reject": a crite­
+rion that Thomas Scanlon has proposed-and powerfully used-for 
+
+
+
+--- [Book Page 93 | PDF Page 110] ---
+
+Poverty as Capability Deprivation 
+93 
+ethical evaluation).18 Certainly, severe inequalities are not socially 
+attractive, and momentous inequalities can be, some would argue, 
+downright barbaric. Furthermore, the sense of inequality may also 
+erode social cohesion, and some types of inequalities can make it dif­
+ncult to achieve even efficiency. 
+And yet attempts to eradicate inequality can, in many circum­
+stances, lead to loss for most-sometimes even for all. This kind of 
+conflict can arise in mild or severe form depending on the exact cir­
+cumstances. Models of justice involving the "impartial spectator," 
+or the "original position," or not reasonable-rejection-have to take 
+note of these diverse considerations. 
+Not surprisingly, the conflict between aggregative and distributive 
+considerations has received a remarkable amount of professional 
+attention among economists. This is appropriate since it is an impor­
+tant issue.r9 Many compromise formulas have been suggested for 
+evaluating social achievements by taking note simultaneously of 
+aggregative and distributive considerations. A good example is A. B. 
+Atkinson's "equally distributed equivalent income," a concept that 
+adjusts the aggregate income by reducing its accounted value accord­
+ing to the extent of inequality in income distribution, with the trade­
+off between aggregative and distributive concerns being given by the 
+choice of a parameter that reflects our ethical judgment. 2-o 
+There is, however, a different class of conflicts that relates to the 
+choice of "space" -or of the focal variable in terms of which 
+inequality is to be assessed and scrutinized-and this relates to the 
+subject matter of the previous chapter. Inequality of incomes can dif­
+fer substantially from inequality in several other "spaces" (that is, 
+in terms of other relevant variables), such as well-being, freedom 
+and different aspects of the quality of life (including health and 
+longevity). And even aggregative achievements would take different 
+forms depending on the space in which the composition-or the 
+"totaling" -is done (for example, ranking societies in terms of aver­
+age income may differ from ranking them according to average 
+health conditions}. 
+The contrast between the different perspectives of income and 
+capability has a direct bearing on the space in which inequality and 
+efficiency are to be examined. For example, a person with high 
+income but no opportunity of political participation is not "poor" in 
+
+
+
+--- [Book Page 94 | PDF Page 111] ---
+
+94 
+DEVELOPMENT 
+AS 
+FREEDOM 
+the usual sense, but is clearly poor in terms of an important freedom. 
+Someone who is richer than most others but suffers from an ailment 
+that is very expensive to treat is obviously deprived in an important 
+way, even though she would not be classified as poor in the usual sta­
+tistics of income distribution. A person who is denied the opportu­
+nity of employment but given a handout from the state as an 
+"unemployment benefit'' may look a lot less deprived in the space of 
+incomes than in terms of the valuable-and valued-opportunity of 
+having a fulfilling occupation. Since the issue of unemployment is 
+particularly important in some parts of the world (including contem­
+porary Europe), this is another area where there is a strong need to 
+seize the contrast between income and capability perspectives in the 
+context of inequality assessment. 
+UNEMPLOYMENT 
+AND CAPABILITY DEPRIVATION 
+That the judgments of inequality in the space of incomes can be 
+quite different from those related to important capabilities can easily 
+be illustrated with examples of some practical importance. In the 
+European context, this contrast is particularly significant because of 
+the wide prevalence of unemployment in contemporary Europe.21 
+The loss of income caused by unemployment can, to a considerable 
+extent, be compensated by income support (including unemployment 
+benefits), as it typically is in Western Europe. If income loss were all 
+that were involved in unemployment, then that loss could be to a 
+great extent erased-for the individuals involved-by income sup­
+port (there is, of course, the further issue of social costs of fiscal bur­
+den and incentive effects involved in this compensation). If, however, 
+unemployment has other serious effects on the lives of the indi­
+viduals, causing deprivation of other kinds, then the amelioration 
+through income support would be to that extent limited. There is 
+plenty of evidence that unemployment has many far-reaching effects 
+other than loss of income, including psychological harm, loss of 
+work motivation, skill and self-confidence, increase in ailments and 
+morbidity (and even mortality rates}, disruption of family relations 
+and social life, hardening of social exclusion and accentuation of 
+.racial tensions and gender asymmetries. 22 
+
+
+
+--- [Book Page 95 | PDF Page 112] ---
+
+Poverty as Capability Deprivation 
+95 
+Given the massive scale of unemployment in contemporary Euro­
+pean economies, the concentration on income inequality only .can be 
+particularly deceptive. Indeed, it can be argued that at this time the 
+.massive level of European unemployment constitutes at least as 
+important an issue of inequality, in its own right, as income distribu­
+tion itself. An exclusive focus on income inequality tends to give the 
+impression that Western Europe has done very much better than the 
+United States in keeping inequality down and in avoiding the kind of 
+increase in income inequality that the United States has experienced. 
+In the space of incomes, Europe does indeed have a clearly better 
+record both in terms of levels and trends of inequality, as is brought 
+out by the careful investigation reported in the OECD (Organiza­
+tion for Economic Cooperation and Development) study prepared by 
+A. B. Atkinson, Lee Rainwater and Timothy Smeeding.23 Not only 
+are the usual measures of income inequality higher in the United 
+States than is the case, by and large, on the European side of the 
+Atlantic, but also the U.S. income inequality has gone up in a way 
+that has not happened in most countries in Western Europe. 
+And yet if we shift our gaze from income to unemployment, the 
+picture is very different. Unemployment has risen dramatically in 
+much of Western Europe, whereas there has been no such trend in the 
+United States. For example, in the period r965-I973, the unemploy­
+ment rate was 4·5 percent in the United States, while Italy had 5.8 
+percent, France 2.3 percent, and West Germany below I percent. By 
+now all three-Italy, France, and Germany-have unemployment 
+rates that hover around Io to I2 percent, whereas the U.S. unem­
+ployment rate is still between 4 and 5 percent. If unemployment bat­
+ters lives, then that must somehow be taken into account in the 
+analysis of economic inequality. The comparative trends in income 
+inequality give Europe an excuse to be smug, but that complacency 
+can be deeply misleading if a broader view is taken of inequality. 24 
+The contrast between Western Europe and the United States raises 
+another interesting-and in some ways a more general-question. 
+American social ethics seems to find it possible to be very non­
+supportive of the indigent and the impoverished, in a way that a typi­
+cal Western European, reared in a welfare state, finds hard to accept. 
+But the same American social ethics would find the double-digit lev­
+els of unemployment, common in Europe, to be quite intolerable. 
+
+
+
+--- [Book Page 96 | PDF Page 113] ---
+
+DEVELOPMENT 
+AS 
+FREEDOM 
+Europe has continued to accept worklessness-and its increase­
+with remarkable equanimity. Underlying this contrast is a difference 
+in attitudes toward social and individual responsibilities, to which I 
+shall return. 
+HEALTH CARE AND MORTALITY: AMERICAN 
+AND EUROPEAN SOCIAL ATTITUDES 
+The inequality between different racial groups in the United States 
+has received considerable attention recently. For example, in the 
+space of incomes African Americans are decidedly poorer than Ameri­
+can whites. This is very often seen as an example of relative depriva­
+tion of African Americans within the nation, but not compared with 
+poorer people in the rest of the world. Indeed, in comparison with 
+the population of third world countries, African Americans may well 
+be a great many times richer in terms of incomes, even after tak­
+ing note of price differences. Seen this way, the deprivation of the 
+American blacks seems to pale to insignificance in the international 
+perspective. 
+But is income the right space in which to make such comparisons? 
+What about the basic capability to live to a mature age, without suc­
+cumbing to premature mortality? As was discussed in chapter I, in 
+terms of that criterion the African American men fall well behind the 
+immensely poorer men of China, or the Indian state of Kerala (see 
+figure I. I, page 22 )-and also of Sri Lanka, Costa Rica, Jamaica and 
+many other poor economies. It is sometimes presumed that the 
+remarkably high death rates of African Americans apply only to men, 
+and again only to younger men, because of the prevalence of vio­
+lence. Death from violence is indeed high among young black men, 
+but this is by no means the whole story. Indeed, as figure I.2 (page 
+23) shows, black women too fall not only behind white women in the 
+United States but also behind Indian women in Kerala, and come 
+very close to falling behind Chinese women as well. It may also be 
+noticed in figure 
+I. I that American black men continue to lose 
+ground vis-a-vis the Chinese and the Indians over the years-well 
+past the younger ages when death from violence is common. More 
+explanation is needed than violent deaths can provide. 
+Indeed, even if we take higher age groups (say, that between 
+
+
+
+--- [Book Page 97 | PDF Page 114] ---
+
+Poverty as Capability Deprivation 
+97 
+FIGURE 4· I: Mortality Rate Ratios of Blacks to Whites 
+(Aged 35-54) Actual and Adjusted for Family Income 
+3.5
+--
+ 
+3.0 
+__ _____ 
+,
+, ..
+... .. , _____ ,
+"
+ 
+"
+·----·-·- 2t9 
+. . .  
+____ 
+"" 
+2.5 _, .... ---· ·
+·"""-z.-3-··""""""" .......
+.... 
+, .... 
+_ ,  _____ ,,_,,, ..... ,_ .............. 
+" "  , _____ , 
+___ , ......................
+. 
+""·-······· . .  -·-. .  . 
+2.2 
+2.0 
+_ .. 
+,_ -----
+L5t--.. 
+··--· 
+1. 0 _ ..
+........... 
+,_ .... .. 
+1.6 
+----t
+:s
+· 
+.
+.... 
+_____ ......
+. . . ---s 
+- -
+----·-·--
+1.2 
+. 
+0.5 --
+-·-1 
+1-------·----
+. ----·----
+---
+!--·------· 
+' . 
+OL--
+S
+T
+Y
+Z
+`
+ 
+All 
+All 
+Actual 
+Adjusted 
+Men 
+Men 
+Actual 
+Adjusted 
+Women 
+Women 
+Actual 
+Adjusted 
+Source: M. W. Owen, S.M. Teutsch, D. F. Williamson and J. S. Marks, "The Effects 
+of Known Risk Factors on the Excess Mortality of Black Adults in the United 
+States," Journal of the American Medical Association 263, no. 6 {February 9, r990). 
+thirty-five and sixty-four years), there is evidence of enormously 
+greater mortality for black men vis-a-vis white men, and black 
+women vis-a-vis white women. And these differentials are not wiped 
+out by adjustment for income differences. In fact, one of the more 
+careful medical studies related to the I 9 8os shows that the black­
+white mortality differential remains remarkably large for women 
+even after adjustment for income differentials. Figure 4. I presents the 
+ratios of the mortality rates of blacks and whites for the country as a 
+whole (based on a sample survey).25 While U.S. black men have I.8 
+times the mortality rate of white men, black women have nearly three 
+times the mortality of white women in this survey. And adjusted for 
+differences in family income, while the mortality rate is I .2 times 
+higher for black men, it is as much as 2. 2 times higher for black 
+women. It, thus, appears that even after full note is taken of income 
+levels, black women die young in very much larger proportions than 
+white women in the contemporary United States. 
+The broadening of the informational base from income to 
+the basic capabilities enriches our understanding of inequality and 
+poverty in quite radical ways. When we focused on the ability to be 
+
+
+
+--- [Book Page 98 | PDF Page 115] ---
+
+DEVELOPMENT 
+AS 
+FREEDOM 
+employed and to have the associated advantages of employment, the 
+European picture looked quite dismal, and as we turn our attention 
+to the ability to survive, the picture of American inequality is remark­
+ably intense. Underlying these differences and the respective policy 
+priorities associated with them, there may be an important contrast 
+in the attitudes to social and individual responsibilities on the two 
+sides of the Atlantic. In American official priorities, there is little 
+commitment to providing basic health care for all, and it appears that 
+many millions of people (in fact more than 40 million) are without 
+any kind of medical coverage or insurance in the United States. While 
+a considerable proportion of these uninsured people may have voli­
+tional reasons for not taking such insurance, the bulk of the unin­
+sured do, in fact, lack the ability to have medical insurance because 
+of economic circumstances, and in some cases because of preexisting 
+medical conditions that private insurers shun. A comparable situa­
+tion in Europe, where medical coverage is seen as a basic right of the 
+citizen irrespective of means and independent of preexisting condi­
+tions, would very likely be politically intolerable. The limits on gov­
+ernmental support for the ilL and the poor are too severe in the United 
+States to be at all acceptable in Europe, and so are the social com­
+mitments toward public facilities varying from health care to educa­
+tional arrangements, which the European welfare state takes for 
+granted. 
+On the other hand, the double-digit unemployment rates that are 
+currently tolerated in Europe would very likely be (as was argued 
+earlier) political dynamite in America, since unemployment rates of 
+that magnitude would make a mockery of people's ability to help 
+themselves. I believe no U.S. government could emerge unscathed 
+from the doubling of the present level of unemployment, which inci­
+dentally would still keep the U.S. unemployment ratio below what it 
+currently is in Italy or France or Germany. The nature of the respec­
+tive political commitments-and lack thereof-would seem to differ 
+fundamentally between Europe and America, and the differences 
+relate closely to seeing inequality in terms of particular failures of 
+basic capabilities. 
+' 
+i
+
+
+
+--- [Book Page 99 | PDF Page 116] ---
+
+Poverty as Capability Deprivation 
+POVERTY AND DEPRIVATION IN 
+INDIA AND SUBwSAHARAN AFRICA 
+99 
+Extreme poverty is now heavily concentrated in two particular 
+regions of the world: South Asia and sub-Saharan Africa. They have 
+among the lowest levels of per capita income among all the regions, 
+but that perspective does not give us an adequate idea of the nature 
+and content of their respective deprivations, nor of their comparative 
+poverty. If poverty is seen, instead, as the deprivation of basic capa­
+bilities, then a more illuminating picture can be obtained from infor­
+mation on aspects of life in these parts of the world. 26 A brief analysis 
+is attempted below, based on a joint study with Jean Dreze, and on 
+two follow-up works of this author.27 
+Around I99I there were fifty-two countries where the expecta­
+tion of life at birth was below sixty years, and those countries had a 
+combined population of I.69 billion.28 Forty-six of these countries 
+are in South Asia and sub-Saharan Africa-only six are outside these 
+two regions (viz. Afghanistan, Cambodia, Haiti, Laos, Papua New 
+Guinea and Yemen), and the combined population of these six is 
+only 3·5 percent of the total population {1.69 billion) of the fifty­
+two low-life-expectancy countries. The whole of South Asia except 
+Sri Lanka (i.e., India, Pakistan, Bangladesh, Nepal and Bhutan) and 
+the whole of sub-Saharan Africa except South Africa, Zimbabwe, 
+Lesotho, Botswana, and a collection of tiny islands (e.g., Mauritius 
+and the Seychelles) belong to the group of the other forty-six low-life­
+expectancy countries. Of course, there are variations within each 
+country. Well-placed sections of the population of South Asia and 
+sub-Saharan Africa enjoy high longevity, and as was discussed earlier, 
+parts of the population of countries even with very high average life 
+expectancy (such as the United States) may have survival problems 
+that compare with conditions in the third world. (For example, 
+American black men in U.S. cities such as New York, San Francisco, 
+St. Louis, or Washington, D.C., have life expectancies well below our 
+cut-off point of sixty years.19) But in terms of country averages, 
+South Asia and sub-Saharan Africa do indeed stand out as the 
+regions where short and precarious lives are concentrated in the con­
+temporary world. 
+
+
+
+--- [Book Page 100 | PDF Page 117] ---
+
+IOO 
+DEVELOPMENT 
+AS 
+FREEDOM 
+TABLE 4.I: India and Sub-Saharan Africa: Selected Comparisons (I99I) 
+Infant mortality rate comparisons 
+INDIA 
+"Worst" three 
+Indian states 
+"Worst" district of 
+each of the "worst" 
+Indian states 
+"Worst" three 
+countries of sub-
+Saharan Africa 
+SUB-SAHARAN 
+AFRICA 
+Region 
+India 
+Orissa 
+Madhya Pradesh 
+Uttar Pradesh 
+Ganjam (Orissa) 
+Tikamgarh 
+(Madhya Pradesh) 
+Hardoi 
+(Uttar Pradesh) 
+Mali 
+Mozambique 
+Guinea-Bissau 
+Sub-Saharan Africa 
+Population 
+Infant mortality 
+(millions) 
+rate (per I,ooo 
+live births) 
+846·3 
+8o 
+31.7 
+124 
+66.2 
+II7 
+I39•I 
+97 
+3·2 
+164 
+0.9 
+152 
+2.7 
+129 
+8.7 
+16I 
+r6.r 
+149 
+I.O 
+148 
+488.9 
+104 
+Note: The age cutoff is I 5 years for African :figures, and 7 years for Indian figures. 
+Note that in India, the 7+ literacy rate is usually higher than the 15+ literacy rate 
+(e.g., the all-India 7+ literacy rate in 1981 was 43.6%, compared with 40.8% for the 
+15+ literacy rate). 
+Indeed, India alone accounts for more than half of the combined 
+population of these fifty-two deprived countries. It is not by any 
+means the worst performer on average (in fact, average life expec­
+tancy in India is very close to sixty years and according to latest sta­
+tistics has just risen above it), but there are large regional variations 
+in living conditions within India. Some regions of India (with popu­
+lations as large as-or larger than-most countries in the world) do 
+as badly as any country in the world. India may do significantly bet­
+ter on average than, say, the worst performers (such as Ethiopia or 
+Zaire, now renamed the Democratic Republic of Congo) in terms of 
+life expectancy and other indicators, but there are large areas within 
+India where life expectancy and other basic living conditions are 
+not very different from those prevailing in these most-deprived 
+• 
+countnes.3° 
+
+
+
+--- [Book Page 101 | PDF Page 118] ---
+
+r 
+r 
+Poverty as Capability Deprivation 
+Adult literacy rate comparisons 
+Region 
+India 
+Rajasthan 
+Bihar 
+Uttar Pradesh 
+Barmer (Rajasthan) 
+Kishanganj (Bihar) 
+Bahraich (Uttar Pradesh) 
+Burkina Faso 
+Sierra Leone 
+Benin 
+Sub-Saharan Africa 
+Population 
+Adult literacy rate* 
+(millions) 
+(female/male) 
+846·3 
+39164 
+44·0 
+2olss 
+86.4 
+23152 
+139·1 
+25/56 
+I.4 
+8137 
+I.O 
+ro/33 
+2.8 
+II/36 
+9·2 
+IOI3I 
+4·3 
+12135 
+4·8 
+17/35 
+488.9 
+40/63 
+IOI 
+Source: J. Dreze and A. Sen, India: Economic Development and Social Opportunity 
+(Delhi: Oxford University Press, 1995), table 3.1. 
+Table 4.1 compares the levels of infant mortality and adult liter­
+acy in the least-developed regions of subRSaharan Africa and India.Jx 
+The table presents the 1991 estimates of these two variables not only 
+for India and sub-Saharan Africa as a whole (first and last rows), but 
+also for the three worst-performing countries of sub-Saharan Africa, 
+the three worst-performing Indian states, and the worst-performing 
+districts of each of these three states. It is remarkable that there is no 
+country in sub-Saharan Africa-or indeed in the world-where esti­
+mated infant mortality rates are as high as in the district of Ganjam 
+in Orissa, or where the adult female literacy rate is as low as in the 
+district of Barmer in Rajasthan. Each of these two districts, inciden­
+tally, has a larger population than Botswana or Namibia, and the 
+combined population of the two is larger than that of Sierra Leone, 
+Nicaragua or Ireland. Indeed, even entire states such as Uttar Pradesh 
+
+
+
+--- [Book Page 102 | PDF Page 119] ---
+
+102 
+DEVELOPMENT 
+AS 
+FREEDOM 
+(which has a population as large as that of Brazil or Russia) do not 
+do much better than the worst-off among the sub-Saharan countries 
+in terms of these basic indicators of living quality.32 
+It is interesting that if we take India and sub-Saharan Africa as a 
+whole, we find that the two regions are not very different in terms of 
+either adult literacy or infant mortality. They do differ in terms of life 
+expectancy, though. The expectation of life in India around 1991 
+was about sixty years, while it was much below that :figure in sub­
+Saharan Africa (averaging about fifty-two years).33 On the other 
+hand, there is considerable evidence that the extent of undernourish­
+ment is much greater in India than in sub-Saharan Africa.34 
+There is thus an interesting pattern of contrast between India and 
+sub-Saharan Africa in terms of the different criteria of (I) mortality 
+and (2) nutrition. The survival advantage in favor of India can be 
+brought out not only by comparisons of life expectancy, but also by 
+contrasts of other mortality statistics. For example, the median age at 
+death in India was about thirty-seven years around 1991; this 
+compares with a weighted average (of median age at death) for sub­
+Saharan Africa of a mere five years.H Indeed, in as many as five 
+African countries, the median age at death was observed to be three 
+years or below. Seen in this perspective, the problem of premature 
+mortality is enormously sharper in Africa than in India. 
+But we get a very different balance of disadvantages if we look at 
+the prevalence of undernourishment in India via-a-vis Africa. Calcu­
+lations of general undernourishment are much higher in India than in 
+sub-Saharan Africa on the average.36 This is so despite the fact that it 
+is India, rather than sub-Saharan Africa, that is self-sufficient in food. 
+Indian "self-sufficiency'' is based on the fulfillment of market demand, 
+which can be, in normal years, easily met by domestically produced 
+supply. But the market demand (based on purchasing power) under­
+states the food needs. Actual undernourishment seems to be much 
+higher in India than in sub-Saharan Africa. Judged in terms of the 
+usual standards of retardation in weight for age, the proportion of 
+undernourished children in Africa is 20 to 40 percent, whereas the 
+proportion of undernourished children in India is a gigantic 40 to 6o 
+percent.37 About half of all Indian children are, it appears, chroni 
+cally undernourished. While Indians live longer than sub-Saharan 
+Africans, and have a median age at death much higher than Africans 
+have, nevertheless there are many more undernourished children in 
+
+
+
+--- [Book Page 103 | PDF Page 120] ---
+
+Poverty as Capability Deprivation 
+103 
+India than sub-Saharan Africa-not just in absolute terms but also as 
+a proportion of all children.38 If we add to it the fact that gender bias 
+at death is a substantial problem in India, but not so in sub-Saharan 
+Africa, we see a picture that is much less favorable to India than to 
+Africa.39 
+There are important policy issues related to the nature and com­
+plexity of the respective patterns of deprivation in the two most acute 
+regions of poverty in the world. India's advantage over sub-Saharan 
+Africa in survival relates to a variety of factors that have made 
+Africans especially prone to premature mortality. Since indepen­
+dence, India has been relatively free of the problems of famine and 
+also of large-scale and persistent warfare, which has periodically rav­
+aged a large number of African countries. India's health services­
+inadequate as they are-have been less overwhelmed by political and 
+military turmoiL Furthermore, many countries of sub-Saharan Africa 
+have had specific experiences of economic decline-partly related 
+to wars, unrest and political disorder-which make it particularly 
+hard to improve living standards. A comparative assessment of 
+the achievements and failures of the two regions would have to 
+take note of these and other aspects of their respective development 
+experiences. 4° 
+One should also note that one problem that India and sub-Saharan 
+Africa have in common is the persistence of endemic illiteracy-a fea­
+ture that, like low life expectancy, sets South Asia and sub-Saharan 
+Africa apart from most of the rest of the world. As table 4· I indi­
+cates, literacy rates are very similar in the two regions. Both in India 
+and in sub-Saharan Africa, every other adult is illiterate. 
+The three focal features of deprivation of basic capabilities on 
+which I have concentrated in comparing and contrasting the nature 
+of deprivation in India and in sub-Saharan Africa (viz., prema­
+ture mortality, undernourishment and illiteracy) do not, of course, 
+provide a comprehensive picture of capability-poverty in these 
+regions. However, they bring out some striking failures and some 
+crucial policy issues that demand immediate attention. I have also 
+not attempted to produce an "aggregate" measure of deprivation, 
+based on "weighting" the different aspects of capability depriva­
+tion.4I A constructed aggregate may often be far less interesting for 
+policy analysis than the substantive pattern of diverse performances. 
+
+
+
+--- [Book Page 104 | PDF Page 121] ---
+
+I 04 
+DE VEL 0 PM EN T 
+AS 
+FR EED 0 M 
+0.1 
+Q) 
+..... 
+C\1 
+s 
+Q) 
+! 
+0.05 
+Q) 
+1.1 
+0 
+ 
+a 
+Q) 
+E 
+Q) 
+0 
+P-4 
+Q) -0.05 
+-
+C\1 
+FIGURE 4.2: Female-Male Ratios in Total 
+Population in Selected Communities 
+EJl!Ope..-tD--Kera!a,-f- --- · 
+-----· 
+-
+·-
+· 
+enca India 
+Sub-
+. 
+. 
+. .  
+' 
+' 
+• . . 
+Saharan 
+Africa 
+Latin 
+America 
+.. 
+.. I 
+-
+South 
+East 
+Asia 
+.
+. . . 
+.... 
+' ' 
+• 
+' 
+' 
+North 
+Africa-
+West Asia 
+.. 
+.. 
+.. 
+e 
+ 
+Bangladesh China 
+<J) 
+<ll 
+Q) 
+' 
+.. 
+.. 
+' 
+' 
+' 
+' 
+' 
+' 
+India 
+• 
+' 
+i 
+H 
+.... 
+-0.1 
+...... _ .... 
+_ _ .. _ _
+_ 
+.. .... 
+- - - ·-- - .. -·-.. ·- - ·-·- ... 
+_ .. -.. --.. ·------·------·----------P.akistan 
+5 
+u 
+\..I 
+ 
+-0.15 
+Source: Calculated from UN Population Statistics. 
+GENDER INEQUALITY AND MISSING WOMEN 
+I turn now to a specific aspect of a general inequality that has drawn 
+much attention lately; this section draws on my article "Missing 
+Women" published in the British Medical Journal in I992.42 I refer 
+to the terrible phenomenon of excess mortality and artificially lower 
+survival rates of women in many parts of the world. This is a crude 
+and sharply visible aspect of gender inequality, which often mani­
+fests itself in more subtle and less gruesome forms. But despite its 
+crudeness, the artificially higher female mortality rates reflect a very 
+important capability deprivation of women. 
+In Europe and North America, women tend, generally, to out­
+number men by substantial numbers. For example, in the United 
+Kingdom, France and the United States, the ratio of women to men 
+,
+
+
+
+--- [Book Page 105 | PDF Page 122] ---
+
+Poverty as Capability Deprivation 
+!05 
+exceeds 1.05. The situation is quite different in many countries in the 
+third world, especially in Asia and North Africa, where the female­
+male ratio can be as low as 0.95 (Egypt), 0.94 (Bangladesh, China, 
+West Asia), 0.93 (India), or even 0.90 (Pakistan). The significance of 
+these differences is of interest in analyzing fema_le-male inequalities 
+across the world.43 Figure 4.2 presents this comparative information. 
+In fact, more boys than girls are born everywhere (typically about 
+5 percent more). But there is much evidence that women are 
+"hardier" than men and, given symmetrical care, survive better. 
+(Indeed, it appears that even female fetuses have a higher survival 
+rate than do the male fetuses; the proportion of male fetuses in con­
+ception is even higher than that in birth. 44) It is through the lower 
+mortality rates of females that the high female-male ratio of the 
+"West'' comes about. There are also other causes for this preponder­
+ance of women. There is some remaining impact of deaths of males 
+in past wars. There has been, in general, a greater incidence of smok­
+ing among men and also greater proneness toward violent death. But 
+it seems clear that even when these other effects are taken out, 
+women would tend to outnumber men, given symmetrical care. 
+The low female-male ratios in countries in Asia and North Africa 
+indicate the influence of social factors. It is easily calculated that 
+if these countries had the female-male ratio that obtains in Europe 
+and the United States, there would have been millions more women 
+in these countries (given the number of men).4s In China alone the 
+number of "missing women,'' calculated on the basis of the Euro­
+pean or American ratio, would be more than 50 million, and on that 
+basis, for these countries taken together, many more than roo million 
+women may be seen as "missing." 
+It may not, however, be appropriate to use the European or 
+American ratio, not just because of such special features as wartime 
+deaths. Because of lower mortality rates of females in Europe and 
+America, the femalenmale ratio rises gradually with age. A lower 
+ratio would be expected in Asia or North Mrica partly because of the 
+lower general life expectancy and higher fertility rate. One way of 
+dealing with this issue is to take as the basis of comparison not the 
+female-male ratio in Europe or America, but that in sub-Saharan 
+Africa, where there is little female disadvantage in terms of relative 
+mortality rates, but where life expectancy is no higher and fertility 
+
+
+
+--- [Book Page 106 | PDF Page 123] ---
+
+I06 
+DEVELOPMENT 
+AS 
+FREEDOM 
+rates are no lower (quite the contrary). Taking the sub-Saharan 
+female-male ratio of r.o22 as the benchmark (used in my earlier 
+studies and in those with Jean Dreze) yields an estimate of 44 million 
+missing women in China, 3 7 million in India, and a total for these 
+countries still in excess of I oo million. 46 
+Another way of dealing with this problem is to calculate what the 
+expected number of females would be had there been no female dis­
+advantage in survival, given the actual life expectancy and the actual 
+fertility rates in these respective countries. It is not easy to calculate 
+that directly, but illuminating estimates have been made by Ansley 
+Coale, through using model population tables based on the historical 
+experience of '{Western" countries. This procedure yields 29 million 
+"missing women,, in China, 2 3 million in India, and a total for these 
+countries of around 6o million.47 While these are lower numbers, 
+they too are fiercely large. More recent estimates, based on the use of 
+more scrutinized historical data, have tended to yield rather larger 
+numbers of missing women (about 90 million, as estimated by 
+Stephan Klasen).•S 
+Why are overall mortality rates for females higher than for males 
+in these countries? Consider India, where the age-specific mortality 
+rate for females consistently exceeds that for males until the late thir­
+ties. While the excess mortality in the childbearing age may be partly 
+the result of maternal mortality (death during or just after child­
+birth), obviously no such explanation is possible for female disad­
+vantage in survival in infancy and childhood. Despite occasional 
+distressing accounts of female infanticide in India, that phenomenon, 
+even if present, cannot do anything to explain the magnitude of extra 
+mortality, nor its age distribution. The main culprit would seem to be 
+the comparative neglect of female health and nutrition, especially­
+but not exclusively-during childhood. There is indeed considerable 
+direct evidence that female children are neglected in terms of health 
+care, hospitalization and even feeding. 49 
+Even though the Indian case has been studied more extensively 
+than others (there are more researchers working on this issue in India 
+than in any other country), similar evidence of relative neglect of the 
+health and nutrition of female children can be found in the other 
+countries as well. In China there is even some evidence that the extent 
+of neglect may have increased sharply in recent years, particularly 
+
+
+
+--- [Book Page 107 | PDF Page 124] ---
+
+Poverty as Capability Deprivation 
+I07 
+since the compulsory family restrictions (such as the one-child policy 
+in some parts of the country) were introduced, along with other 
+reforms, around I979· There are also some new, ominous signs in 
+China, such as a radical increase in the reported ratio of male births 
+to female births-quite out of line with the rest of the world. It can, 
+quite possibly, indicate "hiding" of newborn female children (to 
+avoid the rigors of compulsory family restriction), but it can, no less 
+plausibly, also reflect a higher female infant mortality-whether or 
+not induced (with new births and new deaths both going unre­
+ported). However, recently, the brunt of the antifemale bias in family 
+composition seems to be in sex-selective abortion, which has become 
+quite widespread in China with the progress of technology. 
+CONCLUDING REMARKS 
+Economists are sometimes criticized for concentrating too much on 
+efficiency and too little on equity. There may be some ground for 
+complaint here, but it must also be noted that inequality has received 
+attention from economists throughout the history of this discipline. 
+Adam Smith, who is often thought of as "the Father of Modern Eco­
+nomics," was deeply concerned with the gulf between the rich and 
+the poor (more on this later, in chapters 5 and II). Some of the social 
+scientists and philosophers who are responsible for making inequal­
+ity such a central subject of public attention (such as Karl Marx, John 
+Stuart Mill, B.S. Rowntree and Hugh Dalton, to take writers belong­
+ing to very different general traditions) were, in terms of substantive 
+involvement, devoted economists, no matter what else they might 
+also have been. In recent years, economics of inequality as a subject 
+has flourished, with major leadership coming from such writers as 
+A. B. Atkinson.so This is not to deny that the focus on efficiency to 
+the exclusion of other considerations is very evident in some works in 
+economics, but economists as a group cannot be accused of neglect­
+ing inequality as a subject. 
+If there is a reason to grumble, it rests more on the relative impor­
+tance that is attached, in much of economics, to inequality in a very 
+narrow domain, viz., income inequality. This narrowness has the 
+effect of contributing to the neglect of other ways of seeing inequal­
+ity and equity, which has far-reaching bearing on the making of 
+
+
+
+--- [Book Page 108 | PDF Page 125] ---
+
+··-
+-
+108 
+DEVELOPMENT 
+AS 
+FREEDOM 
+economic policy. Policy debates have indeed been distorted by over­
+emphasis on income poverty and income inequality, to the neglect of 
+deprivations that relate to other variables, such as unemployment, ill 
+health, lack of education, and social exclusion. Unfortunately, the 
+identification of economic inequality with income inequality is fairly 
+common in economics, and the two are often seen as effectively syn­
+onymous. If you tell someone that you are working on economic 
+inequality, it is quite standardly assumed that you are studying 
+income distribution. 
+To some extent, this implicit identification can be found in the 
+philosophical literature as well. For example, in his interesting and 
+important paper "Equality as a Moral Ideal," Harry Frankfurt, the 
+distinguished philosopher, provides a closely reasoned and powerful 
+critique of what he calls "economic egalitarianism," defining it as 
+"the doctrine that there should be no inequalities in the distribution 
+of money." P 
+The distinction, however, between income inequality and eco­
+nomic inequality is important.P Many of the criticisms of economic 
+egalitarianism as a value or a goal apply much more readily to the 
+narrow concept of income inequality than they do to the broader 
+notions of economic inequality. For example, giving a larger share of 
+income to a person with more needs-say> due to a disability-can be 
+seen as militating against the principle of equalizing incomes but it 
+does not go against the broader precepts of economic equality, since 
+the greater need for economic resources due to the disability must be 
+taken into account in judging the requirements of economic equality. 
+Empirically, the relationship between income inequality and 
+inequality in other relevant spaces can be rather distant and contin­
+gent because of various economic influences other than income that 
+affect inequalities in individual advantages and substantive freedon1s. 
+For example, in the higher mortality rates of African Americans 
+vis-a-vis the much poorer Chinese, or Indians in Kerala, we see the 
+influence of factors that run in the opposite direction to income 
+inequality, and that involve public policy issues with strong economic 
+components: the financing of health care and insurance, provision of 
+public education, arrangements for local security and so on. 
+Mortality differences can, in fact, serve as an indicator of very 
+deep inequities that divide races, classes and genders, as the various 
+
+
+
+--- [Book Page 109 | PDF Page 126] ---
+
+Poverty as Capability Deprivation 
+I09 
+illustrations in this chapter bring out. For example, the estimations of 
+"missing women" show the remarkable reach of female disadvantage 
+in .many parts of the contemporary world, in a way that other statis­
+tics may not adequately reflect. Also, since the incomes earned by 
+family members are shared by others in the family, we cannot analyze 
+gender inequality primarily in terms of income differences. We need 
+much more information than is usually available on the division of 
+resource use within the family to get a dearer idea of inequalities in 
+economic affluence. However, statistics on mortality rates as well 
+as other deprivations (such as undernourishment or illiteracy) can 
+directly present a picture of inequality and poverty in some crucial 
+dimensions. This information can also be used to relate the extent of 
+relative deprivation of women to the existing inequalities in opportu­
+nities (in earning outside income, in being enrolled in schools and 
+so on). Thus, both descriptive and policy issues can be addressed 
+through this broader perspective on inequality and poverty in terms 
+of capability deprivation. 
+Despite the crucial role of incomes in the advantages enjoyed 
+by different persons, the relationship between income (and other 
+resources), on the one hand, and individual achievements and free­
+doms, on the other, is neither constant nor in any sense automatic 
+and irresistible. Different types of contingencies lead to systematic 
+variations in the "conversion" of incomes into the distinct "func­
+tionings'' we can achieve, and that affects the lifestyles we can enjoy. 
+I have tried to illustrate in this chapter the different ways in which 
+there can be systematic variations in the relationship between 
+incomes earned and substantive freedoms (in the form of capability 
+to lead lives that people have reason to value). The respective roles 
+of personal heterogeneities, environmental diversities, variations in 
+social climate, differences in relational perspectives and distributions 
+within the family have to receive the serious attention they deserve 
+for the making of public policy. 
+The argument is sometimes made that income is a homogeneous 
+magnitude; whereas capabilities are diverse. This sharp contrast is not 
+entirely correct, in the sense that any income evaluation hides inter­
+nal diversities with some special-and often heroic-assumptions.53 
+Also (as was discussed in chapter 3 ), interpersonal comparisons of 
+real income give us no basis for interpersonal comparisons even of 
+
+
+
+--- [Book Page 110 | PDF Page 127] ---
+
+IIO 
+DEVELOPMENT 
+AS 
+FREEDOM 
+utility {though that hiatus is often ignored in applied welfare eco­
+nomics through the imposition of wholly arbitrary assumptions). To 
+get from the comparison of the means in the form of income differ­
+ences to something that can be claimed to be valuable in itself (such 
+as well-being or freedom), we have to take note of circumstantial 
+variations that affect the conversion rates. The presumption that the 
+approach of income comparison is a more "practical" way of getting 
+at interpersonal differences in advantages is hard to sustain. 
+Furthermore, the need to discuss the valuation of diverse capabili­
+ties in terms of public priorities is, I have argued, an asset, forcing us 
+to make clear what the value judgments are in a field where value 
+judgments cannot be-and should not be avoided. Indeed, pub­
+lic participation in these valuational debates-in explicit or implicit 
+forms-is a crucial part of the exercise of democracy and responsi­
+ble social choice. In matters of public judgment, there is no real 
+escape from the evaluative need for public discussion. The work 
+of public valuation cannot be replaced by some cunningly clever 
+assumption. Some assumptions that give the appearance of working 
+very nicely and smoothly operate through concealing the choice 
+of values and weights in cultivated opaqueness. For example, the 
+assumption-often implicitly made-that two persons with the same 
+demand function must have the same relation between commodity 
+bundles and well-being (no matter whether one is ill and the other 
+not, one disabled and the other not, and so on) is basically a way of 
+evading the need to consider many significant influences on well­
+being (as was discussed in chapter 3). That evasion becomes trans­
+parent, as I have tried to illustrate, when we supplement income and 
+commodity data with information of other types (including matters 
+of life and death). 
+The issue of public discussion and social participation is thus cen­
+tral to the making of policy in a democratic framework. The use of 
+democratic prerogatives-both political liberties and civil rights-is 
+a crucial part of the exercise of economic policy making itself, in 
+addition to other roles it may have. In a freedom-oriented approach, 
+the participatory freedoms cannot but be central to public policy 
+analysis. 
+
+
+
+--- [Book Page 111 | PDF Page 128] ---
+
+CHAPTER 
+5 
+MARKETS, STATE AND 
+SOCIAL OPPORTUNITY 
+"It is the customary fate of new truths," says T. H. Huxley in Science 
+and Culture, "to begin as heresies and to end as superstitions." 
+Something very like this seems to have happened about the truth of 
+the importance of markets in economic life. There was a time-not 
+very long ago-when every young economist "knew" in what respect 
+the market systems had serious limitations: all the textbooks 
+repeated the same list of "defects." The intellectual rejection of the 
+market mechanism often led to radical proposals for altogether dif­
+ferent methods of organizing the world (sometimes involving a pow­
+erful bureaucracy and unimagined fiscal burdens), without serious 
+examination of the possibility that the proposed alternatives might 
+involve even bigger failures than the markets were expected to pro­
+duce. There was, often enough, rather little interest in the new and 
+additional problems that the alternative arrangements may create. 
+The intellectual climate has changed quite dramatically over the 
+last few decades, and the tables are now turned. The virtues of the 
+market mechanism are now standardly assumed to be so pervasive 
+that qualifications seem unimportant. Any pointer to the defects of 
+the market mechanism appears to be, in the present mood, strangely 
+old-fashioned and contrary to contemporary culture (like playing an 
+old 78 rpm record with music from the I92os). One set of prejudices 
+has given way to another-opposite-set of preconceptions. Yester­
+day's unexamined faith has become today's heresy, and yesterday's 
+heresy is now the new superstition. 
+
+
+
+--- [Book Page 112 | PDF Page 129] ---
+
+II2 
+DEVELOPMENT 
+AS 
+FREEDOM 
+The need for critical scrutiny of standard preconceptions and 
+political-economic attitudes has never been stronger.1 Today's preju­
+dices (in favor of the pure market n1echanism) certainly need to be 
+carefully investigated and, I would argue, partly rejected. But we 
+have to avoid resurrecting yesterday's follies that refused to see the 
+merits of-indeed even the inescapable need for-markets. We have 
+to scrutinize and decide what parts make sense in the respective per­
+spectives. My illustrious countryman Gautama Buddha may have 
+been too predisposed to see the universal need for "the middle path" 
+(though he did not get around to discussing the market mechanism in 
+particular), but there is something to be learned from his speeches on 
+nonextremism delivered 2,500 years ago. 
+MARKETS, LIBERTY AND LABOR 
+Even though the merits of the market mechanism are now very 
+widely acknowledged, the reasons for wanting markets are often not 
+fully appreciated. This issue was discussed in the introduction and in 
+the first chapter of this book, but I must return to it briefly in exam­
+ining the institutional aspects of development. In recent discussions, 
+the focus in assessing the market mechanism has tended to be on the 
+results it ultimately generates, such as the incomes or the utilities 
+yielded by the markets. This is not a negligible issue, and I shall come 
+to it presently. But the more immediate case for the freedom of mar­
+ket transaction lies in the basic importance of that freedom itself. 
+We have good reasons to buy and sell, to exchange, and to seek lives 
+that can flourish on the basis of transactions. To deny that freedom 
+in general would be in itself a major failing of a society. This funda­
+mental recognition is prior to any theorem we may or may not be 
+able to prove (on which more presently) in showing what the culmi­
+nation outcomes of markets are in terms of incomes, utilities and 
+so on.2 
+The ubiquitous role of transactions in modern living is often over­
+looked precisely because we take them for granted. There is an 
+analogy here with the rather underrecognized-and often unnoticed­
+role of certain behavioral rules (such as basic business ethics) in 
+developed capitalist economies (with attention being focused only on 
+aberrations when they occur). But when these values are not yet 
+
+
+
+--- [Book Page 113 | PDF Page 130] ---
+
+Markets, State and Social Opportunity 
+r r 3 
+developed, their general presence or absence can make a crucial dif­
+ference. In the analysis of development, the role of elementary busi 
+ness ethics thus has to be moved out of its obscure presence to a 
+manifest recognition. Similarly, the absence of the freedom to trans­
+act can be a major issue in itself in many contexts.> 
+This is, of course, particularly so when the freedom of labor mar­
+kets is denied by laws, regulations or convention. Even though 
+African American slaves in the pre-Civil War South may have had 
+pecuniary incomes as large as (or even larger than) those of wage 
+laborers elsewhere and may even have lived longer than the urban 
+workers in the North,4 there was still a fundamental deprivation in 
+the fact of slavery itself (no matter what incomes or utilities it might 
+or might not have generated). The loss of freedom in the absence of 
+employment choice and in the tyrannical form of work can itself be a 
+major deprivation. 
+The development of free markets in general and of free seeking of 
+employment in particular is a much appreciated fact in historical 
+studies. Even that great critic of capitalism Karl Marx saw the emer­
+gence of freedom of employment as momentous progress (as was dis­
+cussed in chapter I). But this issue concerns not just history but the 
+present as well, since this freedom is critically important right now in 
+many parts of the world. Let me illustrate this point with four quite 
+different examples. 
+First, various forms of labor bondage can be found in many coun­
+tries in Asia and Africa, and there are persistent denials of basic free­
+dom to seek wage employment away from one's traditional bosses. 
+When the Indian newspapers report that the upper-caste landowners in 
+one of the most backward parts of India (viz., Bihar) are terrorizing­
+through selective murder and rape-the families of laborers "tied" to 
+their lands, there is, of course, an issue of criminality involved, which 
+is why such incidents receive media attention {and which may be ulti­
+mately the reason why things may have to change even in these ter­
+rible communities). But underlying the criminal activities, the basic 
+economic situation involves a battle for the freedom of employment 
+as well as the ownership of land on which the "tied" laborers are 
+forced to work; these arrangements continue despite their illegality 
+(as a result of postindependence legislation that has been only partly 
+implemented). The situation has been more studied in India than 
+
+
+
+--- [Book Page 114 | PDF Page 131] ---
+
+II4 
+DEVELOPMENT 
+AS 
+FREEDOM 
+elsewhere (as discussed in chapter I), but there is enough evidence 
+that similar problems are present in several other countries as well. 
+Second (to turn now to a very different illustration), the failure of 
+bureaucratic socialism in Eastern Europe and the Soviet Union can­
+not be fully grasped merely in terms of the economic problems in 
+generating incomes or other results, such as life expectancies. Indeed, 
+in terms of life expectancies, the communist countries often did quite 
+well, relatively speaking (as is readily checked from the demographic 
+statistics of the Soviet Union, pre-reform China, Vietnam and Cuba, 
+among others). In fact, several of the ex-communist countries now 
+are in a significantly worse position than they were under communist 
+rule-perhaps nowhere more so than in Russia itself (where the life 
+expectancy at birth of Russian men has dropped now to about fifty­
+eight years-considerably below those in India or Pakistan).s And 
+yet the population is unwilling to vote to return to the previous 
+arrangements, as election results indicate, and even the new successor 
+parties drawing from that old political quarter do not propose such a 
+return (and only demand rather less radical restitutions). 
+In assessing what happened, the economic inefficiency of the 
+communist system must, of course, be recognized. But there is also 
+the more immediate issue of the denial of freedom in a system where 
+markets were simply ruled out in many fields. Also, people could be 
+disallowed from using the markets even when they existed. For 
+example, they could be barred from seeking employment in an on­
+going recruitment process (including some unfavored persons being 
+sent to work where the bosses wanted them to work). In this sense, 
+Friedrich Hayek's chastising description of the communist economies 
+as "the road to serfdom" was indeed a fitting, if severe, rhetoric. 6 In 
+a different-but not unrelated-context, Michal Kalecki (the great 
+Polish economist who returned to Poland with great enthusiasm as 
+the communist rule got established there) noted, in answer to a jour­
+nalist's question on Poland's progress from capitalism to socialism: 
+"Yes, we have successfully abolished capitalism; all we have to do 
+now is to abolish feudalism.'' 
+Third, as was noted in chapter I, in the distressing subject of child 
+labor (as prevalent, for example, in Pakistan, or India, or Bangladesh), 
+there is an embedded issue of slavery and bondage, since many of the 
+children working in exacting tasks are forced to perform them. The 
+
+
+
+--- [Book Page 115 | PDF Page 132] ---
+
+Markets, State and Social Opportunity 
+I I 5 
+roots of such servitude may go back to the economic deprivation of 
+the families from which they come-sometimes the parents are them­
+selves under some kind of bondage vis-a-vis the employers-and on 
+top of the nasty issue of laboring children, there is also the barbarity 
+of children being forced to do things. The freedom to go to school, in 
+particular, is hampered not only by the weakness of primary educa­
+tional programs in these regions, but in some cases also by the lack of 
+any choice that the children {and often their parents) have in decid­
+ing what they want to do. 
+The issue of child labor tends to divide South Asian economists. 
+Some have argued that merely abolishing child labor without doing 
+anything to enhance the economic circumstances of the families 
+involved may not serve the interest of the children themselves. There 
+is certainly a debatable issue here, but the frequent congruence of 
+child labor with what effectively is slavery does make it, in those 
+cases, a simpler choice. The starkness of slavery yields a forceful case 
+for more vigorous enforcement of antislavery as well as anti-child­
+labor legislation. The system of child labor-bad enough on its own­
+is made much beastlier still through its congruence with bondage and 
+effective slavery. 
+Fourth, the freedom of women to seek employment outside the 
+family is a major issue in many third world countries. This freedom 
+is systematically denied in many cultures, and this in itself is a serious 
+violation of women's liberty and gender equity. The absence of this 
+freedom militates against the economic empowerment of women, 
+and also has many other consequences. Aside from the direct effects 
+of market employment in adding to the economic independence of 
+women, outside work is also causally important in making women 
+have a better "deal" in intrahousehold distributions.7 Needless to 
+say, women's work at home can be backbreaking, but it is rarely hon­
+ored or even recognized (and certainly not remunerated), and the 
+denial of the right to work outside the home is a rather momentous 
+violation of women's liberty. s 
+The prohibition of outside employment for women can some­
+times be brutally executed in an explicit and fierce way (as, for exam­
+ple, in contemporary Afghanistan). In other cases, the prohibition 
+may work more implicitly through the power of convention and 
+conformity. Sometimes there may not even be, in any clear sense, a 
+
+
+
+--- [Book Page 116 | PDF Page 133] ---
+
+II6 
+DEVELOPMENT 
+AS 
+FREEDOM 
+ban on women's seeking employment, and yet women reared with 
+traditional values may be quite afraid to break with the tradition 
+and to shock others. The prevailing perceptions of "normality" and 
+"appropriateness" are quite central to this question. 
+This issue relates to other important concerns of this work, in par­
+ticular, the need for open discussion of social issues and the advan­
+tage of group activities in bringing about substantial social changes. 
+Women's organizations have begun to play a very important part in 
+this transformation in many countries in the world. For example, 
+Self-employed Women's Association (SEWA) has been most effective 
+in bringing about a changed climate of thought, not just more 
+employment for women, in one part of India. So have participatory 
+credit and cooperative organizations, such as the Grameen Bank and 
+Bangladesh Rural Advancement Committee (BRAC) in Bangladesh. 
+While emphasizing the significance of transaction and the right of 
+economic participation (including the right to seek employment 
+freely), and the direct importance of market-related liberties, we 
+must not lose sight of the complementarity of these liberties with the 
+freedoms that come from the operation of other (nonmarket) institu­
+tions.9 This complementarity between different institutions-in par­
+ticular between nonmarket organizations and the market-is also a 
+central theme of this book. 
+MARKETS AND EFFICIENCY 
+The labor market can be a liberator in many different contexts, and 
+the basic freedom of transaction can be of central importance, quite 
+aside from whatever the market mechanism may or may not achieve 
+in terms of incomes or utilities or other results. But it is important 
+also to examine those consequential results, and I turn now to that­
+rather different-issue. 
+In assessing the market mechanism, it is important to take note of 
+the forms of the markets: whether they are competitive or monopo­
+listic (or otherwise uncompetitive), whether some markets may be 
+missing (in ways that are not easily remediable) and so on. Also, the 
+nature of factual circumstances (such as the availability or absence of 
+particular kinds of information, the presence or absence of econo­
+mies of large scale) may influence the actual possibilities and impose 
+
+
+
+--- [Book Page 117 | PDF Page 134] ---
+
+r 
+Markets, State and Social Opportunity 
+II7 
+real limitations on what can be achieved through various institu­
+tional forms of the market mechanism. 
+ro 
+In the absence of such imperfections (including the nonmar­
+ketability of some goods and services), classical models of general 
+equilibrium have been used to demonstrate the merits of the market 
+mechanism in achieving economic efficiency. This is standardly 
+defined in terms of what economists call "Pareto optimality": a situa­
+tion in which the utility (or welfare) of no one can be raised without 
+reducing the utility (or welfare) of someone else. This efficiency 
+achievement-the so-called Arrow-Debreu theorem (after the origi­
+nal authors of the results, Kenneth Arrow and Gerard Debreuxx)-is 
+of real importance despite the simplifying assumptions.u 
+The Arrow-Debreu results show, inter alia, that-given some 
+preconditions-the results of the market mechanism are not improv­
+able in ways that would enhance everyone's utility (or enhance the 
+utility of some without reducing the utility of anyone else).13 
+It is possible, however, to question whether the efficiency sought 
+should not be accounted in terms of individual freedoms, rather than 
+utilities. This is an especially legitimate question here, since the infor­
+mation focus of this work has been on individual freedoms (not util­
+ities). I have, in fact, demonstrated elsewhere that in terms of some 
+plausible characterizations of substantive individual freedoms, an 
+important part of the Arrow-Debreu efficiency result readily trans­
+lates from the "space" of utilities to that of individual freedoms, both 
+in terms of freedom to choose commodity baskets and in terms of 
+capabilities to function. :r4 In demonstrating the viability of this exten­
+sion, similar assumptions are employed as are needed for the origi­
+nal Arrow-Debreu results (such as the absence of nonmarketability). 
+With these presumptions, it turns out that for a cogent characteriza­
+tion of individual freedoms, a competitive market equilibrium guar­
+antees that no one's freedom can be increased any further while 
+maintaining the freedom of everyone else. 
+For this connection to be established, the importance of substan­
+tive freedom has to be judged not just in terms of the number of 
+options one has, but with adequate sensitivity to the attractiveness of 
+the available options. Freedom has different aspects; personal liber­
+ties as well as the liberty to transact have already been discussed ear­
+lier. However, for the freedom to achieve in line with what one wants 
+
+
+
+--- [Book Page 118 | PDF Page 135] ---
+
+II8 
+DEVELOPMENT 
+AS 
+FREEDOM 
+to achieve, we have to take note of the merits of the available 
+options. -rs In explaining this freedom-efficiency result (without going 
+into technicalities), it can be pointed out that given canny choice by 
+individuals, efficiency in terms of individual utilities has to be, to a 
+great extent, parasitic on offering the individuals adequate opportu­
+nities from which they can choose. These opportunities are not only 
+relevant for what people choose (and the utility they achieve), but 
+also for what useful options they have (and the substantive freedoms 
+they enjoy}. 
+. 
+One particular issue may be worth clarifying here, concerning the 
+role of self-interest maximization in achieving the efficiency results of 
+the market mechanism. In the classic (Arrow-Debreu) framework, it 
+is assumed that everyone must be pursuing her self-interest as her 
+exclusive motivation. This behavioral assumption is necessitated by 
+the attempt to establish the result that the market outcome will be 
+"Pareto optimaP' (which is defined in terms of individual interests), 
+so that no one's interest could be further enhanced without damaging 
+the interests of others. r6 
+The presumption of ubiquitous selfishness is hard to defend 
+empirically. Also, there are circumstances more complex than those 
+presumed in the Arrow-Debreu model (involving more direct inter­
+dependences between the interests of different persons) in which self­
+interested behavior may be far from effective in generating efficient 
+outcomes. Thus, if it were really necessary to assume universal self­
+ishness to establish the efficiency results in the Arrow-Debreu model, 
+then it could be seen as a serious limitation of that approach. How­
+ever, this limitation can be substantially avoided by examining the 
+demands of efficiency in terms of individual freedoms, rather than 
+just utilities. 
+The restriction of having to assume sell-interested behavior can be 
+removed if our primary concern is with substantive freedoms that 
+people enjoy (no matter for what purpose they use these freedoms), 
+not the extent to which their self-interests are fulfilled (through their 
+own self-interested behavior). No assumption need be made, in this 
+case, about what motivates the individuals' choices, since the point at 
+issue is no longer the achievement of interest fulfillment, but the 
+availability of freedom (no matter whether the freedom is aimed at 
+self-interest or at some other objective). The basic analytical results 
+
+
+
+--- [Book Page 119 | PDF Page 136] ---
+
+Markets> State and Social Opportunity 
+I I 9 
+of the Arrow-Debreu theorem are thus quite independent of the 
+motivations that lie behind the individual preferences, and can be left 
+unaddressed if the object is to show efficiency in preference fulfill­
+ment, or efficiency in substantive individual freedoms (irrespective of 
+motivation).I7 
+COUPLING OF DISADVANTAGES 
+AND INEQUALITY OF FREEDOMS 
+The basic result about market efficiency can, in this sense, be 
+extended to the perspective of substantive freedoms. But these effi­
+ciency results do not say anything about the equity of outcomes, or 
+about the equity in the distribution of freedoms. A situation can be 
+efficient in the sense that no one's utility or substantive freedom can 
+be enhanced without cutting into the utility or freedom of someone 
+else, and yet there could be enormous inequalities in the distribution 
+of utilities and of freedoms. 
+The problem of inequality, in fact, gets magnified as the attention 
+is shifted from income inequality to the inequality in the distribution 
+of substantive freedoms and capabilities. This is mainly because of 
+the possibility of some "coupling" of income inequality, on the one 
+hand, with unequal advantages in converting incomes into capabili­
+ties, on the other. The latter tends to intensify the inequality problem 
+already reflected in income inequality. For example, a person who is 
+disabled, or ill, or old, or otherwise handicapped may, on the one 
+hand, have problems in earning a decent income, and on the other, 
+also face greater difficulties in converting income into capabilities 
+and into living well. The very factors that may make a person unable 
+to find a good job and a good income (such as a disability) may put 
+the person at a disadvantage in achieving a good quality of life even 
+with the same job and with the same income.18 This relationship 
+between income-earning ability and income-using ability is a well­
+known empirical phenomenon in poverty studies.x9 The interper­
+sonal income inequality in the market outcomes may tend to be 
+magnified by this ''coupling" of low incomes with handicaps in the 
+conversion of incomes into capabilities. 
+The freedom-efficiency of the market mechanism, on the one 
+hand, and the seriousness of freedom-inequality problems, on the 
+
+
+
+--- [Book Page 120 | PDF Page 137] ---
+
+120 
+DEVELOPMENT 
+AS 
+FREEDOM 
+other hand, are worth considering simultaneously. The equity prob­
+lems have to be addressed, especially in dealing with serious depriva­
+tions and poverty, and in that context, social intervention including 
+governmental support may well have an important role. To a great 
+extent, this is exactly what the social security systems in welfare 
+states try to achieve, through a variety of programs including social 
+provision of health care, public support of the unemployed and the 
+indigent and so on. But the need to pay attention simultaneously to 
+efficiency and equity aspects of the problem remains, since equity­
+motivated interference with the working of the market mechanism 
+can weaken efficiency achievements even as it promotes equity. It is 
+important to be dear about the need for simultaneity in considering 
+the different aspects of social evaluation and justice. 
+T he need for synchronous consideration of distinct goals has 
+already been faced in this work in several other contexts. For ex­
+ample, it was considered in chapter 4 in contrasting the greater social 
+commitment in Europe (more than in the United States) in guaran­
+teeing minimal incomes and health care, with a greater social com­
+mitment in the United States (more than in Europe) in maintaining 
+high levels of employment. The two types of commitments may be, to 
+a considerable extent, combinable, but they may also be, at least 
+partly, in conflict with each other. To the extent that there is a con­
+flict, the need for simultaneity in considering the two issues together 
+would be important in arriving at overall social priorities, paying 
+attention to both efficiency and equity. 
+MARKETS AND INTEREST GROUPS 
+The role that markets play must depend not only on what they can 
+do, but also on what they are allowed to do. There are many people 
+whose interests are well served by the smooth functioning of mar­
+kets, but there are also groups whose established interests may 
+be hurt by such functioning. If the latter groups are politically more 
+powerful and influential, then they can try to see that markets are 
+not given adequate room in the economy. This can be a particu­
+larly serious problem when monopolistic production units flourish­
+despite inefficiency and various types of ineptitude-thanks to 
+insulation from competition, domestic or foreign. The high product-
+
+
+
+--- [Book Page 121 | PDF Page 138] ---
+
+Markets State and Social Opportunity 
+I 2 r 
+prices or the low product-qualities that are involved in such artifi­
+cially propped-up production may impose significant sacrifice on 
+the population at large, but an organized and politically influential 
+group of "industrialists" can make sure that their profits are well 
+protected. 
+Adam Smith's complaint about the limited use of markets in 
+eighteenth-century Britain was concerned not only with pointing to 
+the social advantages of well-functioning markets, but also with 
+identifying the influence of vested interests in guaranteeing the insu­
+lation of their inflated profits from the threatening effects of compe­
+tition. Indeed, Adam Smith saw the need to understand the working 
+of markets, to a great extent, as an antidote to the arguments stan­
+dardly used by vested interests against giving competition an ade­
+quate role. Smith's intellectual arguments were partly aimed at 
+countering the power and effectiveness of advocacy from entrenched 
+• Interests. 
+The market restrictions against which Smith was particularly 
+vocal can be seen, in a broad sense, as "precapitalist" constraints. 
+They differ from public intervention for, say, welfare programs or 
+social safety nets, of which only rudimentary expressions could be 
+found, at his time, in arrangements such as the Poor Laws. 20 They 
+also differ from the functioning of the state in providing such services 
+as public education, of which Smith was very supportive (more on 
+this presently). 
+As it happens, many of the restrictions that bedevil the function­
+ing of economies in developing countries today-or even allegedly 
+socialist countries of yesterday-are also, broadly, of this "precapi­
+talist" type. Whether we consider the prohibition of some types of 
+domestic trade or international exchange, or the preservation of anti­
+quated techniques and production methods in businesses owned and 
+operated by "protected bourgeoisie," there is a generic similarity 
+between the sweeping advocacy of restricted competition and the 
+flourishing of precapitalist values and habits of thought. The "radi­
+cals" of yesterday, such as Adam Smith (whose ideas inspired many 
+of the activists in the French Revolution), or David Ricardo (who 
+resisted Malthus's defense of the productive contribution of torpid 
+landlords), or Karl Marx (who saw competitive capitalism as a major 
+force for progressive change in the world}, had little sympathy for the 
+
+
+
+--- [Book Page 122 | PDF Page 139] ---
+
+I22 
+DEVELOPMENT 
+AS 
+FREEDOM 
+generally antizmarket arguments of precapitalist leaders of thought. 
+It is one of the ironies of the history of ideas that some who 
+advocate radical politics today often fall for old economic positions 
+that were so unequivocally rejected by Smith, Ricardo and Marx. 
+Michal Kalecki's bitter grumble about restriction-ridden Poland ("we 
+have successfully abolished capitalism; all we have to do now is to 
+abolish feudalism,'), which I quoted earlier, can be well appreciated 
+in this light. It is not surprising that the protected bourgeoisie often 
+do their best to encourage and support the illusion of radicalism and 
+modernity in dusting up generically anti-market positions from the 
+distant past. 
+It is important to join these arguments through open-minded criti­
+cisms of the claims made in favor of general restriction of competi­
+tion. This is not to deny that attention must also be paid to the 
+political power of those groups that obtain substantial material bene­
+fits from restricting trade and exchange. Many authors have pointed 
+out, with good reason, that the advocacies involved must be judged 
+by identifying the vested interests involved, and by taking note of the 
+influence of "rent-seeking activities" implicit in keeping competition 
+away. As Vilfredo Pareto pointed out, in a famous passage, if "a cer­
+tain measure A is the case of the loss of one franc to each of a thou­
+sand persons, and of a thousand franc gain to one individual, the 
+latter will expend a great deal of energy, whereas the former will 
+resist weakly; and it is likely that, in the end, the person who is 
+attempting to secure the thousand francs via A will be successful." .u 
+Political influence in search of economic gain is a very real phenome­
+non in the world in which we live. 22 
+Confronting such influences has to occur not merely through 
+resisting-and perhaps even "exposing" (to use an old-fashioned 
+word)-the seekers of profit from captive markets, but also from tak­
+ing on their intellectual arguments as proper subjects of scrutiny. 
+Economics does have a long tradition in that critical direction, going 
+back at least to Adam Smith himself, who simultaneously pointed his 
+accusing finger at the perpetrators, and went on to debunk their 
+claims in favor of the thesis of social benefits from disallowing com­
+petition. Smith argued that the vested interests tend to win because of 
+their ''better knowledge of their own interest'> (not "their knowledge 
+of publick interest"}. He wrote: 
+
+
+
+--- [Book Page 123 | PDF Page 140] ---
+
+Markets, State and Social Opportunity 
+I 2 3 
+The interest of the dealers, however, in any particular branch 
+of trade or manufactures, is always in some respects different 
+from, and even opposite to that of the publick. To widen the 
+market and to narrow the competition, is always the interest of 
+the dealers. To widen the market may frequently be agreeable 
+enough to the interest of the publick; but to narrow the com­
+petition must always be against it, and can serve only to enable 
+the dealers, by raising their profits above what they naturally 
+would be, to levy for their own benefit, an absurd tax upon the 
+rest of their fellow-citizens. The proposal of any new law or 
+regulation of commerce which comes from this order, ought 
+always to be listened to with great precaution, and ought never 
+to be adopted till after having been long and carefully exam­
+ined, not only with the most scrupulous, but with the most sus-
+• 
+• 
+• 
+ptctous attent1on.2.3 
+There is no reason why vested interests must win if open argu­
+ments are permitted and promoted. Even as Pareto's famous argu­
+ment illustrates, there may be a thousand people whose interests are 
+a little hurt by the policy that heavily feeds the interest of one 
+businessman, and once the picture is seized with clarity, there may be 
+no dearth of a majority in opposition to such special pleading. This is 
+an ideal field for more public discussion of the claims and counter­
+claims on the different sides, and in the test of open democracy, pub­
+lic interest rna y well have excellent prospects of winning against the 
+spirited advocacy of the small coterie of vested interests. Here too, as 
+in many other areas already examined in this book, the remedy has 
+to lie in more freedom-including that of public discussion and par­
+ticipatory political decisions. Once again, freedom of one kind (in 
+this case, political freedom) can be seen as helping the realization of 
+freedom of other kinds (particularly, that of economic openness). 
+NEED FOR CRITICAL SCRUTINY 
+OF THE ROLE OF MARKETS 
+Indeed, critical public discussion is an inescapably important require­
+ment of good public policy since the appropriate role and reach of 
+markets cannot be predetermined on the basis of some grand, general 
+
+
+
+--- [Book Page 124 | PDF Page 141] ---
+
+I24 
+DEVELOPMENT 
+AS 
+FREEDOM 
+formula-or some all-encompassing attitude-either in favor of 
+placing everything under the market, or of denying everything to the 
+market. Even Adam Smith, while firmly advocating the use of mar­
+kets where it could work well (and denying the merits of any general 
+rejection of trade and exchange), did not hesitate to investigate eco­
+nomic circumstances in which particular restrictions may be sensibly 
+proposed, or economic fields in which nonmarket institutions would 
+be badly needed to supplement what the markets can do.24 
+It must not be presumed that Smith,s critique of the market 
+mechanism was always gentle, or, for that matter, that he got his criti­
+cal points invariably right. Consider, for example, his advocacy of 
+legal restrictions on usury. 2.5 Smith was, of course, opposed to any 
+kind of general ban on charging interest on loans (as some anti­
+market thinkers had advocated).26 However, he wanted to have legal 
+restrictions imposed by the state on the maximum rates of interest 
+that could be charged: 
+In countries where interest is permitted, the law, in order to 
+prevent the extortion of usury, generally fixes the highest rate 
+which can be taken without incurring a penalty .... 
+The legal rate, it is to be observed, though it ought to be 
+somewhat above, ought not to be much above the lowest mar­
+ket rate. If the legal rate of interest in Great Britain, for ex­
+ample, was fixed so high as eight or ten per cent, the greater 
+part of the money which was to be lent, would be lent to prodi­
+gals and projectors, who alone would be willing to give this 
+high interest. Sober people, who will give for the use of money 
+no more than a part of what they are likely to make by the use 
+of it, would not venture into the competition. A great part of 
+the capital of the country would thus be kept out of the hands 
+which were most likely to make a profitable and advantageous 
+use of it, and thrown into those which were most likely to 
+waste and destroy it.27 
+In Smith's interventionist logic the underlying argument is that 
+market signals can be misleading, and the consequences of the free 
+market may be much waste of capital, resulting from private pursuit 
+of misguided or myopic enterprises, or private waste of social 
+
+
+
+--- [Book Page 125 | PDF Page 142] ---
+
+Markets, State and Social Opportunity 
+I 2 5 
+resources. As it happens, Jeremy Bentham took Adam Smith to task 
+in a long letter he wrote to Smith in March I787, arguing for leaving 
+the market alone.28 This is a rather remarkable episode in the history 
+of economic thought, with the principal utilitarian interventionist 
+lecturing the pioneering guru of market economics on the virtues of 
+market allocation. 29 
+The issue of a legally imposed maximum interest rate is not of 
+much current interest in contemporary debates (in this respect Ben­
+tham has clearly won over Smith), but it is important to see why 
+Smith took such a negative view of the impact of "prodigals and pro­
+jectors" on the economy. He was deeply concerned with the problem 
+of social waste and the loss of productive capital. And he discussed in 
+some detail how this could come about (Wealth of Nations, book 2, 
+chapter 3). Regarding "prodigals,', Smith saw in them a great poten­
+tial for social waste, driven as they are "with the passion for present 
+enjoyment.,, So it is that "every prodigal appears to be a publick 
+enemy." Regarding "projectors," Smith's worries related again to 
+social waste: 
+The effects of misconduct are often the same as those of prodi­
+gality. Every injudicious and unsuccessful project in agricul­
+ture, mines, fisheries, trade, or manufactures, tends in the same 
+manner to diminish the funds destined for the maintenance of 
+productive labour. In every such project, ... there must always 
+be some diminution in what would otherwise have been the 
+productive funds of the society,.;o 
+It is not particularly important to assess these specific arguments 
+of Smith, but it is important to see what his general concerns are. 
+What he is considering is the possibility of social loss in the narrowly 
+motivated pursuit of private gains. This is the opposite case to the 
+more famous remark of Smith: "It is not from the benevolence of 
+the butcher, the brewer, or the baker that we expect our dinner, but 
+from their regard to their own interest. We address ourselves, not to 
+their humanity but to their self-love .
+. .
+. "31 If the butcher-brewer­
+baker example draws our attention to the mutually beneficial role of 
+trade based on self-interest, the prodigal-projector argument points 
+to the possibility that under certain circumstances private profit 
+
+
+
+--- [Book Page 126 | PDF Page 143] ---
+
+I26 
+DEVELOPMENT 
+AS 
+FREEDOM 
+motives may indeed run counter to social interests. It is this general 
+concern that remains relevant today (not just the particular example 
+of prodigals and projectors).32 This is very much the central appre­
+hension in considering the social loss involved, for example, in en­
+vironmentally wasteful or polluting private productions, which fit 
+well with Smith's description of the possibility of ''some diminution 
+in what would otherwise have been the productive funds of the 
+society.'' 
+The lesson to draw from Smith's analysis of the market mecha­
+nism is not any massive strategy of jumping to policy conclusions 
+from some general "pro" or "anti" attitude to markets. After 
+acknowledging the role of trade and exchange in human living, 
+we still have to examine what the other consequences of market 
+transactions actually are. We have to evaluate the actual possibili­
+ties critically, with adequate attention being paid to the contingent 
+circumstances that may be relevant in assessing all the results of 
+encouraging markets, or of restraining their operation. If the butcher­
+brewer-baker example points to a very common circumstance in which 
+our complementary interests are mutually promoted by exchange, the 
+prodigal-projector example illustrates the possibility that this may not 
+work in quite that way in every case. There is no escape from the neces­
+sity of critical scrutiny. 
+NEED FOR A MANY"SIDED APPROACH 
+The case for taking a broad and many-sided approach to develop­
+ment has become clearer in recent years, partly as a result of the dif­
+ficulties faced as well as successes achieved by different countries 
+over the recent decades.n These issues relate closely to the need for 
+balancing the role of the government-and of other political and 
+social institutions-with the functioning of markets. 
+They also suggest the relevance of a "comprehensive development 
+framework" of the kind discussed by James Wolfensohn, the presi­
+dent of the World Bank.H This type of framework involves rejecting 
+a compartmentalized view of the process of development (for exam­
+ple, going just for "liberalization'' or some other single, overarching 
+process). The search for a single all-purpose remedy (such as "open 
+the markets" or "get the prices right'' ) has had much hold on profes­
+sional thinking in the past, not least in the World Bank itself. Instead, 
+
+
+
+--- [Book Page 127 | PDF Page 144] ---
+
+Markets, State and Social Opportunity 
+I 2 7 
+an integrated and multifaceted approach is needed, with the object of 
+making simultaneous progress on different fronts, including different 
+institutions, which reinforce each other.35 
+Broader approaches are often harder to "sell" than narrowly 
+focused reforms that try to achieve "one thing at a time." This may 
+help to explain why the powerful intellectual leadership of Manmo­
+han Singh in bringing about the needed economic reforms in India in 
+I99I was so concentrated on ''liberalization" only, without a cor­
+responding focus on the much-needed broadening of social oppor­
+tunities. There is, however, quite a deep complementarity between 
+reducing, on the one hand, the overactivity of the state in running a 
+''license Raj," and, on the other, removing the underactivity of the 
+state in the continuing neglect of elementary education and other 
+social opportunities (with close to half the adult Indians still illiterate 
+and quite unable to participate in an increasingly globalized econ­
+omy).36 In the event, Manmohan Singh did initiate some essential 
+reforms, and this is a rightly admired success.37 And yet that success 
+could have been even greater if the reforms were combined with a 
+commitment to expand the development of social opportunities that 
+had been neglected so persistently in India. 
+Combining extensive use of markets with the development of 
+social opportunities must be seen as a part of a still broader com­
+prehensive approach that also emphasizes freedoms of other kinds 
+(democratic rights, security guarantees, opportunities of cooperation 
+and so on). In this book, the identification of different instrumen­
+tal freedoms (such as economic entitlements, democratic freedoms, 
+social opportunities, transparency guarantees and protective security ) 
+is based on the recognition of their respective roles as well as their 
+complementarities. Depending on the country considered, the focus 
+of a critique may vary, in light of the particular experience in that 
+country. For example, in India the neglect of social opportunities 
+may be a focus of criticism in a way it may not be in China, whereas 
+the absence of democratic liberties may be more appropriately a 
+focus of a critique of China than it could be of India. 
+INTERDEPENDENCE AND PUBLIC GOODS 
+Those who have tended to take the market mechanism to be the best 
+solution of every economic problem may want to inquire what the 
+
+
+
+--- [Book Page 128 | PDF Page 145] ---
+
+I28 
+DEVELOPMENT 
+AS 
+FREEDOM 
+limits of that mechanism may be. I have already commented on issues 
+of equity and the need to go beyond efficiency considerations, and in 
+that context, I have tried to discuss why this may call for supple­
+menting the market mechanism by other institutional activities. But 
+even in achieving efficiency, the market mechanism may sometimes 
+be less than effective, particularly in the presence of what are called 
+"public goods." 
+One of the assumptions standardly made to show the efficiency of 
+the market mechanism is that every commodity-and more generally 
+everything on which our welfares depend-can be bought and sold in 
+the market. It can all be marketed (if we want to place it there), and 
+there is no "nonmarketable" but significant influence on our welfare. 
+In fact, however, some of the most important contributors to human 
+capability may be hard to sell exclusively to one person at a time. 
+This is especially so when we consider the so-called public goods, 
+which people consume together rather than separately.38 
+This applies particularly in such fields as environmental preserva­
+tion, and also epidemiology and public health care. I may be willing 
+to pay my share in a social program of malaria eradication, but 
+I cannot buy my part of that protection in the form of "private 
+good'" (like an apple or a shirt). It is a "public good"-malaria-free 
+surroundings-which we have to consume together. Indeed, if I do 
+manage somehow to organize a malaria-free environment where I 
+live, my neighbor too will have that malaria-free environment, with­
+out having to "buy" it from anywhere.39 
+The rationale of the market mechanism is geared to private goods 
+(like apples and shirts), rather than to public goods (like the malaria¥ 
+free environment), and it can be shown that there may be a good case 
+for the provisioning of public goods, going beyond what the private 
+markets would foster. 4o Exactly similar arguments regarding the lim­
+ited reach of the market mechanism apply to several other important 
+fields as well, where too the provision involved may take the form of 
+a public good. Defense, policing and environmental protection are 
+some of the fields in which this kind of reasoning applies. 
+There are also rather mixed cases. For example, given the shared 
+communal benefits of basic education, which may transcend the 
+gains of the person being educated) basic education may have a 
+public-good component as well (and can be seen as a semipublic 
+good). The persons receiving education do, of course, benefit from it, 
+,
+
+
+
+--- [Book Page 129 | PDF Page 146] ---
+
+I 
+I 
+Markets, State and Social Opportunity 
+I 29 
+but in addition a general expansion of education and literacy in a 
+region can facilitate social change (even the reduction of fertility and 
+mortality, as will be discussed more fully in chapters 8 and 9) and 
+also help to enhance economic progress from which others too bene 
+fit. The effective reach of these services may require cooperative 
+activities and provisioning by the state or the local authorities. 
+Indeed, the state has typically played a major role in the expansion of 
+basic education across the world. The rapid spread of literacy in the 
+past history of the rich countries of today (both in the West and in 
+Japan and the rest of East Asia) has drawn on the low cost of public 
+education combined with its shared public benefits. 
+It is in this context rather remarkable that some market enthusi­
+asts recommend now to the developing countries that they should 
+rely fully on the free market even for basic education-thereby with­
+holding from them the very process of educational expansion that 
+was crucial in rapidly spreading literacy in Europe, North America, 
+Japan, and East Asia in the past. The alleged followers of Adam 
+Smith can learn something from his writings on this subject, includ­
+ing his frustration at the parsimony of public expenditure in the field 
+of education: 
+For a very small expence the publick can facilitate, can 
+encourage, and can even impose upon almost the whole body 
+of the people, the necessity of acquiring those most essential 
+parts of education. 41 
+The "public goods" argument for going beyond the market 
+mechanism supplements the case for social provisioning that arises 
+from the need of basic capabilities, such as elementary health care 
+and basic educational opportunities. Efficiency considerations thus 
+supplement the argutnent for equity in supporting public assistance 
+in providing basic education, health facilities and other public (or 
+semipublic) goods. 
+PUBLIC PROVISIONING AND INCENTIVES 
+While these considerations provide good grounds for public expendi­
+ture in the areas crucial for economic development and social change, 
+there are contrary arguments that must also be considered in the 
+
+
+
+--- [Book Page 130 | PDF Page 147] ---
+
+I30 
+DEVELOPMENT 
+AS 
+FREEDOM 
+same context. One issue is that of the :fiscal burden of public expen­
+diture, which can be quite large, depending on how much is planned 
+to be done. The fear of budget deficits and inflation (and generally of 
+"macroeconomic instability"} tends to haunt contemporary discus­
+sions of economic policy, and this is indeed a momentous issue. 
+Another issue is that of incentives, and the effects that a system of 
+public support may have in discouraging initiative and distorting 
+individual efforts. Both these issues-the need for fiscal prudence and 
+the importance of incentives-deserve serious attention. I begin with 
+the latter, and will come back thereafter to fiscal burden and its 
+consequences. 42. 
+Any pure transfer-the redistribution of income or the free pro­
+vision of a public service-can potentially have an effect on the 
+incentive system of the economy. For example, it has been argued 
+particularly strongly that generous unemployment insurance can 
+weaken the resolve of the jobless to find employment, and that it has 
+actually done so in Europe. Given the obvious equity argument for 
+such insurance, there may be a difficult issue here if the potential con­
+flict proves to be real and quantitatively substantial. However, since 
+employment is sought for various reasons-not just to receive an 
+income-the partial replacement of the lost wage by public support 
+may not, in fact, be as much of a disincentive against seeking employ­
+ment as it is sometimes presumed. Indeed, the reach and magnitude 
+of the disincentive effects of unemployment insurance are far from 
+clear. Nevertheless, it is a matter for empirical examination to ascer­
+tain how strong the adverse incentive effects may actually be, in 
+order to facilitate informed public discussion of these important mat­
+ters of public policy, including the choice of an appropriate balance 
+between equity and efficiency. 
+In most of the developing countries there are few provisions for 
+unemployment insurance in generaL But the incentive problem is not 
+absent for that reason. Even for free medical care and health services, 
+or free educational facilities, questions can be raised regarding (I) the 
+extent of the need for these services by the recipients and ( 2) the 
+extent to which the person could have afforded to pay for these ser­
+vices himself (and might have done so in the absence of free public 
+provisioning). Those who see entitlement to these basic social provi­
+sions (medical attention, education and so on} as an inalienable right 
+
+
+
+--- [Book Page 131 | PDF Page 148] ---
+
+Markets, State and Social Opportunity 
+I 3 I 
+of citizens would tend to see this kind of questioning as wrongheaded 
+and even perhaps as a distressing denial of the normative principles 
+of a contemporary "society." That position is certainly defendable up 
+to a point, but given the limitation of economic resources, there are 
+serious choices involved here, which cannot be altogether neglected 
+on grounds of some pre-economic "social" principle. At any rate, the 
+incentive issue has to be addressed if only because the extent of social 
+support that a society would be able to provide must depend in part 
+on costs and incentives. 
+INCENTIVES, CAPABILITIES AND FUNCTIONINGS 
+The basic problem of incentives is hard to overcome completely. It is, 
+in general, quite hopeless to look for some indicators that are both 
+relevant for identifying deprivation and-when used as the basis of 
+public support-would not lead to any incentive effects. However, 
+the extent of the incentive effects can vary with the nature and form 
+of the criteria used. 
+The informational focus of poverty analysis in this work has 
+involved a shift in attention from low income to deprivation of basic 
+capabilities. The central argument for this shift is fundamental rather 
+than strategic. I have argued that capability deprivation is more 
+important as a criterion of disadvantage than is the lowness of 
+income, since income is only instrumentally important and its deriva­
+tive value is contingent on many social and economic circumstances. 
+That argument can now be supplemented by the suggestion that 
+focusing on capability deprivation has some advantage in preventing 
+incentive distortions compared with working with lowness of income 
+as a criterion for transfer and subsidy. This instrumental argument 
+only adds to the fundamental reason for focusing on capabilities. 
+The assessment of capabilities has to proceed primarily on the 
+basis of observing a person's actual functionings, to be supplemented 
+by other information. There is a jump here (from functionings to 
+capabilities), but it need not be a big jump, if only because the valu­
+ation of actual functionings is one way of assessing how a person val­
+ues the options she has. If a person dies prematurely or suffers from 
+a painful and threatening disease, it would be, in most cases, legiti­
+mate to conclude that she did have a capability problem. 
+
+
+
+--- [Book Page 132 | PDF Page 149] ---
+
+132 
+DEVELOPMENT 
+AS 
+FREEDOM 
+Of course, in some cases, this will not be true. For example, a per­
+son may commit suicide. Or she may starve not out of necessity, but 
+because of a decision to fast. But these a.re relatively rare occurrences, 
+and can be analyzed on the basis of supplementary information, 
+which would relate, in the case of fasting, to religious practices, or 
+political strategies, or such other reasons for fasting. In principle, it is 
+right to go beyond chosen functionings to assess a person's capabil­
+ity, but how far one would be able to go would depend on circum­
+stances. Public policy, like politics, is the art of the possible, and this 
+is important to bear in mind in combining theoretical insights with 
+realistic readings of practical feasibility. What is, however, important 
+to emphasize is that even with the informational focus confined to 
+functionings (longevity, health status, literacy and so on), we get a 
+more instructive measure of deprivation than we can from income 
+statistics alone. 
+There are, of course, problems even in observing functioning 
+achievements of some kinds. But some of the more basic and elemen­
+tary ones are more amenable to direct observation, and frequently 
+enough provide useful informational bases for antideprivation poli­
+cies. The informational bases for seeing the need for literacy cam­
+paigns, hospital services and nutritional supplementation need not be 
+particularly obscure.43 Furthermore, these needs and handicaps may 
+be less open to strategic distortion than the handicap of low income, 
+since income is often easy to hide, especially in most developing 
+countries. If governmental grants were to be given to people on the 
+ground of their poverty alone (leaving them to pay for medical care, 
+educational facilities and so on out of their own incomes), there is 
+likely to be considerable information manipulation. The focus on 
+functionings and capabilities (extensively used in this work) tends to 
+reduce the difficulties of incentive compatibility. Why so? 
+First, people may typically be reluctant to refuse education, foster 
+illnesses or cultivate undernourishment on purely tactical grounds. 
+The priorities of reasoning and choice tend to militate against 
+deliberately promoting these elementary deprivations. There are, of 
+course, exceptions. Among the most distressing accounts of famine 
+relief experiences are occasional reports of some parents keeping one 
+child in the family thoroughly famished so that the family qualifies to 
+get nutritional support (e.g., in the form of take-home food rations)-
+
+
+
+--- [Book Page 133 | PDF Page 150] ---
+
+Markets, State and Social Opportunity 
+I 3 3 
+treating the child, as it were, as a meal ticket.44 But in general such 
+incentive effects in keeping people undernourished, or untreated, 
+or illiterate are relatively rare, for reasons that are not altogether 
+astonishing. 
+Second, the causal factors underlying some functional depriva­
+tions can go much deeper than income deprivation and may be very 
+hard to adjust for purely tactical reasons. For example, physical dis­
+abilities, old age, gender characteristics and the like are particularly 
+serious sources of capability handicap because they are beyond the 
+control of the persons involved. And for much the same reason, they 
+are not open to incentive distortions in the way that adjustable fea­
+tures are. This limits the incentive distortions of subsidies targeted on 
+these features. 
+Third, there is also the somewhat larger issue that the recipients 
+themselves tend to pay more attention to functionings and capabili­
+ties achieved (and the quality of life that goes with them) than to just 
+earning more money, and in this way public policy assessment that is 
+done in terms of variables closer to the decisional concerns of indi­
+viduals may be able to use personal decisions as selection devices. 
+This question relates to the use of self-selection in providing public 
+assistance, with requirement of work and effort, as is frequently 
+practiced in providing famine relief. Only those who are destitute 
+and need money strongly enough to be willing to work reasonably 
+hard for it will volunteer to take up the open opportunities of 
+employment (often at a somewhat low wage}, which constitute a 
+widely used form of public relie£.45 This type of targeting has been 
+used very successfully in providing famine prevention, and can have 
+a wider role in enhancing the economic opportunities of the able­
+bodied deprived population.46 The rationale of this approach lies 
+in the fact that the potential recipients' choices are governed by con­
+siderations that are broader than maximization of income earned. 
+Since the individuals involved focus more on overall opportunities 
+(including the human cost of effort as well as the benefit from extra 
+income), public policy making can make intelligent use of this 
+broader concern. 
+Fourth, the refocusing of attention from low personal incomes to 
+capability handicaps also points directly to the case for greater em­
+phasis on direct public provisioning of such facilities as health services 
+
+
+
+--- [Book Page 134 | PDF Page 151] ---
+
+I34 
+DEVELOPMENT 
+AS 
+FREEDOM 
+and educational programs. 47 These services are typically nonshiftable 
+and nonsalable, and of not much use to a person unless he or she 
+actually happens to need them. There is some "built-in matching" in 
+such provisioning.48 And this feature of capability-directed provi­
+sioning makes targeting easier by reducing the scope for incentive 
+distortions. 
+TARGETING AND MEANS .. TESTING 
+However, despite these advantages, the decision to target capability 
+handicaps rather than low income does not, in itself, eliminate the 
+need to judge the economic poverty of the potential recipients} since 
+there is also the further issue of how the public provisions should be 
+distributed. There is, in particular, the issue of charging for the pub­
+lic services according to the ability to pay, which would bring back 
+the need for ascertaining the income of the potential recipient. 
+The provisioning of public services has increasingly moved in the 
+direction of means-testing, across the world. The case for this is easy 
+to understand, at least in principle. It reduces the fiscal burden, and 
+the same amount of public funds can be stretched much further in 
+covering the economically needy if the relatively affluent can be made 
+to pay for the benefits they receive (or induced to make a significant 
+contribution to the costs involved). What is more difficult to ensure 
+is that the means be effectively tested with acceptable accuracy, with­
+out leading to other, adverse effects. 
+We must distinguish clearly between two different incentive prob­
+lems in providing health care or education on the bas.is of means­
+testing, related respectively to the information regarding (I) a person's 
+capability handicap (for example, her physical illness) and (2) her 
+economic circumstances {and her ability to pay). As far as the first 
+problem is concerned, the form and fungibility of the help provided 
+can make a significant difference. As was discussed earlier, when 
+social support is given on the basis of direct diagnosis of a specific 
+need (for example, after checking that a person is suffering from 
+some particular illness) and when it is provided free in the form of 
+specific and nontransferable services {such as being medically treated 
+for that ailment), the possibility of informational distortion of the 
+first kind would be substantially reduced. There is a contrast here 
+with providing fungible money for financing medical treatment, 
+
+
+
+--- [Book Page 135 | PDF Page 152] ---
+
+I 
+I 
+' 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+i 
+' 
+I 
+I 
+I 
+I 
+Markets, State and Social Opportunity 
+r 3 5 
+which would require more indirect scrutiny. On this score, the direct­
+service programs such as health care and school education are less 
+open to abuse. 
+But the second issue is quite different. If the intention is to provide 
+free service for the poor but not for those who can afford to pay, 
+there is the further issue of checking the person's economic circum­
+stances. This can be particularly problematic especially in countries 
+where information on income and wealth is hard to elicit. The Euro­
+pean formula of targeting the capability handicap without means­
+testing, in providing medical coverage, has tended to take the form of 
+a general national health service-open to all who need those medi­
+cal services .. This makes the informational task easier, but does not 
+address the rich-poor division. The American formula of Medicaid 
+targets both (at a more modest level}, and has to cope with both the 
+informational challenges. 
+Since the potential beneficiaries are also agents of action, the art 
+of "targeting" is far less simple than some advocates of meanstesting 
+tend to assume. It is important to take note of the problems involved 
+in :finewtuned targeting in general and means-testing in particular, 
+especially since the case for such targeting is, in principle, quite 
+strong and cogent. The possible distortions that may result from 
+attempts at ambitious targeting include the following:49 
+r} 
+Infot·mation distortion: Any policing system that tries to 
+catch the "cheats" who understate their financial circumstances 
+would make mistakes from time to time and disqualify some bona 
+fide cases. No less important, it would discourage some who are 
+genuinely qualified (to receive the intended benefits) from applying 
+for the benefits to which they are entitled. Given the asymmetry of 
+information, it is not possible to eliminate cheating without putting 
+some of the honest beneficiaries at considerable risk.so In trying to 
+eliminate the "type I" error of including the non-needy among the 
+needy, serious 'type 2 >> errors of not including some really needy 
+people among the listed needy would very likely be committed. 
+2) 
+Incentive distortion: Informational distortion cooks the books, 
+but does not, on its own, alter the underlying real economic situa­
+tion. But targeted support can also affect people's economic behavior. 
+For example, the prospect of losing the support if one were to earn 
+too much can be a deterrent for economic activities. It would be 
+
+
+
+--- [Book Page 136 | PDF Page 153] ---
+
+I36 
+DEVELOPMENT 
+AS 
+FREEDOM 
+natural to expect that there would be some significant distorting 
+shifts if the qualification for the support is based on a variable {such 
+as income) that is freely adjustable through changing one's economic 
+behavior. The social costs of behavioral shifts must include, among 
+other things, the loss of the fruits of economic activities forgone. 
+3) 
+Disutility and stigma: A system of support that requires a 
+person to be identified as poor (and is seen as a special benefaction 
+for those who cannot fully fend for themselves) would tend to have 
+some effects on one's self-respect as well as on respect by others. This 
+may distort the seeking of help, but also there are direct costs and 
+losses involved in feeling-and being-stigmatized . Since the matter 
+of self-respect is often taken by policy leaders to be of rather mar­
+ginal interest (and considered to be a rather "genteeP' concern), I 
+take the liberty of referring to John Rawls's argument that self­
+respect is "perhaps the most important primary good'' on which a 
+theory of justice as fairness has to concentrate.5:r 
+4) 
+Administrative costs# invasive loss and corruption: The pro­
+cedure of targeting can involve substantial administrative costs-in 
+the form of both resource expenditures and bureaucratic delays­
+and also losses of individual privacy and autonomy involved in the 
+need for extensive disclosure and the associated program of investi­
+gation and policing. There are, furthermore, social costs of asymmet­
+rical power that the potentates of bureaucracy enjoy vis-a-vis the 
+supplicating applicants. And, it should be added, there is greater pos­
+sibility of corruption here since the potentates acquire, in a targeting 
+system, the power to bestow benefits for which the beneficiaries may 
+be willing to make a facilitating payment. 
+5) 
+Political sustainability and quality: The beneficiaries of tar­
+geted social support are often quite weak politically and may lack the 
+clout to sustain the programs in political jostling, or to maintain the 
+quality of the services offered. In the United States, this consideration 
+has been the basis of some well-known arguments for having "uni­
+versal" programs, which would receive wider support, rather than 
+heavily targeted ones confined only to the poorest.52 Something of 
+this argument cannot but relate to the poorer countries as well. 
+The point of outlining these difficulties is not to suggest that tar­
+geting must be pointless or always problematic, but only to note that 
+
+
+
+--- [Book Page 137 | PDF Page 154] ---
+
+Markets, State and Social Opportunity 
+r 3 7 
+there are considerations that run counter to the simple argument for 
+maximal targeting. Targeting is, in fact, an attempt-not a result. 
+Even when successfully targeted outcomes would be just right, it does 
+not necessarily follow that attempts in the form of targeted programs 
+would produce those outcomes. Since the case for means-testing and 
+for heavy targeting has gained so much ground recently in public 
+circles (based on rather elementary reasoning), the messiness and the 
+disincentive effects of the proposed policy are also worth emphasizing. 
+AGENCY AND INFORMATIONAL BASIS 
+It would be rather hopeless to try to get a case for a universal 
+endorsement or a universal rejection of means-testing on the basis of 
+very general arguments, and the relevance of the preceding discussion 
+lies mainly in pointing to the contrary arguments that exist side by 
+side with the arguments in favor of fine-tuned means-testing. In prac­
+tice, in this field (as in many others already considered), compromises 
+would have to be made. In a general work of this kind, it would be 
+a mistake to look for some particular "formula" for an optimum 
+compromise. The right approach would have to be sensitive to the 
+circumstances involved-both the nature of the public services to be 
+offered and the characteristics of the society to which they are to 
+be offered. The latter must include the hold of behavioral values of 
+different kinds, which influence individual choices and incentives. 
+However, the basic issues confronted here are of some general 
+interest for the main approach of this book, and involve both the 
+importance of agency (seeing people as agents rather than as patients) 
+and the informational focus on capability deprivation (rather than 
+only on income poverty). The first question relates to the need, empha­
+sized throughout this work, to see people-even beneficiaries-as 
+agents rather than as motionless patients. The objects of "targeting" 
+are active themselves, and their activities can make the targeting­
+achievements quite different from targeting-attempts (for reasons 
+already discussed). 
+The second question relates to the informational aspects of tar­
+geting; these include the identifiability of the characteristics relevant 
+for the chosen system of allocation. Here the shift in attention from 
+just income poverty to the deprivation of capabilities helps the task 
+
+
+
+--- [Book Page 138 | PDF Page 155] ---
+
+I38 
+DEVELOPMENT 
+AS 
+FREEDOM 
+of identifiability. While means-testing still requires that incomes and 
+the ability to pay be identified, nevertheless the other part of the exer­
+cise is helped by the direct diagnosis of capability handicap (such as 
+being ill or illiterate). This is a part-an important part-of the infor­
+mation task of public provisioning. 
+FINANCIAL PRUDENCE AND NEED FOR INTEGRATION 
+I turn now to the problem of financial prudence, which has become a 
+major concern across the world in recent decades. The demands for 
+conservatism in finance are very strong now, since the disruptive 
+effects of excessive inflation and instability have come to be widely 
+studied and discussed .  Indeed, finance is a subject in which conser­
+vatism has some evident merit, and prudence in this field can easily 
+take a conservative form .. But we have to be clear as to what financial 
+conservatism demands and why. 
+The point of financial conservatism is not so much the apparently 
+conspicuous merit of "living within one's means," even though that 
+rhetoric has much appeal. As Mr. Micawber put it rather eloquently 
+in Charles Dickens's David Copperfield: "Annual income twenty 
+pounds, annual expenditure nineteen six, result happiness. Annual 
+income twenty pounds, annual expenditure twenty pounds ought six, 
+result misery." The analogy with personal solvency has been power­
+fully used by many financial conservatives, perhaps most eloquently 
+by Margaret Thatcher. This argument does not, however, provide a 
+clear rule for state policy. Unlike Mr. Micawber, a state can continue 
+to spend more than it earns, through borrowing and other means. In 
+fact, nearly every state does so nearly all the time. 
+The real issue is not whether this can be done (it certainly can 
+be), but what the effects of financial overspending might be. The 
+basic issue to be faced, therefore, is the consequential importance of 
+what is sometimes called "macroeconomic stability," in particular 
+the absence of serious inflationary pressure. The case for financial 
+conservatism lies, to a great extent, in the recognition that price 
+stability is important and that it can be deeply threatened by fiscal 
+indulgence and irresponsibility. 
+What evidence do we have about the pernicious effects of infla­
+tion? In a powerful critical survey of international experiences in this 
+
+
+
+--- [Book Page 139 | PDF Page 156] ---
+
+Markets, State and Social Opportunity 
+r 3 9 
+area, Michael Bruno notes that "several recorded episodes of moder­
+ate inflation (20-40 percent [price rise per year]) and most instances 
+of higher rates of inflation (of which there have been a substantial 
+number) suggest that high inflation goes together with significant 
+negative growth effects." And, "conversely, the cumulative evidence 
+suggests that sharp stabilization from high inflation brings very 
+strong positive growth effects over even the short to medium run." 53 
+The policy conclusion to be drawn here requires some subtlety. 
+Bruno also finds that "the growth effects of inflation are at best 
+obscure at low rates of inflation (less than I 5-20 percent annually)., 
+He goes on to ask the question: "why worry about low rates of infla­
+tion, especially if the costs of anticipated inflation can be avoided (by 
+indexation) and those of unanticipated inflation seem to be low?''H 
+Bruno also points out that "while the root of all high inflations 
+is a financial deficit (and often, though not always, the monetary 
+finance of it), this in turn can be consistent with multiple inflationary 
+equilibria." 
+The real problem lies in the fact that "inflation is an inherently 
+persistent process and, moreover, the degree of persistence tends to 
+increase with the rate of inflation.,, Bruno presents a clear picture of 
+how such acceleration of inflation takes place, and makes the lesson 
+graphic with an analogy: "chronic inflation tends to resemble smok­
+ing: once you [are] beyond a minimal number it is very difficult to 
+escape a worsening addiction." In fact, "when shocks occur (e.g. a 
+personal crisis for a smoker, a price crisis for an economy) there is 
+great chance that the severity of the habit .. . will jump to a new, 
+higher level that persists even after the shock has abated," and this 
+process can repeat itself.ss 
+This is a quintessentially conservative argument, and a very per­
+suasive one it is, based as it is on a rich set of international compari­
+sons. I have no difficulty in endorsing both the analysis and the 
+conclusions drawn by Michael Bruno. What is, however, important 
+to do is to keep track of exactly what has been established and also 
+to see what the demand of financial conservatism really is. It is, in 
+particular, not a demand for what I would call the anti-inflationary 
+radicalism that is often confused with financial conservatism. The 
+case made is not for eliminating inflation altogether-irrespective of 
+what has to be sacrificed for that end. Rather, the lesson is to keep in 
+
+
+
+--- [Book Page 140 | PDF Page 157] ---
+
+I40 
+DEVELOPMENT 
+AS 
+FREEDOM 
+view the likely costs of tolerating inflation against the costs of reduc­
+ing it, or of eliminating it altogether. The critical issue is to a void the 
+''dynamic instability" that even seemingly stable chronic inflation 
+tends to have, if it is above a low figure. The policy lesson that Bruno 
+draws is: "The combination of costly stabilization at low rates 
+of inflation and the upward bias of inflationary persistence provide 
+a growth-cost related argument for keeping inflation low even 
+though the large growth costs seem to be directly observed only at 
+higher inflations." 56 The thing to avoid, in this argument, is not just 
+high inflation, but-because of dynamic instability-even moderate 
+inflation. 
+However, radicalism in the cause of zero inflation does not emerge 
+here either as particularly wise, or even as the appropriate reading of 
+the demands of financial conservatism. The ''clouding" of distinct 
+issues is seen clearly enough in the ongoing fixation with balancing 
+the budget in the United States, which resulted not long ago in par­
+tial shutdowns of the U.S. government (and threats of more extensive 
+closures). This has led to an uneasy compromise between the White 
+House and the Congress-a compromise the success of which is 
+rather contingent on the short-run performance of the U .S. economy. 
+Anti-deficit radicalism has to be distinguished from genuine financial 
+conservatism. There is indeed a strong case for reducing the large 
+budget deficits that are seen in many countries in the world (often 
+made worse by huge burdens of national debt and high rates of its 
+escalation). But this argument must not be confused with the extrem­
+ism of trying to eliminate budget deficits altogether with great rapid­
+ity (no matter what the social cost of this might be). 
+Europe has much more reason to be concerned about budget 
+deficits than the United States has. For one thing, the U.S. budget 
+deficits have been, for many years now, moderate enough to be below 
+the "norms" set up by the Maastricht Agreement for the European 
+Monetary Union (a budget deficit of no more than 3 percent of gross 
+domestic product). There seems to be no deficit at all, at this time. In 
+contrast, most of the European countries had-and still have rather 
+substantial deficits. It is appropriate that several of these countries 
+are currently making determined attempts to cut the levels of these 
+large deficits (Italy has provided an impressive example of this in 
+recent years). 
+
+
+
+--- [Book Page 141 | PDF Page 158] ---
+
+Markets, State and Social Opportunity 
+I 4 I 
+If there is a question to be raised still, this concerns the overall pri­
+orities of European policies-an issue that was discussed earlier, in 
+chapter 4· The point at issue is whether it makes sense to give 
+absolute priority to one objective only, viz., the avoidance of inflation 
+(a priority formalized by many central banks in Western Europe), 
+while tolerating remarkably high rates of unemployment. If the 
+analysis presented in this book is right, the making of public policy in 
+Europe has to give real priority to eliminating the capability depriva­
+tion that severe unemployment entails. 
+Financial conservatism has good rationale and imposes strong 
+requirements, but its demands must be interpreted in the light of the 
+overall objectives of public policy. The role of public expenditure in 
+generating and guaranteeing many basic capabilities calls for atten­
+tion; it must be considered along with the instrumental need for 
+macroeconomic stability. Indeed, the latter need must be assessed 
+within a broad framework of social objectives. 
+Depending on the particular context, different public policy issues 
+may end up being critically important. In Europe, it could be the nas­
+tiness of massive unemployment (close to I 2 percent for several 
+major countries). In the United States, a crucial challenge is presented 
+by the absence of any kind of medical insurance or secure coverage 
+for very large numbers of people (the United States is alone among 
+the rich countries in having this problem, and furthermore, the medi­
+cally uninsured number more than forty million). In India, there is a 
+massive failure of public policy in the extreme neglect of literacy (half 
+the adult population-and two-thirds of adult women-are still illit­
+erate). In East Asia and Southeast Asia, it looks increasingly as if the 
+financial system requires extensive regularization, and there also 
+seems to be a need for a preventive system that can counteract sud­
+den losses of confidence in a country's currency or investment oppor­
+tunities (as is brought out by the recent experiences of these countries, 
+which had to seek gigantic bailout operations by the International 
+Monetary Fund). The problems are different, and given their com­
+plexity, each calls for a serious examination of the objectives and 
+instruments of public policy. The need for financial conservatism­
+important as it is-fits into this diverse and broad picture, and can­
+not stand on its own-in solitary isolation-as the commitment of 
+the government or of the central bank. The need for scrutiny and 
+
+
+
+--- [Book Page 142 | PDF Page 159] ---
+
+I42 
+DEVELOPMENT 
+AS 
+FREEDOM 
+comparative assessment of alternative fields of public expenditure is 
+altogether crucial. 
+CONCLUDING REMARKS 
+Individuals live and operate in a world of institutions. Our opportu­
+nities and prospects depend crucially on what institutions exist and 
+how they function. Not only do institutions contribute to our free­
+doms, their roles can be sensibly evaluated in the light of their contri­
+butions to our freedom. To see development as freedom provides a 
+perspective in which institutional assessment can systematically occur. 
+Even though different commentators have chosen to focus on par­
+ticular institutions (such as the market, or the democratic system, or 
+the media, or the public distribution system), we have to view them 
+together, to be able to see what they can or cannot do in combination 
+with other institutions. It is in this integrated perspective that the dif­
+ferent institutions can be reasonably assessed and examined. 
+The market mechanism, which arouses passion in favor as well as 
+against, is a basic arrangement through which people can interact 
+with each other and undertake mutually advantageous activities. In 
+this light, it is very hard indeed to see how any reasonable critic could 
+be against the market mechanism, as such. The problems that arise 
+spring typically from other sources-not from the existence of mar­
+kets per se-and include such concerns as inadequate preparedness 
+to make use of market transactions, unconstrained concealment of 
+information or unregulated use of activities that allow the powerful 
+to capitalize on their asymmetrical advantage. These have to be 
+dealt with not by suppressing the markets, but by allowing them to 
+function better and with greater fairness, and with adequate supple­
+mentation. The overall achievements of the market are deeply con­
+tingent on political and social arrangements. 
+The market mechanism has achieved great success under those 
+conditions in which the opportunities offered by them could be rea­
+sonably shared. In making this possible, the provision of basic edu­
+cation, the presence of elementary medical facilities, the availability 
+of resources (such as land) that can be crucial to so_e economic 
+activities (such as agriculture) call for appropriate public policies 
+(involving schooling, health care, land reform and so on). Even when 
+
+
+
+--- [Book Page 143 | PDF Page 160] ---
+
+Markets, State and Social Opportunity 
+14 3 
+the need for "economic reform" in favor of allowing more room for 
+markets is paramount, these nonmarket facilities require careful and 
+determined public action. 
+In this chapter-and in earlier ones-various examples of this 
+complementarity have been considered and examined. The efficiency 
+contributions of the market mechanism can hardly be doubted, and 
+traditional economic results, in which efficiency is judged by pros­
+perity or opulence or utility, can be extended to efficiency in terms of 
+individual freedoms as well. But these efficiency results do not, on 
+their own, guarantee distributional equity. The problem can be par­
+ticularly large in the context of inequality of substantive freedoms, 
+when there is a coupling of disadvantages (such as the difficulty of a 
+disabled or an untrained person to earn an income being reinforced 
+by her difficulty in making use of income for the capability to live 
+well). The far-reaching powers of the market mechanism have to be 
+supplemented by the creation of basic social opportunities for social 
+equity and justice. 
+In the context of developing countries in general, the need for 
+public policy initiatives in creating social opportunities is crucially 
+important. As was discussed earlier, in the past of the rich countries 
+of today we can see quite a remarkable history of public action, deal­
+ing respectively with education, health care, land reforms and so on. 
+The wide sharing of these social opportunities made it possible for 
+the bulk of the people to participate directly in the process of eco-
+• 
+• 
+nom1c expanston. 
+The real problem here is not the need for financial conservatism in 
+itself, but the underlying-and often unargued-belief that has been 
+dominant in some policy circles that human development is really a 
+kind of luxury that only richer countries can afford. Perhaps the most 
+important impact of the type of success that the East Asian econo­
+mies have recently had (beginning with Japan-decades earlier) is the 
+total undermining of that implicit prejudice. These economies went 
+comparatively early for massive expansion of education, and later 
+also of health care, and this they did, in many cases, before they 
+broke the restraints of general poverty.s7 And despite the financial 
+turmoil that some of these economies have recently experienced, 
+their overall achievements over the decades have typically been quite 
+remarkable. As far as human resources are concerned, they have reaped 
+
+
+
+--- [Book Page 144 | PDF Page 161] ---
+
+I44 
+DEVELOPMENT 
+AS 
+FREEDOM 
+as they have sown. Indeed, the priority to human resource develop­
+ment applies particularly to the early history of Japanese economic 
+development, beginning with the Meiji era in the mid-nineteenth cen­
+tury. That priority has not really intensified as Japan has grown 
+richer and much more opulent.s8 Human development is first and 
+foremost an ally of the poor, rather than of the rich and the affluent. 
+What does human development do? The creation of social op­
+portunities makes a direct contribution to the expansion of human 
+capabilities and the quality of life (as has already been discussed). 
+Expansion of health care, education, social security, etc., contribute 
+directly to the quality of life and to its flourishing. There is every evi­
+dence that even with relatively low income, a country that guarantees 
+health care and education to all can actually achieve remarkable results 
+in terms of the length and quality of life of the entire population. The 
+highly labor-intensive nature of health care and basic education-and 
+human development in general-makes them comparatively cheap in 
+the early stages of economic development, when labor costs are low. 
+The rewards of human development go, as we have seen, well 
+beyond the direct enhancement of quality of life, and include also its 
+impact on people's productive abilities and thus on economic growth 
+on a widely shared basis.s9 Literacy and numeracy help the partici­
+pation of the masses in the process of economic expansion (well illus­
+trated from Japan to Thailand). To use the opportunities of global 
+trade, "quality control" as well as "production to specification" can 
+be quite crucial, and they are hard for illiterate or innumerate labor­
+ers to achieve and maintain. Furthermore, there is considerable evi­
+dence that improved health care as well as nutrition also make the 
+workforce more productive and better remunerated. 6o 
+On a different subject, there is much confirmation, in the contem­
+porary empirical literature, of the impact of education, especially 
+female education, on reducing fertility rates. High fertility rates can 
+be seen, with much justice, as adverse to the quality of life, especially 
+of young women, since recurrent bearing and rearing of children can 
+be very detrimental to the well-being and freedom of the young 
+mother. Indeed, it is precisely this connection that makes the empow­
+erment of women (through more outside employment, more school 
+education and so on) so effective in reducing fertility rates, since 
+young women have a strong reason for moderating birthrates, and 
+
+
+
+--- [Book Page 145 | PDF Page 162] ---
+
+Markets, State and Social Opportunity 
+I 4 5 
+their ability to influence family decisions increases with their empow­
+erment. I shall come back to this issue in chapters 8 and 9· 
+. 
+Those who see themselves as financial conservatives sometimes 
+express skepticism about human development. There is, however, 
+little rational basis for that inference. The benefits of human devel­
+opment are manifest, and can be more fully accounted by taking an 
+adequately comprehensive view of its overall impact. Cost con­
+sciousness can help to direct human development in channels that are 
+more productive 
+directly and indirectly-of the quality of life, but 
+it does not threaten its imperative interest. 61 
+Indeed, what really should be threatened by financial conser­
+vatism is the use of public resources for purposes where the social 
+benefits are very far from clear, such as the massive expenditures that 
+now go into the military in one poor country after another (often 
+many times larger than the public expenditure on basic education or 
+health care).6'- Financial conservatism should be the nightmare of the 
+militarist, not of the schoolteacher or the hospital nurse. It is an indi­
+cation of the topsy-turvy world in which we live that the school­
+teacher or the nurse feels more threatened by financial conservatism 
+than does the army general. The rectification of this anomaly calls 
+not for the chastising of financial conservatism, but for more prag­
+matic and open-minded scrutiny of rival claims to social funds. 
+
+
+
+--- [Book Page 146 | PDF Page 163] ---
+
+CHAPTER 
+6 
+THE IMPORTANCE OF DEMOCRACY 
+Bordering on the Bay of Bengal, at the southern edge of Bangladesh 
+and of West Bengal in India, there is the Sundarban-which means 
+"beautiful forest." That is the natural habitat of the famous Royal 
+Bengal tiger, a magnificent animal with grace, speed, power, and 
+some ferocity. Relatively few of them are left now, but the surviv­
+ing tigers are protected by a hunting ban. The Sundarban is also fa­
+mous for the honey it produces in large clusters of natural beehives. 
+The people who live in the region, desperately poor as they are, go 
+into the forests to collect the honey, which fetches quite a handsome 
+price in the urban markets-maybe even the rupee equivalent of 
+fifty U.S. cents per bottle. But the honey collectors also have to 
+escape the tigers. In a good year, only about fifty or so honey gather­
+ers are killed by tigers, but that number can be very much higher 
+when things don,t go so well. While the tigers are protected, noth­
+ing protects the miserable human beings who try to make a living 
+by working in those woods, which are deep and lovely-and quite 
+perilous. 
+This is just one illustration of the force of economic needs in many 
+third world countries. It is not hard to feel that this force must out­
+weigh other claims, including those of political liberty and civil 
+rights. If poverty drives human beings to take such terrible risks­
+and perhaps to die terrible deaths-for a dollar or two of honey, it 
+might well be odd to concentrate on their liberty and political free­
+doms. Habeas corpus may not seem like a communicable concept in 
+that context. Priority must surely be given, so the argument runs, to 
+fulfilling economic needs, even if it involves compromising political 
+
+
+
+--- [Book Page 147 | PDF Page 164] ---
+
+The Importance of Democracy 
+I47 
+liberties. It is not hard to think that focusing on democracy and 
+political liberty is a luxury that a poor country "cannot afford." 
+ECONOMIC NEEDS AND POLITICAL FREEDOMS 
+Views such as these are presented with much frequency in interna­
+tional discussions. Why bother about the finesse of political freedoms 
+given the overpowering grossness of intense economic needs? That 
+question, and related ones reflecting doubts about the urgency of 
+political liberty and civil rights, loomed large at the Vienna confer­
+ence on human rights held in the spring of I993, and delegates from 
+several countries argued against general endorsement of basic politi­
+cal and civil rights across the globe, in particular in the third world. 
+Rather, the focus would have to be, it was argued, on "economic 
+rights" related to important material needs. 
+This is a well established line of analysis, and it was advocated 
+forcefully in Vienna by the official delegations of a number of devel­
+oping countries, led by China, Singapore and other East Asian coun­
+tries, but not opposed by India and the other South Asian and West 
+Asian countries, nor by African governments. There is, in this line 
+of analysis, the often repeated rhetoric: What should come first­
+removing poverty and misery, or guaranteeing political liberty and 
+civil rights, for which poor people have little use anyway? 
+THE PREEMINENCE OF POLITICAL 
+FREEDOMS AND DEMOCRACY 
+Is this a sensible way of approaching the problems of economic needs 
+and political freedoms-in terms of a basic dichotomy that appears 
+to undermine the relevance of political freedoms because the eco­
+nomic needs are so urgent?I I would argue, no, this is altogether the 
+wrong way to see the force of economic needs, or to understand 
+the salience of political freedoms. The real issues that have to be 
+addressed lie elsewhere, and they involve taking note of extensive 
+interconnections between political freedoms and the understanding 
+and fulfillment of economic needs. The connections are not only 
+instrumental (political freedoms can have a major role in providing 
+incentives and information in the solution of acute economic needs), 
+
+
+
+--- [Book Page 148 | PDF Page 165] ---
+
+148 
+DEVELOPMENT 
+AS 
+FREEDOl\11 
+but also constructive. Our conceptualization of economic needs de­
+pends crucially on open public debates and discussions, the guaran­
+teeing of which requires insistence on basic political liberty and civil 
+rights. 
+I shall argue that the intensity of economic needs adds to-rather 
+than subtracts from-the urgency of political freedoms. There are 
+three different considerations that take us in the direction of a gen­
+eral preeminence of basic political and liberal rights: 
+I) 
+their direct importance in human living associated with basic 
+capabilities (including that of political and social participation); 
+2) 
+their instrumental role in enhancing the hearing that people 
+get in expressing and supporting their claims to political attention 
+(including the claims of economic needs); 
+3) 
+their constructive role in the conceptualization of "needs" (in 
+eluding the understanding of ''economic needs" in a social context). 
+These different considerations will be discussed presently, but first 
+we have to examine the arguments presented by those who see a real 
+conflict between political liberty and democratic rights, on the one 
+hand, and the fulfillment of basic economic needs, on the other. 
+ARGUMENTS AGAINST POLITICAL 
+FREEDOMS AND CIVIL RIGHTS 
+The opposition to democracies and basic civil and political freedoms 
+in developing countries comes from three different directions. First, 
+there is the claim that these freedoms and rights hamper economic 
+growth and development. This belief, called the Lee thesis (after Lee 
+Kuan Yew, the former prime minister of Singapore, who formulated 
+it succinctly) was briefly described in chapter r. 
+Second, it has been argued that if poor people are given the choice 
+between having political freedoms and fulfilling economic needs, 
+they will invariably choose the latter. So there is, by this reasoning, 
+a contradiction between the practice of democracy and its justifica­
+tion: to wit, the majority view would tend to reject democracy-given 
+this choice. In a different but closely related variant of this arguw 
+ment, it is dahned that the real issue is not so much what people 
+actually choose, but what they have reason to choose. Since people 
+
+
+
+--- [Book Page 149 | PDF Page 166] ---
+
+The Importance of Democracy 
+149 
+have reason to want to eliminate, first and foremost, economic 
+deprivation and misery, they have reason enough for not insisting 
+on political freedoms, which would get in the way of their real pri­
+orities. The presumed existence of a deep conflict between political 
+freedoms and the fulfillment of economic needs provides an impor­
+tant premise in this sy llogism, and in this sense, this variant of the 
+second argument is parasitic on the first (that is, on the truth of the 
+Lee thesis). 
+Third, it has often been argued that the emphasis on political free­
+dom, liberties and democracy is a specifically «Western" priority, 
+which goes, in particular, against "Asian values,,) which are sup­
+posed to be more keen on order and discipline than on liberty and 
+freedom. For exampLe, the censorship of the press may be more 
+acceptable, it is argued, in an Asian society {because of its emphasis 
+on discipline and order) than in the West. In the I993 Vienna confer­
+ence, the foreign minister of Singapore warned that "universal recog­
+nition of the ideal of human rights can be harmful if universalism is 
+used to deny or mask the reality of diversity." The spokesman of the 
+Chinese Foreign Ministry even put on record this proposition, appar­
+ently applicable in China and elsewhere in Asia: "Individuals must 
+put the state's rights before their own. ":z. 
+This last argument involves an exercise in cultural interpretation, 
+and I shall reserve it for a later discussion: in chapter ro.3 I take up 
+the other two arguments now. 
+DEMOCRACY AND ECONOMIC GROWTH 
+Does authoritarianism really work so well? It is certainly true that 
+some relatively authoritarian states (such as South Korea, Lees own 
+Singapore and post-reform China) have had faster rates of economic 
+growth than many less authoritarian ones (including India, Costa 
+Rica and jan1aica). But the Lee thesis is, in fact, based on very selec­
+tive and limited information, rather than on any general statistical 
+testing over the wide-ranging data that are available. We cannot 
+really take the high economic growth of China or South Korea in 
+Asia as a definitive proof that authoritarianism does better in pro 
+rooting economic growth-any more than we can draw the opposite 
+conclusion on the basis of the fact that the fastest-growing African 
+country (and one of the fastest growers in the world), viz., Botswana, 
+
+
+
+--- [Book Page 150 | PDF Page 167] ---
+
+!50 
+DEVELOPMENT 
+AS 
+FREEDOM 
+has been a oasis of democracy on that troubled continent. Much 
+depends on the precise circumstances. 
+In fact, there is rather little general evidence that authoritarian 
+governance and the suppression of political and civil rights are really 
+beneficial in encouraging economic development. The statistical pic­
+ture is much more complex. Systematic empirical studies give no real 
+support to the claim that there is a general conflict between political 
+freedoms and economic performance.4 The directional linkage seems 
+to depend on many other circumstances, and while some statistical 
+investigations note a weakly negative relation, others find a strongly 
+positive one. On balance, the hypothesis that there is no relation 
+between them in either direction is hard to reject. Since political lib 
+erty and freedom have importance of their own, the case for them 
+remains unaffected. 
+In this context, it is also important to touch on a more basic is­
+sue of research methodology. We must not only look at statistical 
+connections but, furthermore, examine and scrutinize the causal 
+processes that are involved in economic growth and development. 
+The economic policies and circwnstances that led to the economic 
+success of East Asian economies are by now reasonably well under­
+stood. While different empirical studies have varied in emphasis, 
+there is by now a fairly agreed general list of "helpful policies" that 
+includes openness to competition, the use of international markets, a 
+high level of literacy and school education, successful land reforms 
+and public provision of incentives for investment, exporting and 
+industrialization. There is nothing whatsoever to indicate that any of 
+these policies is inconsistent with greater democracy and actually had 
+to be sustained by the elements of authoritarianism that happened to 
+be present in South Korea or Singapore or China.s 
+Furthermore, in judging economic development it js not adequate 
+to look only at the growth of GNP or some other indicators of over 
+all economic expansion .. We have to look also at the impact of 
+democracy and political freedoms on the lives and capabilities of the 
+citizens. It is particularly important in this context to examine the 
+connection between political and civil rights, on the one hand, and 
+the prevention of major disasters (such as famines), on the other. 
+Political and civil rights give people the opportunity to draw atten ... 
+tion forcefully to general needs, and to demand appropriate public 
+
+
+
+--- [Book Page 151 | PDF Page 168] ---
+
+The Importance of Democracy 
+action. Governmental response to the acute suffering of people often 
+depends on the pressure that is put on the government, and thi is 
+where the exercise of political rights (voting, criticizing, protesting 
+and so on) can make a real difference  This is a part of the "instru­
+n1ental '' role of democracy and political freedoms. I shall have to 
+come back to this important issue again, later on in this chapter. 
+DO POOR PEOPLE CARE ABOUT 
+DEMOCRACY AND POLITICAL RIGHTS? 
+I turn now to the second question. Are the citizens of third world 
+countries indifferent to political and democratic rights? This claim, 
+which is often made, is again based on too little empirical evidence 
+(just as the Lee thesis is). The only way of verifying this would be to 
+put the matter to democratic testing in free elections with freedom of 
+opposition and expression-precisely the things that the supporters 
+of authoritarianism do not allow to happen. It is not clear at all how 
+this proposition can be checked when the ordinary citizens are given 
+little political opportunity to express their views on this and even less 
+to dispute the claims made by the authorities in office. The down­
+grading of these rights and freedoms is certainly part of the value sys­
+tem of the government leaders in many third world countries> but to 
+take that to be the view of the people is to beg a very big question. 
+It is thus of some interest to note that \vhen the Indian govern­
+ment, under Indira Gandhi's leadership) tried out a similar argument 
+in India, to justify the "emergency" she had misguidedly declared in 
+the mid-I970s, an election was called that divided the voters pre­
+cisely on this issue. In that fateful election, fought largely on the 
+acceptability of the "emergency," the suppression of basic political 
+and civil rights was firmly rejected, and the Indian electorate-one of 
+the poorest in the world-showed itself to be no less keen on protest­
+ing against the denial of basic liberties and rights than it was in com­
+plaining about economic poverty. To the extent that there has been 
+any testing of the proposition that poor people in general do not care 
+about civil and political rights, the evidence is entirely against that 
+claim. Similar points can be made by observing the struggle for 
+democratic freedoms in South Korea, Thailand, Bangladesh, Paki­
+stan, Burma (or Myanmar} and elsewhere in Asia. Similarly, while 
+
+
+
+--- [Book Page 152 | PDF Page 169] ---
+
+1:52 
+DEVELOPMENT 
+AS 
+FREEDOM 
+political freedom is widely denied in Africa, there have been move­
+ments and protests about that fact whenever circumstances have per­
+mitted, even though military dictators have given few opportunities 
+in this respect. 
+What about the other variant of this argument, to wit, that the 
+poor have reason to forgo political and democratic rights in favor of 
+economic needs? This argument, as was noted earlier, is parasitic on 
+the Lee thesis. Since that thesis has little empirical support, the syllo­
+gism cannot sustain the argument. 
+INSTRUMENTAL IMPORTANCE OF POLITICAL FREEDOM 
+I turn now from the negative criticisms of political rights to their 
+positive value. The importance of political freedom as a part of basic 
+capabilities has already been discussed in the earlier chapters. We 
+have reason to value liberty and freedom of expression and action in 
+our lives, and it is not unreasonable for human beings-the social 
+creatures that we are-to value unrestrained participation in political 
+and social activities. Also, informed and unregimented formation of 
+our values requires openness of communication and arguments, and 
+political freedoms and civil rights can be central for this process. 
+Furthermore, to express publicly what we value and to demand that 
+attention be paid to it, we need free speech and democratic choice. 
+When we move from the direct importance of political freedom to 
+its instrumental role, we have to consider the political incentives that 
+operate on governments and on the persons and groups that are in 
+office. The rulers have the incentive to listen to what people want if 
+they have to face their criticism and seek their support in elections. 
+As was noted earlier, no substantial famine has ever occurred in any 
+independent country with a democratic form of government and a 
+relatively free press. 6 Famines have occurred in ancient kingdoms 
+and contemporary authoritarian societies, in primitive tribal commu­
+nities and in modern technocratic dictatorships, in colonial econo­
+mies run by imperialists from the north and in newly independent 
+countries of the south run by despotic national leaders or by intoler­
+ant single parties. But they have never materialized in any country 
+that is independent, that goes to elections regularly, that has opposir 
+tion parties to voice criticisms and that permits newspapers to report 
+
+
+
+--- [Book Page 153 | PDF Page 170] ---
+
+The Impo1·tance of Democracy 
+freely and question the wisdom of government policies without 
+extensive censorship.? The contrast of experiences will be discussed 
+further in the next chapter, which deals specifically with famines and 
+other crises. 
+CONSTRUCTIVE ROLE OF POLITICAL FREEDOM 
+The instrumental roles of political freedoms and civil rights can be 
+very substantial, but the connection between economic needs and 
+political freedoms may have a constructive aspect as welL The exer­
+cise of basic political rights makes it more likely not only that there 
+would be a policy response to economic needs, but also that the 
+conceptualization-including comprehension-of "economic needs" 
+itself may require the exercise of such rights. It can indeed be argued 
+that a proper understanding of what economic needs are-their con­
+tent and their force-requires discussion and exchange. Political and 
+civil rights, especially those related to the guaranteeing of open dis­
+cussion:t debate, criticism, and dissent, are central to the processes of 
+generating informed and reflected choices. These processes are cru­
+cial to the formation of values and priorities, and we cannot, in gen­
+eral, take preferences as given independently of public discussion, 
+that is, irrespective of whether open debates and interchanges are 
+permitted or not. 
+The reach and effectiveness of open dialogue are often underesti­
+mated in assessing social and political problems. For example, public 
+discussion has an important role to play in reducing the high rates of 
+fertility that characterize many developing countries. There is, in 
+fact, much evidence that the sharp decline in fertility rates that has 
+taken place in the more literate states in India has been much influ­
+enced by public discussion of the bad effects of high fertility rates 
+especially on the lives of young women, and also on the community 
+at large. If the view has emerged in, say, Kerala or Tamil Nadu that a 
+happy family in the modern age is a small family, much discussion 
+and debate have gone into the formation of these perspectives. Ker­
+ala now has a fertility rate of 1.7 (similar to that in Britain and 
+France, and well below China's 1.9), and this has been achieved with 
+no coercion, but mainly through the emergence of new values-a 
+process in which political and social dialogues have played a major 
+
+
+
+--- [Book Page 154 | PDF Page 171] ---
+
+I54 
+DEVELOPMENT 
+AS 
+FREEDOM 
+part. The high level of literacy of the Kerala population, especially 
+female literacy, which is higher than that of every province of China, 
+has greatly contributed to making such social and political dialogues 
+possible (more on this in the next chapter). 
+Miseries and deprivations can be of various kinds-some more 
+amenable to social remedy than others. The totality of the human 
+predicament would be a gross basis for identifying our "needs." For 
+example, there are many things that we might have good reason to 
+value if they were feasible-we could even want immortality, as 
+Maitreyee did. But we don't see them as "needs." Our conception of 
+needs relates to our ideas of the preventable nature of some deprava­
+tions, and to our understanding of what can be done about them. In 
+the formation of these understandings and beliefs, public discussions 
+play a crucial role. Political rights, including freedom of expression 
+and discussion, are not only pivotal in inducing social responses to 
+economic needs, they are also central to the conceptualization of eco­
+nomic needs themselves. 
+WORKING OF DEMOCRACY 
+The intrinsic relevance, the protective role and the constructive 
+importance of democracy can indeed be very extensive. However, in 
+presenting these arguments on the advantages of democracies, there 
+is a danger of overselling their effectiveness. As was mentioned ear­
+lier, political freedoms and liberties are permissive advantages, and 
+their effectiveness would depend on how they are exercised. Democ­
+racy has been especially successful in preventing those disasters that 
+are easy to understand and where sympathy can take a particularly 
+immediate form. Many other problems are not quite so accessible. 
+For example, India's success in eradicating famines is not matched by 
+that in eliminating regular undernutrition, or curing persistent illiter­
+acy, or inequalities in gender relations (as was discussed in chap­
+ter 4). While the plight of famine victims is easy to politicize, these 
+other deprivations call for deeper analysis and more effective use of 
+communication and political participation-in short, fuller practice 
+of democracy. 
+Inadequacy of practice applies also to some failings in more 
+mature democracies as well. For example, the extraordinary depriva-
+,
+
+
+
+--- [Book Page 155 | PDF Page 172] ---
+
+The Importance of Democracy 
+I55 
+tions in health care, education, and social environment of African 
+Americans in the United States help to make their mortality rates 
+exceptionally high (as discussed in chapters r and 4), and this is evi­
+dently not prevented by the working of American democracy. Democ­
+racy has to be seen as creating a set of opportunities, and the use of 
+these opportunities calls for analysis of a different kind, dealing with 
+the practice of democratic and political rights. In this respect, the low 
+percentage of voting in American elections, especially by African 
+Americans, and other signs of apathy and alienation, cannot be 
+ignored. Democracy does not serve as an automatic remedy of ail­
+ments as quinine works to remedy malaria. The opportunity it opens 
