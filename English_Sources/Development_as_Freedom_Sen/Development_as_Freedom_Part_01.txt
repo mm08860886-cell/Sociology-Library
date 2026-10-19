@@ -1,0 +1,4252 @@
+Book: Development as Freedom
+Author: Amartya Sen
+============================================================
+
+
+
+--- [Front Matter | PDF Page 1] ---
+
+ALSO 
+BY AMARTYA SEN 
+Collective Choice and Social Welfare 
+On Economic Inequality 
+Employment, Technology and Development 
+Poverty and Famines: An Essay on 
+Entitlement and Deprivation 
+Choice, Welfare and Management 
+Resources, Values and Development 
+Commodities and Capabilities 
+The Standard of Living 
+On Ethics and Economics 
+Hunger and Public Action 
+(with Jean Dreze) 
+Inequality Reexamined 
+India: Economic Development and Social Opportunity 
+(with Jean Dreze) 
+
+
+
+--- [Front Matter | PDF Page 2] ---
+
+DEVELOPMENT AS FREEDOM 
+
+
+
+--- [Front Matter | PDF Page 3] ---
+
+
+
+
+--- [Front Matter | PDF Page 4] ---
+
+AMARTYA SEN 
+ALFRED A. KNOPF  
+New York 
+2000 
+
+
+
+--- [Front Matter | PDF Page 5] ---
+
+THIS 
+IS A BORZOI BOOK 
+PUBLISHED BY ALFRED A. KNOPF, INC. 
+Copyright© 1999 by Amartya Sen 
+All rights reseved under International and Pan-American 
+Copyright Conventions. Published in the United States by 
+Alfred A. Knopf, Inc., New York, and simultaneously in 
+Canada by Random House of Canada Limited, Toronto. 
+Distributed by Random House, Inc., New York. 
+www.randomhouse.com 
+Knopf, Borzoi Books, and the colophon are registered 
+trademarks of Random House, Inc. 
+Grateful acknowledgment is made to The New York Times for 
+permission to reprint an excerpt from "Birth Control in China" 
+by P. Tyler (The New York Times, June 25, 1995), copyright 
+© 1995 by the New York Times Co. Reprinted by permission. 
+Library of Congress Cataloging-in-Publication Data 
+Sen, Amartya Kumar. 
+Development as freedom I Amartya Sen.-1st. ed. 
+p. 
+em. 
+Includes bibliographical references and index. 
+ISBN 0-3 7 5-40619-0 (aJk. paper) 
+I. Economic development. 
+2. Liberty. 
+I. Title. 
+HD75.S45 5 
+1999 
+330'.01-dC2I 
+99-31061 
+CIP 
+Manufactured in the United States of America 
+Published September 18, 1999 
+Reprinted Twice 
+Fourth Printing, February 2000 
+Graphs by Mark Stein 
+.
+··-·
+·· -
+
+
+
+--- [Front Matter | PDF Page 6] ---
+
+To Emma 
+
+
+
+--- [Front Matter | PDF Page 7] ---
+
+
+
+
+--- [Front Matter | PDF Page 8] ---
+
+I 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+IO 
+II 
+12 
+CONTENTS 
+List of Illustrations 
+Preface 
+Acknowledgments 
+Introduction: Development as 
+Freedom 
+The Perspective of Freedom 
+The Ends and the Means of Development 
+Freedom and the Foundations of Justice 
+Poverty as Capability Deprivation 
+Markets, State and Social Opportunity 
+The Importance of Democracy 
+Famines and Other Crises 
+Women's Agency and Social Change 
+Population, Food and Freedom 
+Cultu1·e and Human Rights 
+Social Choice and Individual Behavior 
+Individual Freedom as a Social 
+Commitment 
+Notes 
+Index by Name 
+Index by Subject 
+. 
+IX 
+. 
+Xl 
+XV 
+3 
+13 
+35 
+54 
+87 
+III 
+I46 
+r6o 
+189 
+204 
+227 
+249 
+282 
+299 
+353 
+361 
+
+
+
+--- [Front Matter | PDF Page 9] ---
+
+
+
+
+--- [Front Matter | PDF Page 10] ---
+
+ILLUSTRATIONS 
+FIGURE I.I 
+Variations in Male Survival Rates by Region 
+22 
+!.2 
+Variations in Female Survival Rates by Region 
+23 
+2.! 
+GNP per Capita (U.S. Dollars) and Life 
+Expectancy at Birth, 1994 
+47 
+2.2 
+Improvements in Life Expectancy in England 
+and Wales, 190I-I96o 
+50 
+2.3 
+Growth of GDP (U.K.) and Decadal Increases 
+in Life Expectancy at Birth (England and 
+Wales), 190I-I96o 
+52 
+4·1 
+Mortality Rate Ratios of Blacks to Whites 
+(Aged 3 5-54), Actual and Adjusted for 
+Family Income 
+97 
+4·2 
+Female-Male Ratios in Total Population in 
+Selected Communities 
+!04 
+7·1 
+Food Grains Availability in Bangladesh, 
+1971-1975 
+r66 
+9·I 
+Food Prices in Constant 1990 U.S. Dollars 
+208 
+TABLE 4.1 
+India and Sub-Saharan Africa: ----
+Selected Comparisons (1991) 
+roo 
+9.1 
+Indices of Food Production per Head by Regions 206 
+9.2 
+Food Prices in Constant 1990 U.S. Dollars: 
+1950-1952 to 1995-1997 
+207 
+
+
+
+--- [Front Matter | PDF Page 11] ---
+
+-------------
+-·-
+---
+
+
+
+--- [Front Matter | PDF Page 12] ---
+
+PREFACE 
+We live in a world of unprecedented opulence, of a kind that would 
+have been hard even to imagine a century or two ago. There have 
+also been remarkable changes beyond the economic sphere. The 
+twentieth century has established democratic and participatory gov­
+ernance as the preeminent model of political organization. Concepts 
+of human rights and political liberty are now very much a part of 
+the prevailing rhetoric. People live much longer, on the average, than 
+ever before. Also, the different regions of the globe are now more 
+closely linked than they have ever been. This is so not only in the 
+fields of trade, commerce and communication, but also in terms of 
+interactive ideas and ideals. 
+And yet we also live in a world with remarkable deprivation, des­
+titution and oppression. There are many new problems as well as old 
+ones, including persistence of poverty and unfulfilled elementary 
+needs, occurrence of famines and widespread hunger, violation of ele­
+mentary political freedoms as well as of basic liberties, extensive 
+neglect of the interests and agency of women, and worsening threats 
+to our environment and to the sustainability of our economic and 
+social lives. Many of these deprivations can be observed, in one form 
+or another, in rich countries as well as poor ones. 
+Overcoming these problems is a central part of the exercise of 
+development. We have to recognize, it is argued here, the role of free­
+doms of different kinds in countering these afflictions. Indeed, indi­
+vidual agency is, ultimately, central to addressing these deprivations. 
+On the other hand, the freedom of agency that we individually have 
+is inescapably qualified and constrained by the social, political and 
+
+
+
+--- [Front Matter | PDF Page 13] ---
+
+. 
+. 
+Xll 
+Preface 
+economic opportunities that are available to us. There is a deep com­
+plementarity between individual agency and social arrangements. It 
+is important to give simultaneous recognition to the centrality of 
+individual freedom and to the force of social influences on the extent 
+and reach of individual freedom. To counter the problems that we 
+face, we have to see individual freedom as a social commitment. This 
+is the basic approach that this work tries to explore and examine. 
+Expansion of freedom is viewed, in this approach, both as the priS 
+mary end and as the principal means of development. Development 
+consists of the removal of various types of unfreedoms that leave 
+people with little choice and little opportunity of exercising their rea­
+soned agency. The removal of substantial unfreedoms, it is argued 
+here, is constitutive of development. However, for a fuller under­
+standing of the connection between development and freedom we 
+have to go beyond that basic recognition (crucial as it is). The intrin­
+sic importance of human freedom, in general, as the preeminent 
+objective of development is strongly supplemented by the instrumen­
+tal effectiveness of freedoms of particular kinds to promote freedoms 
+of other kinds. The linkages between different types of freedoms are 
+empirical and causal, rather than constitutive and compositional. For 
+example, there is strong evidence that economic and political freeT 
+doms help to reinforce one another, rather than being hostile to one 
+another (as they are sometimes taken to be). Similarly, social oppor­
+tunities of education and health care, which may require public action, 
+complement individual opportunities of economic and political par­
+ticipation and also help to foster our own initiatives in overcoming 
+our respective deprivations. If the point of departure of the approach 
+lies in the identification of freedom as the main object of develop­
+ment, Uhe reach of the policy analysis lies in establishing the empiri­
+cal linkages that make the viewpoint of freedom coherent and cogent 
+as the guiding perspective of the process of development. 
+This work outlines the need for an integrated analysis of eco­
+nomic, social and political activities, involving a variety of institu­
+tions and many interactive agencies. It concentrates particularly on 
+the roles and interconnections between certain crucial instrumental 
+freedoms, including economic opportunities, political freedoms, so­
+cial facilities, transparency guarantees, and protective security. Soci­
+etal arrangements, involving many institutions (the state, the market, 
+the legal system, political parties, the media, public interest groups 
+•
+
+
+
+--- [Front Matter | PDF Page 14] ---
+
+Preface 
+.
+.
+.
+ 
+Xlll 
+and public discussion forums, among others) are investigated in 
+terms of their contribution to enhancing and gua,ranteeing the sub­
+stantive freedoms of individuals, seen as active agents of change, 
+rather than as passive recipients of dispensed benefits. 
+The book is based on five lectures I gave as a Presidential Fellow 
+at the World Bank during the fall of 1996. There was also one follow­
+up lecture in November 1997 dealing with the overall approach and 
+its implications. I appreciated the opportunity and the challenge 
+involved in this task, and I was particularly happy that this happened 
+at the invitation of President James Wolfensohn, whose vision, skill 
+and humanity I much admire. I was privileged to work closely with 
+him earlier as a Trustee of the Institute for Advanced Study at Prince­
+ton, and more recently, I have also watched with great interest the 
+constructive impact of Wolfensohn's leadership on the Bank. 
+The World Bank has not invariably been my favorite organiza­
+tion. The power to do good goes almost always with the possibility 
+. to do the opposite, and as a professional economist, I have had occa­
+sions in the past to wonder whether the Bank could not have done 
+very much better. These reservations and criticisms are in print, so I 
+need not make a "confession" of harboring skeptical thoughts. All 
+this made it particularly welcome to have the opportunity to present 
+at the Bank my own views on development and on the making of 
+public policy. 
+This book, however, is not intended primarily for people working 
+at or for the Bank, or other international organizations. Nor is it just 
+for policy makers and planners of national governments. Rather, it is 
+a general work on development and the practical reasons underlying 
+it, aimed particularly at public discussion. I have rearranged the six 
+lectures into twelve chapters, both for clarity and to make the writ­
+ten version more accessible to nonspecialist readers. Indeed, I have 
+tried to make the discussion as nontechnical as possible, and have 
+referred to the more formal literature-for those inclined in that 
+direction--only in endnotes. I have also commented on recent eco­
+nomic experiences that occurred after my lectures were given (in 1996), 
+such as the Asian economic crisis (which confirmed some of the worst 
+fears I had expressed in those lectures). 
+In line with the importance I attach to the role of public discus­
+sion as a vehicle of social change and economic progress (as the text 
+will make clear), this work is presented mainly for open deliberation 
+
+
+
+--- [Front Matter | PDF Page 15] ---
+
+• 
+XIV 
+Preface 
+and critical scrutiny. I have, throughout my life, avoided gtving 
+advice to the "authorities." Indeed, I have never counseled any gov­
+ernment, preferring to place my suggestions and critiques-for what 
+they are worth-in the public domain. Since I have been fortunate in 
+living in three democracies with largely unimpeded media (India, 
+Britain, and the United States), I have not had reason to complain 
+about any lack of opportunity of public presentation. If my argu­
+ments arouse any interest, and lead to more public discussion of these 
+vital issues, I would have reason to feel well rewarded. 
+
+
+
+--- [Front Matter | PDF Page 16] ---
+
+ACKNOWLEDGMENTS 
+In doing the research on which this book draws, I had support from 
+John D. and Catherine T. MacArthur Foundation, in a joint proj­
+ect with Angus Deaton. That investigation followed some work I 
+had done earlier for the Helsinki-based World Institute of Develop­
+ment Economics Research, directed then by Lal Jayawardena. It also 
+links closely with my advisory role for the Human Development 
+Reports of the United Nations Development Programme, under the 
+remarkable stewardship of Mahbub ul Haq of Pakistan (a close 
+friend from my undergraduate days whose sudden death in 1998 is a 
+blow from which I have not yet fully recovered). Harvard University, 
+where I taught until early 1998, has been marvelously supportive of 
+my research work for many years. I have also drawn on logistic sup­
+port respectively from the Harvard Institute of International Devel­
+opment, the Harvard Center for Population and Development Studies, 
+and the Centre for History and Economics at King's College, Cam­
+bridge University. 
+I have been very fortunate in having wonderful collaborators. I 
+have had the great opportunity of working for many years with Jean 
+Dreze and of publishing several books jointly with him, which have 
+influenced the present work (collaboration with Jean has the agree­
+able feature that he does most of the work while making sure that 
+you get most of the credit). It was also wonderful for me to have the 
+chance to do joint work with Sudhir Anand, on subjects closely 
+related to this book. I have also had very fruitful working relations 
+with Angus Deaton, Meghnad Desai, James Foster and Siddiq 
+Osmani. My collaboration with Martha Nussbaum during 1987-89 
+
+
+
+--- [Front Matter | PDF Page 17] ---
+
+. 
+XVI 
+Acknowledgments 
+was of great importance in investigating the concepts of capability 
+and quality of life, used extensively in this book. 
+In helping with Human Development Reports, I have fruitfully 
+interacted with, in addition to Mahbub ul Haq, Sakiko Fukuda-Parr, 
+Selim J ahan, Meghnad Desai and Paul Streeten, and later on with 
+Richard Jolly, who succeeded Mahbub. Other collaborators, advisors 
+and critics on whose help I have relied include Tony Atkinson (on 
+whose ideas I have often drawn), and also Kaushik Basu, Alok Bhar­
+gava, David Bloom, Anne Case, Lincoln Chen, Martha Chen, Stanley 
+Fischer, Caren Grown, S. Guhan, Stephan Klasen, A. K. Shiva Kumar, 
+Robert Nozick, Christina Paxson, Ben Polak, Jeffrey Sachs, Tim 
+{Thomas) Scanlon, Joe Stiglitz, Kotaro Suzumura and Jong-il You. I 
+have received helpful comments on the basic ideas and on various ver­
+sions of the manuscript from Sudhir Anand, Amiya Bagchi, Pranab 
+Bardhan, Ashim Dasgupta, Angus Deaton, Peter Dimock, Jean Dreze, 
+James Foster, Siddiq Osmani, Ingrid Robeyns and Adele Simmons. 
+I have also benefited from very efficient research assistance from 
+Arun Abraham over a long period, and also from Ingrid Robeyns and 
+Tanni Mukhopadhyay, more recently. Anna Marie Svedrofsky has 
+played a most helpful coordinating role with the logistic arrangements. 
+As mentioned in the Preface, these lectures were given at the invi­
+tation of James Wolfensohn, President of the World Bank, and I have 
+greatly benefited from many discussions with him. The lectures at the 
+Bank were chaired respectively by James Wolfensohn, Caio Koch­
+weser, Ismail Serageldin, Callisto Madavo and Sven Sandstrom, and 
+they each made significant observations on the problems I tried to 
+address. I was, furthermore, very stimulated by the questions that 
+were asked and the remarks that were made in the discussions fol­
+lowing my lectures. I also benefited from the opportunity to interact 
+with the staff of the Bank, arranged with impeccable efficiency by 
+Tariq Hussain, who was generally in charge of those lectures. 
+Finally, my wife, Emma Rothschild, has had to read different ver­
+sions of disparate arguments at various times, and her advice has 
+always been extremely valuable. Her own work on Adam Smith has 
+been a good source of ideas, since this book draws a great deal on 
+Smith's analyses. I had a close relationship with Adam Smith even 
+before I knew Emma (as those familiar with my earlier writings will 
+know). Under her influence, the plot has thickened. This has been 
+important for the work. 
+
+
+
+--- [Book Page 1 | PDF Page 18] ---
+
+DEVELOPMENT AS FREEDOM 
+
+
+
+--- [Book Page 2 | PDF Page 19] ---
+
+•
+
+
+
+--- [Book Page 3 | PDF Page 20] ---
+
+INTRODUCTION 
+DEVELOPMENT AS FREEDOM 
+Development can be seen, it is argued here, as a process of expanding 
+the real freedoms that people enjoy. Focusing on human freedoms 
+contrasts with narrower views of development, such as identifying 
+development with the growth of gross national product, or with the 
+rise in personal incomes, or with industrialization, or with techno­
+logical advance, or with social modernization. Growth of GNP or of 
+individual incomes can, of course, be very important as means to 
+expanding the freedoms enjoyed by the members of the society. But 
+freedoms depend also on other determinants, such as social and eco­
+nomic arrangements (for example, facilities for education and health 
+care) as well as political and civil rights (for example, the liberty 
+to participate in public discussion and scrutiny). Similarly, indus­
+trialization or technological progress or social modernization can 
+substantially contribute to expanding human freedom, but freedom 
+depends on other influences as well. If freedom is what develop­
+ment advances, then there is a major argument for concentrating on 
+that overarching objective, rather than on some particular means, or 
+some specially chosen list of instruments. Viewing development in 
+terms of expanding substantive freedoms directs attention to the ends 
+that make development important, rather than merely to some of the 
+means that, inter alia, play a prominent part in the process. 
+Development requires the removal of major sources of unfree­
+dam: poverty as well as tyranny, poor economic opportunities as well 
+as systematic social deprivation, neglect of public facilities as well as 
+intolerance or overactivity of repressive states. Despite unprece­
+dented increases in overall opulence, the contemporary world denies 
+
+
+
+--- [Book Page 4 | PDF Page 21] ---
+
+4 
+DEVELOPMENT 
+AS 
+FREEDOM 
+elementary freedoms to vast numbers-perhaps even the majority­
+of people. Sometimes the lack of substantive freedoms relates directly 
+to economic poverty, which robs people of the freedom to satisfy 
+hunger, or to achieve sufficient nutrition, or to obtain remedies for 
+treatable illnesses, or the opportunity to be adequately clothed or 
+sheltered, or to enjoy clean water or sanitary facilities. In other cases, 
+the unfreedom links closely to the lack of public facilities and social 
+care, such as the absence of epidemiological programs, or of orga­
+nized arrangements for health care or educational facilities, or of 
+effective institutions for the maintenance of local peace and order. 
+In still other cases, the violation of freedom results directly from a 
+denial of political and civil liberties by authoritarian regimes and 
+from imposed restrictions on the freedom to participate in the social, 
+political and economic life of the community. 
+EFFECTIVENESS AND INTERCONNECTIONS 
+Freedom is central to the process of development for two distinct 
+reasons. 
+I) 
+The evaluative reason: assessment of progress has to be done 
+primarily in terms of whether the freedoms that people have are 
+enhanced; 
+2) 
+The effectiveness reason: achievement of development is 
+thoroughly dependent on the free agency of people. 
+I have already signaled the first motivation: the evaluative reason 
+for concentrating on freedom. In pursuing the second, that of effec­
+tiveness, we have to look at the relevant empirical connections, in 
+particular at the mutually reinforcing connections between freedoms 
+of different kinds. It is because of these interconnections, which are 
+explored in some detail in this book, that free and sustainable agency 
+emerges as a major engine of development. Not only is free agency 
+itself a "constitutive" part of development, it also contributes to the 
+strengthening of free agencies of other kinds. The empirical connec­
+tions that are extensively explored in this study link the two aspects 
+of the idea of "development as freedom." 
+The relation between individual freedom and the achievement of 
+social development goes well bey ond the constitutive connection-
+
+
+
+--- [Book Page 5 | PDF Page 22] ---
+
+Introduction 
+5 
+important as it is. What people can positively achieve is influenced by 
+economic opportunities, political liberties, social powers, and the 
+enabling conditions of good health, basic education, and the encour­
+agement and cultivation of initiatives. The institutional arrangements 
+for these opportunities are also influenced by the exercise of people's 
+freedoms, through the liberty to participate in social choice and in 
+the making of public decisions that impel the progress of these 
+opportunities. These interconnections are also investigated here. 
+SOME ILLUSTRATIONS: POLITICAL 
+FREEDOM AND QUALITY OF LIFE 
+The difference that is made by seeing freedom as the principal ends of 
+development can be illustrated with a few simple examples. Even 
+though the full reach of this perspective can only emerge from a 
+much more extensive analysis (attempted in the chapters to follow), 
+the radical nature of the idea of "development as freedom" can easily 
+be illustrated with some elementary examples. 
+First, in the context of the narrower views of development in 
+terms of GNP growth or industrialization, it is often asked whether 
+certain political or social freedoms, such as the liberty of political 
+participation and dissent, or opportunities to receive basic education, 
+are or are not "conducive to development." In the light of the more 
+foundational view of development as freedom, this way of posing the 
+question tends to miss the important understanding that these sub­
+stantive freedoms (that is, the liberty of political participation or the 
+opportunity to receive basic education or health care) are among the 
+constituent components of development. Their relevance for devel-
+, 
+opment does not have to be freshly established through their indirect 
+contribution to the growth of GNP or to the promotion of industri­
+alization. As it happens, these freedoms and rights are also very effec­
+tive in contributing to economic progress; this connection will receive 
+extensive attention in this book. But while the causal relation is 
+indeed significant, the vindication of freedoms and rights provided by 
+this causal linkage is over and above the directly constitutive role of f 
+these freedoms in development. 
+A second illustration relates to the dissonance between income 
+per head (even after correction for price variations) and the freedom 
+of individuals to live long and live well. For example, the citizens of 
+
+
+
+--- [Book Page 6 | PDF Page 23] ---
+
+6 
+DEVELOPMENT 
+AS 
+FREEDOM 
+Gabon or South Africa or Namibia or Brazil may be much richer in 
+terms of per capita GNP than the citizens of Sri Lanka or China or 
+the state of Kerala in India, but the latter have very substantially 
+higher life expectancies than do the former. 
+To take a different type of example, the point is often made that 
+African Americans in the United States are relatively poor compared 
+with American whites, though much richer than people in the third 
+world. It is, however, important to recognize that African Americans 
+have an absolutely lower chance of reaching mature ages than do 
+people of many third world societies, such as China, or Sri Lanka, or 
+parts of India (with different arrangements of health care, education, 
+and community relations). If development analysis is relevant even 
+for richer countries (it is argued in this work that this is indeed so), 
+the presence of such intergroup contrasts within the richer countries 
+can be seen to be an important aspect of the understanding of devel­
+opment and underdevelopment. 
+TRANSACTIONS, MARKETS AND ECONOMIC UNFREEDOM 
+A third illustration relates to the role of markets as part of the 
+process of development. The ability of the market mechanism to con­
+tribute to high economic growth and to overall economic progress 
+has been widely-and rightly-acknowledged in the contemporary 
+development literature. But it would be a mistake to understand the 
+place of the market mechanism only in derivative terms. As Adam 
+Smith noted, freedom of exchange and transaction is itself part and 
+parcel of the basic liberties that people have reason to value. 
+To be generically against markets would be almost as odd as being 
+generically against conversations between people (even though some 
+conversations are dearly foul and cause problems for others-or 
+even for the conversationalists themselves). The freedom to exchange 
+words, or goods, or gifts does not need defensive justification in 
+terms of their favorable but distant effects; they are part of the way 
+human beings in society live and interact with each other {unless 
+stopped by regulation or fiat). The contribution of the market mecha­
+nism to economic growth is, of course, important, but this comes 
+only after the direct significance of the freedom to interchange­
+words, goods, gifts-has been acknowledged. 
+
+
+
+--- [Book Page 7 | PDF Page 24] ---
+
+, 
+I 
+J
+Introduction 
+7 
+As it happens, the rejection of the freedom to participate in the 
+labor market is one of the ways of keeping people in bondage and 
+captivity, and the battle against the unfreedom of bound labor is 
+important in many third world countries today for some of the same 
+reasons the American Civil War was momentous. The freedom to 
+enter markets can itself be a significant contribution to development, 
+quite aside from whatever the market mechanism may or may 
+not do to promote economic growth or industrialization. In fact, the 
+praise of capitalism by Karl Marx (not a great admirer of capitalism 
+in general) and his characterization (in Das Kapital) of the Ameri­
+can Civil War as "the one great event of contemporary history" 
+related directly to the importance of the freedom of labor contract 
+as opposed to slavery and the enforced exclusion from the labor mar­
+ket. As will be discussed, the crucial challenges of development in 
+many developing countries today include the need for the freeing of 
+labor from explicit or implicit bondage that denies access to the open , 
+labor market. Similarly, the denial of access to product markets 1 
+is often among the deprivations from which many small cultivators 
+and struggling producers suffer under traditional arrangements and 
+restrictions. The freedom to participate in economic interchange has 
+a basic role in social living. 
+To point to this often neglected consideration is not to deny the 
+importance of judging the market mechanism comprehensively in 
+terms of all its roles and effects, including those in generating eco­
+nomic growth and, under many circumstances, even economic equity. 
+We must also examine, on the other side, the persistence of depri­
+vations among segments of the community that happen to remain 
+excluded from the benefits of the market-oriented society, and the 
+general judgments, including criticisms, that people may have of life­
+styles and values associated with the culture of markets. In seeing 
+development as freedom, the arguments on different sides have to be 
+appropriately considered and assessed. It is hard to think that any 
+process of substantial development can do without very extensive 
+use of markets, but that does not preclude the role of social support, 
+public regulation, or statecraft when they can enrich-rather than 
+impoverish-human lives. The approach used here provides a broader 
+and more inclusive perspective on markets than is frequently invoked 
+in either defending or chastising the market mechanism. 
+
+
+
+--- [Book Page 8 | PDF Page 25] ---
+
+8 
+DEVELOPMENT 
+AS 
+FREEDOM 
+I end this list of illustrations with another that draws directly on 
+a personal recollection from my own childhood. I was playing one 
+afternoon-! must have been around ten or so-in the garden in our 
+family home in the city of Dhaka, now the capital of Bangladesh, 
+when a man came through the gate screaming pitifully and bleeding 
+profusely; he had been knifed in the back. Those were the days of 
+communal riots (with Hindus and Muslims killing each other), which 
+preceded the independence and partitioning of India and Pakistan. 
+The knifed man, called Kader Mia, was a Muslim daily laborer who 
+had come for work in a neighboring house-for a tiny reward-and 
+had been knifed on the street by some communal thugs in our largely 
+Hindu area. As I gave him water while also crying for help from 
+adults in the house, and moments later, as he was rushed to the hos­
+pital by my father, Kader Mia went on telling us that his wife had 
+told him not to go into a hostile area in such troubled times. But 
+Kader Mia had to go out in search of work and a bit of earning 
+because his family had nothing to eat. The penalty of his economic 
+unfreedom turned out to be death, which occurred later on in the 
+hospital. 
+The experience was devastating for me. It made me reflect, later 
+on, on the terrible burden of narrowly defined identities, including 
+those firmly based on communities and groups (I shall have occasion 
+to discuss that issue in this book). But more immediately, it also 
+pointed to the remarkable fact that economic unfreedom, in the form 
+of extreme poverty, can make a person a helpless prey in the violation 
+of other kinds of freedom. Kader Mia need not have come to a hos­
+tile area in search of a little income in those terrible times had his 
+family been able to survive without it. Economic unfreedom can 
+breed social unfreedom, just as social or political unfreedom can also 
+foster economic unfreedom. 
+ORGANIZATIONS AND VALUES 
+Many other examples can be given to illustrate the pivotal difference 
+that is made by pursuing a view of development as an integrated 
+process of expansion of substantive freedoms that connect with one 
+another. It is this view that is presented, scrutinized and utilized 
+in this book to investigate the development process in inclusive 
+terms that integrate economic, social and political considerations. 
+
+
+
+--- [Book Page 9 | PDF Page 26] ---
+
+Introduction 
+9 
+A broad approach of this kind permits simultaneous appreciation 
+of the vital roles, in the process of development, of many different 
+institutions, including markets and market-related organizations, 
+governments and local authorities, political parties and other civic 
+institutions, educational arrangements and opportunities of open 
+dialogue and debate (including the role of the media and other means 
+of communication). 
+Such an approach also allows us to acknowledge the role of social 
+values and prevailing mores, which can influence the freedoms that 
+people enjoy and have reason to treasure. Shared norms can influence 
+social features such as gender equity, the nature of child care, family 
+size and fertility patterns, the treatment of the environment and 
+many other arrangements and outcomes. Prevailing values and social 
+mores also affect the presence or absence of corruption, and the role 
+of trust in economic or social or political relationships. The exer­
+cise of freedom is mediated by values, but the values in turn are 
+influenced by public discussions and social interactions, which are 
+themselves influenced by participatory freedoms. Each of these con­
+nections deserves careful scrutiny. 
+The fact that the freedom of economic transactions tends to be 
+typically a great engine of economic growth has been widely 
+acknowledged, even though forceful detractors remain. It is impor­
+tant not only to give the markets their due, but also to appreciate the 
+role of other economic, social, and political freedoms in enhancing 
+and enriching the lives that people are able to lead. This has a clear 
+bearing even on such controversial matters as the so-called popula­
+tion problem. The role of freedom in moderating excessively high fer­
+tility rates is a subject on which contrary views have been held for a 
+long time. While that great eighteenth-century French rationalist 
+Condorcet expected that fertility rates would come down with "the 
+progress of reason," so that greater security, more education and 
+more freedom of reflected decisions would restrain population 
+growth, his contemporary Thomas Robert Malthus differed radically 
+with this position. Indeed, Malthus argued that "there is no reason 
+whatever to suppose that anything beside the difficulty of procuring 
+in adequate plenty the necessaries of life should either indispose this 
+greater number of persons to marry early, or disable them from rear­
+ing in health the largest families.'' The comparative merits of the two 
+different positions-relying respectively on reasoned freedom and 
+
+
+
+--- [Book Page 10 | PDF Page 27] ---
+
+IO 
+DEVELOPMENT 
+AS 
+FREEDOM 
+economic compulsion-will be investigated later on in this study (the 
+balance of evidence, I shall argue, is certainly more on Condorcet's 
+side). But it is especially important to recognize that this particular 
+controversy is just one example of the debate between profreedom 
+and antifreedom approaches to development that has gone on for 
+many centuries. That debate is still very active in many different 
+forms. 
+INSTITUTIONS AND INSTRUMENTAL FREEDOMS 
+Five distinct types of freedom, seen in an "instrumental" perspective, 
+are particularly investigated in the empirical studies that follow. 
+These include (I} political freedoms, ( 2) economic facilities, ( 3) social 
+opportunities, (4) transparency guarantees and {5) protective secu­
+rity. Each of these distinct types of rights and opportunities helps to 
+advance the general capability of a person. They may also serve to 
+complement each other. Public policy to foster human capabilities 
+and substantive freedoms in general can work through the promo­
+tion of these distinct but interrelated instrumental freedoms. In the 
+chapters that follow, each of these different types of freedom-and 
+the institutions involved-will be explored, and their interconnec­
+tions discussed. There will be an opportunity also to investigate their 
+respective roles in the promotion of overall freedoms of people to 
+lead the kind of lives they have reason to value. In the view of "devel­
+opment as freedom," the instrumental freedoms link with each other 
+and with the ends of enhancement of human freedom in general. 
+While development analysis must, on the one hand, be concerned 
+with objectives and aims that make these instrumental freedoms con­
+sequentially important, it must also take note of the empirical link­
+ages that tie the distinct types of freedom together, strengthening 
+their joint importance. Indeed, these connections are central to a 
+fuller understanding of the instrumental role of freedom. 
+A CONCLUDING REMARK 
+Freedoms are not only the primary ends of development, they are 
+also among its principal means. In addition to acknowledging, foun­
+dationally, the evaluative importance of freedom, we aLso have to 
+•
+I 
+l
+
+
+
+--- [Book Page 11 | PDF Page 28] ---
+
+Introduction 
+II 
+understand the remarkable empirical connection that links freedoms 
+of different kinds with one another. Political freedoms (in the form of 
+free speech and elections) help to promote economic security. Social 
+opportunities (in the form of education and health facilities) facilitate 
+economic participation. Economic facilities (in the form of opportu­
+nities for participation in trade and production) can help to generate 
+personal abundance as well as public resources for social facilities. 
+Freedoms of different kinds can strengthen one another. 
+These empirical connections reinforce the valuational priorities. 
+In terms of the medieval distinction between "the patient" and "the 
+agent," this freedom-centered understanding of economics and of the 
+process of development is very much an agent-oriented view. With 
+adequate social opportunities, individuals can effectively shape their 
+own destiny and help each other. They need not be seen primarily as 
+passive recipients of the benefits of cunning development programs. 
+There is indeed a strong rationale for recognizing the positive role of 
+free and sustainable agency-and even of constructive impatience. 
+
+
+
+--- [Book Page 12 | PDF Page 29] ---
+
+I
+
+
+
+--- [Book Page 13 | PDF Page 30] ---
+
+CHAPTER 
+I 
+THE PERSPECTIVE OF FREEDOM 
+It is not unusual for couples to discuss the possibility of earning more 
+money, but a conversation on this subject from around the eighth 
+century B.C. is of some special interest. As that conversation is 
+recounted in the Sanskrit text Brihadaranyaka Upanishad, a woman 
+named Maitreyee and her husband, Yajnavalkya, proceed rapidly 
+to a bigger issue than the ways and means of becoming more wealthy: 
+How far would wealth go to help them get what they want?r 
+Maitreyee wonders whether it could be the case that if "the whole 
+earth, full of wealth" were to belong just to her, she could achieve 
+immortality through it. "No," responds Yajnavalkya, "like the life of 
+rich people will be your life. But there is no hope of immortality by 
+wealth." Maitreyee remarks, "What should I do with that by which 
+I do not become immortal?" 
+Maitreyee's rhetorical question has been cited again and again 
+in Indian religious philosophy to illustrate both the nature of the 
+human predicament and the limitations of the material world. I 
+have too much skepticism of otherworldly matters to be led there by 
+Maitreyee's worldly frustration, but there is another aspect of this 
+exchange that is of rather immediate interest to economics and to 
+understanding the nature of development. This concerns the rela­
+tion between incomes and achievements, between commodities and 
+capabilities, between our economic wealth and our ability to live as 
+we would like. While there is a connection between opulence and 
+achievements, the linkage may or may not be very strong and may 
+well be extremely contingent on other circumstances. The issue is 
+not the ability. to live forever on which Maitreyee-bless her soul-
+
+
+
+--- [Book Page 14 | PDF Page 31] ---
+
+I4 
+DEVELOPMENT 
+AS 
+FREEDOM 
+happened to concentrate, but the capability to live really long (with­
+out being cut off in one's prime) and to have a good life while alive 
+(rather than a life of misery and unfreedom)-things that would be 
+strongly valued and desired by nearly all of us. The gap between the 
+two perspectives (that is, between an exclusive concentration on eco­
+nomic wealth and a broader focus on the lives we can lead) is a major 
+issue in conceptualizing development. As Aristotle noted at the very 
+beginning of the Nicomachean Ethics (resonating well with the con­
+versation between Maitreyee and Yajnavalkya three thousand miles 
+away), "wealth is evidently not the good we are seeking; for it is 
+merely useful and for the sake of something else." 1 
+If we have reasons to want more wealth, we have to ask: What 
+precisely are these reasons, how do they work, on what are they con­
+tingent and what are the things we can "do" with more wealth? In 
+fact; we generally have excellent reasons for wanting more income or 
+wealth. This is not because income and wealth are desirable for their 
+own sake, but because, typically, they are admirable general-purpose 
+means for having more freedom to lead the kind of lives we have rea­
+son to value. 
+The usefulness of wealth lies in the things that it allows us to do­
+the substantive freedoms it helps us to achieve. But this relation is 
+neither exclusive (since there are significant influences on our lives 
+other than wealth) nor uniform (since the impact of wealth on our 
+lives varies with other influences). It is as important to recognize the 
+crucial role of wealth in determining living conditions and the quality 
+of life as it is to understand the qualified and contingent nature of this 
+relationship. An adequate conception of development must go much 
+beyond the accumulation of wealth and the growth of gross national 
+product and other income-related variables. Without ignoring the 
+importance of economic growth, we must look well beyond it. 
+The ends and means of development require examination and 
+scrutiny for a fuller understanding of the development process; it is 
+simply not adequate to take as our basic objective just the maximiza­
+tion of income or wealth, which is, as Aristotle noted, "merely useful 
+and for the sake of something else.'' For the same reason, economic 
+growth cannot sensibly be treated as an end in itself. Development 
+has to be more concerned with enhancing the lives we lead and the 
+freedoms we enjoy. Expanding the freedoms that we have reason to 
+
+
+
+--- [Book Page 15 | PDF Page 32] ---
+
+ 
+The Perspective of Freedom 
+value not only makes our lives richer and more unfettered, but also 
+allows us to be fuller social persons, exercising qur own volitions 
+and interacting with-and influencing-the world in which we live. 
+In chapter 3 this general approach is more fully proposed and scruti_ 
+nized, and is evaluatively compared with other approaches that 
+compete for attention.3 
+FORMS OF UNFREEDOM 
+Very many people across the world suffer from varieties of unfree` 
+dom. Famines continue to occur in particular regions, denying to mil­
+lions the basic freedom to survive. Even in those countries which are 
+no longer sporadically devastated by famines, undernutrition may 
+affect very large numbers of vulnerable human beings. Also, a great 
+many people have little access to health care, to sanitary arrange­
+ments or to clean water, and spend their lives fighting unnecessary 
+morbidity, often succumbing to premature mortality. The richer coun­
+tries too often have deeply disadvantaged people, who lack basic 
+opportunities of health care, or functional education, or gainful 
+employment, or economic and social security. Even within very rich 
+countries, sometimes the longevity of substantial groups is no higher 
+than that in much poorer economies of the soacalled third world. 
+Further, inequality between women and men afflicts-and sometime 
+prematurely ends-the lives of millions of women, and, in different 
+ways, severely restricts the substantive freedoms that women enjoy. 
+Moving to other deprivations of freedom, a great many people in 
+different countries of the world are systematically denied political 
+liberty and basic civil rights. It is sometimes claimed that the denial 
+of these rights helps to stimulate economic growth and is ''good" for 
+rapid economic development. Some have even championed harsher 
+political systems-with denial of basic civil and political rights-for 
+their alleged advantage in promoting economic development. This 
+thesis (often called "the Lee thesis," attributed in some form to the 
+former prime minister of Singapore, Lee Kuan Yew) is sometimes 
+backed by some fairly rudimentary empirical evidence. In fact, more 
+comprehensive intercountry comparisons have not provided any con­
+firmation of this thesis, and there is little evidence that authori­
+tarian politics actually helps economic growth. Indeed, the empirical 
+
+
+
+--- [Book Page 16 | PDF Page 33] ---
+
+I6 
+DEVELOPMENT 
+AS 
+FREEDOM 
+evidence very strongly suggests that economic growth is more a mat­
+ter of a friendlier economic climate than of a harsher political system. 
+This issue will receive examination in chapter 6. 
+Furthermore, economic development has other dimensions, includ­
+ing economic security. Quite often economic insecurity can relate to 
+the lack of democratic rights and liberties. Indeed, the working of 
+democracy and of political rights can even help to prevent famines 
+and other economic disasters. Authoritarian rulers, who are them­
+selves rarely affected by famines (or other such economic calamities), 
+tend to lack the incentive to take timely preventive measures. Demo­
+cratic governments, in contrast, have to win elections and face public 
+criticism, and have strong incentives to undertake measures to avert 
+famines and other such catastrophes. It is not surprising that no 
+famine has ever taken place in the history of the world in a function­
+ing democracy-be it economically rich (as in contemporary Western 
+Europe or North America) or relatively poor (as in postindependence 
+India, or Botswana, or Zimbabwe). Famines have tended to occur in 
+colonial territories governed by rulers from elsewhere (as in British 
+India or in an Ireland administered by alienated English rulers), or in 
+one-party states (as in the Ukraine in the I93os, or China during 
+1958-I96I, or Cambodia in the I970s}, or in military dictatorships 
+(as in Ethiopia, or Somalia, or some of the Sahel countries in the near 
+past). Indeed, as this book goes to press, the two countries that seem 
+to be leading the ('famine league" in the world are North Korea and 
+Sudan-both eminent examples of dictatorial rule. While the preven­
+tion of famine illustrates the incentive advantages with great clarity 
+and force, the advantages of democratic pluralism do, in fact, have a 
+much wider reach. 
+But-most fundamentally-political liberty and civil freedoms 
+are directly important on their own, and do not have to be justified 
+indirectly in terms of their effects on the economy. Even when people 
+without political liberty or civil rights do not lack adequate economic 
+security (and happen to enjoy favorable economic circumstances), 
+they are deprived of important freedoms in leading their lives and 
+denied the opportunity to take part in crucial decisions regarding 
+public affairs. These deprivations restrict social and political lives, 
+and must be seen as repressive even without their leading to other 
+afflictions (such as economic disasters). Since political and civil free-
+
+
+
+--- [Book Page 17 | PDF Page 34] ---
+
+, 
+The Perspective of Freedom 
+IJ 
+doms are constitutive elements of human freedom, their denial is a 
+handicap in itself. In examining the role of human rights in develop­
+ment, we have to take note of the constitutive as well as the instru­
+mental importance of civil rights and political freedoms. These issues 
+are examined in chapter 6. 
+PROCESSES AND OPPORTUNITIES 
+It should be clear from the preceding discussion that the view of free­
+dom that is being taken here involves both the processes that allow 
+' 
+freedom of actions and decisions, and the actual 9pportunities that 
+people have, given their personal and social circumstances. Unfree­
+dam can arise either through inadequate processes (such as the viola­
+tion of voting privileges or other political or civil rights) or through 
+inadequate opportunities that some people have for achieving what 
+they minimally would like to achieve (including the absence of such 
+elementary opportunities as the capability to escape premature mor­
+tality or preventable morbidity or involuntary starvation). 
+The distinction between the process aspect and the opportunity 
+aspect of freedom involves quite a substantial contrast. It can be pur­
+sued at different levels. I have discussed elsewhere the respective roles 
+and requirements of (as well as mutual connections between) the 
+process aspect and the opportunity aspect of freedom.4 While this 
+may not be the occasion to go into the complex and subtle issues that 
+relate to this distinction, it is very important to see freedom in a suf­
+ficiently broad way. It is necessary to avoid confining attention only 
+to appropriate procedures (as so-called libertarians sometimes do, 
+without worrying at all about whether some disadvantaged people 
+suffer from systematic deprivation of substantive opportunities), or, 
+alternatively, only to adequate opportunities (as so-called consequen­
+tialists sometimes do, without worrying about the nature of the 
+processes that bring the opportunities about or the freedom of choice 
+that people have). Both processes and opportunities have importance 
+of their own, and each aspect relates to seeing development as 
+freedom. 
+
+
+
+--- [Book Page 18 | PDF Page 35] ---
+
+18 
+DEVELOPMENT 
+AS 
+FREEDOM 
+TWO ROLES OF FREEDOM 
+The analysis of development presented in this book treats the free­
+doms of individuals as the basic building blocks. Attention is thus 
+paid particularly to the expansion of the "capabilities'' of persons to 
+lead the kind of lives they value-and have reason to value. These 
+capabilities can be enhanced by public policy, but also, on the other 
+side, the direction of public policy can be influenced by the effective 
+use of participatory capabilities by the public. The two-way relation­
+ship is central to the analysis presented here. 
+There are two distinct reasons for the crucial importance of indi­
+vidual freedom in the concept of development, related respectively to 
+evaluation and effectiveness.5 First, in the normative approach used 
+here, substantive individual freedoms are taken to be critical. The 
+success of a society is to be evaluated, in this view, primarily by the 
+substantive freedoms that the members of that society enjoy. This 
+evaluative position differs from the informational focus of more tra­
+ditional normative approaches, which focus on other variables, such 
+as utility, or procedural liberty, or real income. 
+Having greater freedom to do the things one has reason to value is 
+(r) significant in itself for the person's overall freedom, and (2) impor­
+tant in fostering the person's opportunity to have valuable outcomes.6 
+Both are relevant to the evaluation of freedom of the members of the 
+society and thus crucial to the assessment of the society's develop­
+ment. The reasons for this normative focus (and in particular for see­
+ing justice in terms of individual freedoms and its social correlates) is 
+more fully examined in chapter 3. 
+The second reason for taking substantive freedom to be so cru­
+cial is that freedom is not only the basis of the evaluation of success 
+and failure, but it is also a principal determinant of individual initia­
+tive and social effectiveness. Greater freedom enhances the ability of 
+people to help themselves and also to influence the world, and these 
+matters are central to the process of development. The concern here 
+relates to what we may call (at the risk of some oversimplification) 
+the "agency aspect" of the individual. 
+The use of the term "agency" calls for a little clarification. The 
+expression "agent" is sometimes employed in the literature of eco­
+nomics and game theory to denote a person who is acting on some-
+' 
+
+
+
+--- [Book Page 19 | PDF Page 36] ---
+
+The Perspective of Freedom 
+19 
+one else's behalf (perhaps being led on by a 'mprincipal"), and whose 
+achievements are to be assessed in the light of sqmeone else's (the 
+principal's) goals. I am using the term "agent" not in this sense, but 
+in its older-and "grander"-sense as someone who acts and brings 
+about change, and whose achievements can be judged in terms of her 
+own values and objectives, whether or not we assess them in terms of 
+some external criteria as well. This work is particularly concerned 
+with the agency role of the individual as a member of the public and 
+as a participant in economic, social and political actions (varying 
+from taking part in the market to being involved, directly or indi­
+rectly, in individual or joint activities in political and other spheres). 
+This has a bearing on a great many public policy issues, varying 
+from such strategic matters as the widespread temptation of policy 
+bosses to use fine-tuned "targeting" (for "ideal delivery" to a sup­
+posedly inert population), to such fundamental subjects as attempts 
+to dissociate the running of governments from the process of demo­
+cratic scrutiny and rejection (and the participatory exercise of politi­
+cal and civil rights).7 
+EVALUATIVE SYSTEMS: INCOMES AND CAPABILITIES 
+On the evaluative side, the approach used here concentrates on a fac­
+tual base that differentiates it from more traditional practical ethics 
+and economic policy analysis, such as the "economic" concentration 
+on the primacy of income and wealth (rather than on the character­
+istics of human lives and substantive freedoms), the "utilitarian" 
+focus on mental satisfaction (rather than on creative discontent and 
+constructive dissatisfaction), the "libertarian" preoccupation with 
+procedures for liberty (with deliberate neglect of consequences that 
+derive from those procedures) and so on. The overarching case for a 
+different factual base, which focuses on substantive freedoms that 
+people have reason to enjoy, is examined in chapter 3. 
+This is not to deny that deprivation of individual capabilities 
+can have close links with the lowness of income, which connects in 
+both directions: (I) low income can be a major reason for illiteracy 
+and ill health as well as hunger and undernourishment, and ( 2) con­
+versely, better education and health help in the earning of higher 
+incomes. These connections have to be fully seized. But there are also 
+other influences on the basic capabilities and effective freedoms that 
+
+
+
+--- [Book Page 20 | PDF Page 37] ---
+
+20 
+DEVELOPMENT 
+AS 
+FREEDOM 
+individuals enjoy, and there are good reasons to study the nature and 
+reach of these interconnections. Indeed, precisely because income 
+deprivations and capability deprivations often have considerable cor­
+relational linkages, it is important to avoid being mesmerized into 
+thinking that taking note of the former would somehow tell us enough 
+about the latter. The connections are not that tight, and the depar­
+tures are often much more important from a policy point of view 
+than the limited concurrence of the two sets of variables. If our atten­
+tion is shifted from an exclusive concentration on income poverty to 
+the more inclusive idea of capability deprivation, we can better under­
+stand the poverty of human lives and freedoms in terms of a different 
+informational base (involving statistics of a kind that the income per­
+spective tends to crowd out as a reference point for policy analysis). 
+The role of income and wealth-important as it is along with other 
+influences-has to be integrated into a broader and fuller picture of 
+success and deprivation. 
+POVERTY AND INEQUALITY 
+The implications of this informational base for the analysis of pov­
+erty and inequality are examined in chapter 4· There are good rea­
+sons for seeing poverty as a deprivation of basic capabilities, rather 
+than merely as low income. Deprivation of elementary capabilities 
+can be reflected in premature mortality, significant undernourish­
+ment (especially of children), persistent morbidity, widespread illit­
+eracy and other failures. For example, the terrible phenomenon of 
+"missing women'' (resulting from unusually higher age-specific mor­
+tality rates of women in some societies, particularly in South Asia, 
+West Asia, North Africa, and China) has to be analyzed with demo­
+graphic, medical and social information, rather than in terms of low 
+incomes, which sometimes tell us rather little about the phenomenon 
+of gender inequality. s 
+The shift in perspective is important in giving us a different-and 
+more directly relevant-view of poverty not only in the developing 
+countries, but also in the more affluent societies. The presence of 
+massive unemployment in Europe (Io to 12 percent in many of the 
+major European countries) entails deprivations that are not well 
+reflected in income distribution statistics. These deprivations are 
+, 
+
+
+
+--- [Book Page 21 | PDF Page 38] ---
+
+The Perspective of Freedom 
+2I 
+often downplayed on the grounds that the European system of social 
+security (including unemployment insurance) tends to make up for 
+the loss of income of the unemployed. But unemployment is not 
+merely a deficiency of income that can be made up through transfers 
+by the state (at heavy fiscal cost that can itself be a very serious bur­
+den); it is also a source of far-reaching debilitating effects on indi­
+vidual freedom, initiative, and skills. Among its manifold effects, 
+unemployment contributes to the "social exclusion', of some groups, 
+and it leads to losses of self-reliance, self-confidence and psychologi­
+cal and physical health. Indeed, it is hard to escape a sense of mani­
+fest incongruity in contemporary European attempts to move to a 
+more "self-help" social climate without devising adequate policies 
+for reducing the massive and intolerable levels of unemployment that 
+make such self-help extremely difficult. 
+INCOME AND MORTALITY 
+Even in terms of the connection between mortality and income (a 
+subject in which Maitreyee was rather overambitious), it is remark­
+able that the extent of deprivation for particular groups in very rich 
+countries can be comparable to that in the so-called third world. For 
+example, in the United States, African Americans as a group have no 
+higher-indeed have a lower-chance of reaching advanced ages 
+than do people born in the immensely poorer economies of China or 
+the Indian state of Kerala (or in Sri Lanka, Jamaica or Costa Rica) .9 
+This is shown in figures r.r and 1.2. Even though the per capita 
+income of African Americans in the United States is considerably 
+lower than that of the white population, African Americans are very 
+many times richer in income terms than the people of China or Ker­
+ala (even after correcting for cost-of-living differences). In this con­
+text, the comparison of survival prospects of African Americans 
+vis-a-vis those of the very much poorer Chinese, or Indians in Kerala, 
+is of particular interest. African Americans tend to do better in terms 
+of survival at low age groups (especially in terms of infant mortality) 
+vis-a-vis the Chinese or the Indians, but the picture changes over the 
+years. 
+In fact, it turns out that men in China and in Kerala decisively 
+outlive African American men in terms of surviving to older age 
+
+
+
+--- [Book Page 22 | PDF Page 39] ---
+
+22 
+DEVELOPMENT 
+AS 
+FREEDOM 
+FIGURE r.I: Variations in Male Survival Rates by Region 
+100 
+-
+) 
+m 
+.j.l 
+95 
+5 90 .--
+u 
+t 
+P-1 
+-
+ 85 
+·-
+.... 
+.... 
+.... 
+a 80 .... ----1--+--+--t--+---1*,...--Jir ,..-- 
+s:: 
+v 
+  
+75 
+70 
+___ _J_ 
+___ ·---t--+---·----·1---
+1 
+------+----+----+----t·--·-----+---+---i-"-" 
+65	---
+
+ 
+0 
+5 
+15 
+25 
+35 
+45 
+55 
+65 
+75 
+Age (Years) 
+....u.s . 
+(white) 
++China 
++Kerala, 
+India 
++U.S. 
+(black) 
+Sources: United States, 199I-1993: U.S. Department of Health and Human Services, 
+Health United States 1995 (Hyattsville, Md.: National Center for Health Statistics, 
+1996); Kerala, 1991: Government of India, Sample Registration System: Fertility 
+and Mortality Indicators 1991 (New Delhi: Office of the Registrar General, 1991); 
+China, 1992: World Health Organization, World Health Statistics Annual 1994 
+(Geneva: World Health Organization, 1994). 
+groups. Even African American women end up having a survival pat­
+tern for the higher ages similar to that of the much poorer Chinese, 
+and decidedly lower survival rates than the even poorer Indians in 
+Kerala. So it is not only the case that American blacks suffer from 
+relative deprivation in terms of income per head vis-aFvis American 
+whites, they also are absolutely more deprived than the low-income 
+Indians in Kerala (for both women and men), and the Chinese (in the 
+case of men), in terms of living to ripe old ages. The causal influences 
+on these contrasts (that is, between living standards judged by 
+income per head and those judged by the ability to survive to higher 
+ages) include social arrangements and community relations such as 
+., 
+
+
+
+--- [Book Page 23 | PDF Page 40] ---
+
+The Perspective of Freedom 
+23 
+FIGURE 1.2: Variations in Female Survival Rates by Region 
+100 
+I 
+I 
+l 
+-:::::
+-+---------+. ---t-----+---·
+·--" ··---1--.. --------
+i 
+-95 
+B 
+3 
+i 
+C 
+I 
+ 90 
+------1-·---t---:.,.:-..;:,..,.;:."!'..._---+--·-· 
+.... u.s. 
+Q) 
+i 
+h 
+ 
+t 
+(w}) 
+ 
+I 
+i 
+.s 
+85 
+................ _ 
+._,.,_,_,_,, ........ -.f---......... 
+-... ·-·-·-.--·· ... _ .. _ .. _, __ 
+,_,, ... _ ..... -........... ,,_ 
+........ _ .. _, _
+___ ...._D .... 
+__;: 
+.... 
+I 
+I 
+! 
+' 
+.:4 
+! 
+I 
+i 
+ 
+> 
+I 
+; 
+t 
+! 
+• . 
+' 
+• 
+. 
+i 
+-
+i 
+! 
+. 
+a 
+, 
+1 
+i 
+, 
+c 80 
+t-----1 
+---t 
+1---t-"c'"-:.-1 
+Q) 
+I 
+I 
+I 
+I 
+s 
+I 
+! 
+! 
+I 
+0 
+• 
+I 
+! 
+ 7 5 
+__ ... 
+, ............... ............. 
+,,,_ ........................ _1.. 
+.................. ----l---·-.... -........ _ .. , 
+................ 
+, _  ...... -.... -} 
+.. 
+-............. _,_, __ /-·-·-.. ·-.. -
+! 
+I 
+1 
+I 
+I 
+' 
+i 
+I 
+II 
+I 
+70 -E---+---+-·--I 
+; 
+I 
+! 
+! 
+! 
+I 
+·-··-··-.. -·,··-" 
+I 
+l 
+1 
+65 F------
+----
+----
+----G----H------I 
+0 
+5 
+15 
+25 
+35 
+45 
+55 
+65 
+75 
+Age (Years) 
++Kerala, 
+India 
++U.S. 
+(black) 
++China 
+Sources: United States, 199I-1993: U.S. Department of Health and Human Services, 
+Health United States I99J (Hyattsville, Md.: National Center for Health Statistics, 
+1996); Kerala, 1991: Government of India, Sample Registration System: Fertility 
+and Mortality Indicators I991 (New Delhi: Office of the Registrar General, 1991); 
+China, 1992: World Health Organization, World Health Statistics Annual I994 
+(Geneva: World Health Organization, 1994). 
+medical coverage, public health care, school education, law and order, 
+prevalence of violence and so on.10 
+It is also worth noting that African Americans in the United States 
+as a whole include a great many internal diversities. Indeed, if we 
+look at the black male populations in particular U.S. cities (such as 
+New York City, San Francisco, St. Louis or Washington, D.C.), we 
+find that they are overtaken in terms of survival by people from 
+China or Kerala at much earlier ages. n They are also overtaken by 
+many other third world populations; for example, Bangladeshi men 
+have a better chance of living to ages beyond forty years than AfriN 
+can American men from the Harlem district of the prosperous city 
+of New York.u All this is in spite of the fact that African Americans 
+
+
+
+--- [Book Page 24 | PDF Page 41] ---
+
+24 
+D E V E L 0 P M E NT 
+A S 
+F R E E D 0 M 
+in the United States are very many times richer than the people of 
+comparison groups in the third world. 
+FREEDOM, CAPABILITY AND THE QUALITY OF LIFE 
+In the foregoing discussion, I have been concentrating on a very ele­
+mentary freedomc the ability to survive rather than succumb to pre­
+mature mortality. This is, obviously, a significant freedom, but there 
+are many others that are also important. Indeed, the range of relevant 
+freedoms can be very wide. The extensive coverage of freedoms is 
+sometimes seen as a problem in getting an "operational" approach to 
+development that is freedom-centered. I think this pessimism is ill­
+founded, but I shall postpone taking up this issue until chapter 3, 
+when the foundational approaches to valuation will be considered 
+together. 
+It should, however, be noted here that the freedom-centered per­
+spective has a generic similarity to the common concern with "quality 
+of life," which too concentrates on the way human life goes (per­
+haps even the choices one has) and not just on the resources or 
+income that a person commands. r3 The focusing on the quality of life 
+and on substantive freedoms, rather than just on income or wealth, 
+may look like something of a departure from the established tradi­
+tions of economics, and in a sense it is (especially if comparisons are 
+made with some of the more austere income-centered analysis that 
+can be found in contemporary economics). But in fact these broader 
+approaches are in tune with lines of analysis that have been part of 
+professional economics right from the beginning. The Aristotelian 
+connections are obvious enough (Aristotle's focus on "flourishing" 
+and "capacity" clearly relates to the quality of life and to substantive 
+freedoms, as has been discussed by Martha Nussbaum).14 There are 
+strong connections also with Adam Smith's analysis of "necessities" 
+and conditions of living.r5 
+Indeed, the origin of economics was significantly motivated by the 
+need to study the assessment of, and causal influences on, the oppor­
+tunities that people have for good living. Aside from Aristotle's clas­
+sic use of this idea, similar notions were much used in the early 
+writings on national accounts and economic prosperity, pioneered by 
+William Petty in the seventeenth century, and followed by Gregory 
+I. 
+
+
+
+--- [Book Page 25 | PDF Page 42] ---
+
+The Perspective of Freedom 
+King, Franois Quesnay, Antoine-Laurent Lavoisier, Joseph-Louis 
+Lagrange and others. While the national accounts devised by these 
+leaders of economic analysis established the foundations of the mod­
+ern concept of income, their attention was never confined to this one 
+concept. They also saw the importance of income to be instrumental 
+and circumstantially contingent. r6 
+For example, while William Petty had pioneered both "the income 
+-- -
+· -
+.
+. 
+------,.-.--
+----
+method'"' and "the expenditure methon;;of est1maiTng natiOnal 
+income (the modern methods of estimation directly follow from these 
+early attempts), he was explicitly concerned with "the Common 
+Safety" and "each Man's particular Happiness." Petty's stated objec­
+tive for undertaking his study related directly to the assessment of 
+people's living conditions. He managed to combine scientific investi­
+gation with a significant dose of seventeenth-century politics ("to 
+show" that "the King's subjects are not in so bad a condition as 
+discontented Men would make them"). The impact of commodity 
+consumption on the various functionings of people also received 
+attention from others. For example, Joseph-Louis Lagrange, the 
+great mathematician, was particularly innovative in converting com­
+modities into their function-related characteristics: amounts of wheat 
+and other grains into their nourishment equivalent, amounts of all 
+meat into equivalent units of beef (in terms of their nutritional quali­
+ties) and amounts of all beverages into units of wine (remember, 
+Lagrange was French).x1 In concentrating attention on resulting func­
+tionings rather than commodities only, we reclaim some of the old 
+heritage of professional economics. 
+MARKETS AND FREEDOMS 
+The role of the market mechanism is another subject that calls for 
+some reclaiming of old heritage. The relation of the market mecha­
+nism to freedom and thus to economic development raises questions 
+of at least two quite distinct types, which need to be clearly distin­
+guished. First, a denial of opportunities of transaction, through arbi­
+trary controls, can be a source of unfreedom in itself. People are then 
+prevented from doing what can be taken to be-in the absence of 
+compelling reasons to the contrary-something that is within their 
+right to do. This point does not depend on the efficiency of the 
+
+
+
+--- [Book Page 26 | PDF Page 43] ---
+
+26 
+DEVELOPMENT 
+AS 
+FREEDOM 
+market mechanism or on any extensive analysis of the consequences 
+of having or not having a market system; it turns simply on the 
+importance of freedom of exchange and transaction without let or 
+hindrance. 
+This argument for the market has to be distinguished from a sec­
+ond argument, which is very popular right now: that markets typi­
+cally work to expand income and wealth and economic opportunities 
+that people have. Arbitrary restrictions of the market mechanism can 
+lead to a reduction of freedoms because of the consequential effects 
+of the absence of markets. Deprivations can result when people are 
+denied the economic opportunities and favorable consequences that 
+markets offer and support. 
+These two arguments in favor of the market mechanism, both 
+relevant to the perspective of substantive freedoms, have to be sepa­
+rated out. In the contemporary economic literature, it is the latter 
+argument-based on the effective working and favorable results of 
+the market mechanism-that receives virtually all the attention. rs 
+That argument is certainly strong, in general, and there is plenty of 
+empirical evidence that the market system can be an engine of fast 
+economic growth and expansion of living standards. Policies that 
+restrict market opportunities can have the effect of restraining the 
+expansion of substantive freedoms that would have been generated 
+through the market system, mainly through overall economic pros­
+perity. This is not to deny that markets can sometimes be counter­
+productive (as Adam Smith himself pointed out, in supporting in 
+particular the need for control in the financial market).19 There are 
+serious arguments for regulation in some cases. But by and large the 
+positive effects of the market system are now much more widely rec­
+ognized than they were even a few decades ago. 
+However, this case for the use of markets is altogether different 
+from the argument that people have the right to undertake transac­
+tions and exchange. Even if such rights are not accepted as being 
+inviolable and entirely independent of their consequences-it can 
+still be argued that there is some social loss involved in denying 
+people the right to interact economically with each other. If it so hap­
+pens that the effects of such transactions are so bad for others that 
+this prima facie presumption in favor of allowing people to trans­
+act as they like may be sensibly restricted, there is still something 
+' 
+
+
+
+--- [Book Page 27 | PDF Page 44] ---
+
+The Perspective of Freedom 
+27 
+directly lost in imposing this restriction (even if it is outweighed by 
+the alternative loss of the indirect effects of these transactions on 
+others). 
+The discipline of economics has tended to move away from focus­
+ing on the value of freedoms to that of utilities, incomes and wealth. 
+This narrowing of focus leads to an underappreciation of the full role 
+of the market mechanism, even though economics as a profession can 
+hardly be accused of not praising the markets enough. The issue, 
+however, is not the amount of praise, but the reasons for it. 
+Take for example the well-known argument in economics that a 
+competitive market mechanism can achieve a type of efficiency that 
+a centralized system cannot plausibly achieve both because of the 
+economy of information (each person acting in the market does not 
+have to know very much) and the compatibility of incentives (each 
+person's canny actions can merge nicely with those of others). Con­
+sider now, contrary to what is generally assumed, a case in which the 
+same economic result is brought about by a fully centralized system 
+with all the decisions of everyone regarding production and alloca­
+tion being made by a dictator. Would that have been just as good an 
+achievement? 
+It is not hard to argue that something would be missing in such a 
+scenario, to wit, the freedom of people to act as they like in deciding 
+on where to work, what to produce, what to consume and so on. 
+Even if in both the scenarios (involving, respectively, free choice and 
+compliance to dictatorial order) a person produces the same com­
+modities in the same way and ends up with the same income and 
+buys the same goods, she may still have very good reason to prefer 
+the scenario of free choice over that of submission to order. There is 
+a distinction between "culmination outcomes" (that is, only final 
+outcomes without taking any note of the process of getting there, 
+including the exercise of freedom) and "comprehensive outcomes" 
+(taking note of the processes through which the culmination out­
+comes come about)-a distinction the central relevance of which I 
+have tried to analyze more fully elsewhere. 20 The merit of the market 
+system does not lie only in its capacity to generate more efficient cul­
+mination outcomes. 
+The shift in the focus of attention of pro-market economics from 
+freedom to utility has been achieved at some cost: the neglect of the 
+
+
+
+--- [Book Page 28 | PDF Page 45] ---
+
+28 
+DEVELOPMENT 
+AS 
+FREEDOM 
+central value of freedom itself. John Hicks, one of the leading econo­
+mists of this century, who himself was far more utility-oriented than 
+freedom-oriented, did put the issue with admirable clarity in a pas­
+sage on this subject: 
+The liberal, or non-interference, principles of the classical 
+( Smithian or Ricardian) economists were not, in the first place, 
+economic principles; they were an application to economics of 
+principles that were thought to apply to a much wider field. 
+The contention that economic freedom made for economic 
+efficiency was no more than a secondary support .... What 
+I do question is whether we are justified in forgetting, as 
+completely as most of us have done, the other side of the 
+argwnent. 2.r 
+This point may look somewhat esoteric in the context of eco­
+nomic development in view of the priority that the development lit­
+erature tends to give to generating high incomes, a bigger basket of 
+consumer goods and other culmination results. But it is far from eso­
+teric. One of the biggest changes in the process of development in 
+many economies involves the replacement of bonded labor and 
+forced work, which characterize parts of many traditional agricul­
+tures, with a system of free labor contract and unrestrained physical 
+movement. A freedom-based perspective on development picks up 
+this issue immediately in a way that an evaluative system that focuses 
+only on culmination outcomes may not. 
+The point can be illustrated with the debates surrounding the 
+nature of slave labor in the southern United States before its aboli­
+tion. The classic study on this subject by Robert Fogel and Stanley 
+Engerman (Time on the Cross: The Economics of American Negro 
+Slavery) includes a remarkable finding about the relatively high ''pe­
+cuniary incomes)) of the slaves. (Controversies on some issues cov­
+ered in this book did not seriously undermine this finding.) The 
+commodity baskets of consumption of slaves compared favorably­
+certainly not unfavorably-with the incomes of free agricultural 
+laborers. And the slaves' life expectancy too was, relatively speaking, 
+not especially low-"nearly identical with the life expectation of 
+countries as advanced as France and Holland," and "much longer 
+.,. 
+
+
+
+--- [Book Page 29 | PDF Page 46] ---
+
+The Perspective of Freedom 
+29 
+[than] life expectations [of] free urban industrial workers in both the 
+United States and Europe. ,22 And yet slaves did jun away, and there 
+were excellent reasons for presuming that the interest of the slaves 
+was not well served by the system of slavery. In fact, even the 
+attempts, after the abolition of slavery, to get the slaves back, to 
+make them work like slaves (particularly in the form of "gang 
+work"), but at high wages, were not successful. 
+After the slaves were freed many planters attempted to recon­
+struct their work gangs on the basis of wage payments. But 
+such attempts generally foundered, despite the fact that the 
+wages offered to freedmen exceeded the incomes they had 
+received as slaves by more than roo percent. Even at this pre­
+mium planters found it impossible to maintain the gang system 
+once they were deprived of the right to apply force. 2.3 
+The importance of freedom of employment and that in working prac­
+tice is crucial to understanding the valuations involved. 24 
+In fact, Karl Marx's favorable remarks on capitalism as against 
+the unfreedom of precapitalist labor arrangements related exactly 
+to this question, which also produced Marx's characterization of 
+the American Civil War as "the one great event of contemporary 
+history. "25 Indeed, this issue of market-based freedom is quite cen­
+tral to the analysis of bonded labor-common in many developing 
+countries-and the transition to free-contract labor arrangements. 
+This, in fact, is one of the cases in which Marxian analysis has tended 
+to have an affinity with libertarian concentration on freedom as 
+opposed to utility. 
+For example, in his major study o£ transition from bonded labor 
+to wage labor in India, V. K. Ramachandran provides an illuminating 
+picture of the empirical importance of this question in the contempo­
+rary agrarian situation in southern India: 
+Marx distinguishes between (to use the term used by Jon 
+Elster) the formal freedom of the worker under capitalism and 
+the real unfreedom of workers in pre-capitalist systems: "the 
+freedom of workers to change employers makes him free in a 
+way not found in earlier modes of production." The study of 
+
+
+
+--- [Book Page 30 | PDF Page 47] ---
+
+30 
+DEVELOPMENT 
+AS 
+FREEDOM 
+the development of wage labour in agriculture is important 
+from another perspective as well. The extension of the freedom 
+of workers in a society to sell their labour power is an enhance­
+ment of their positive freedom, which is, in turn, an important 
+measure of how well that society is doing.26 
+The linked presence of labor bondage with indebtedness yields a 
+particularly tenacious form of unfreedom in many precapitalist agri­
+cultures.27 Seeing development as freedom permits a direct approach 
+to this issue that is not parasitic on having to show that labor mar­
+kets also raise productivity of agriculture-a serious issue on its own 
+but quite different from the question of freedom of contract and 
+employment. 
+Some of the debates surrounding the terrible issue of child labor 
+also relate to this question of freedom of choice. The worst violations 
+of the norm against child labor come typically from the virtual slav­
+ery of children in disadvantaged families and from their being forced 
+into exploitative employment (as opposed to being free and possibly 
+going to school).28 This direct issue of freedom is an integral part of 
+this vexed question. 
+VALUES AND THE PROCESS OF VALUATION 
+I return now to evaluation. Since our freedoms are diverse, there is 
+room for explicit valuation in determining the relative weights of dif­
+ferent types of freedoms in assessing individual advantages and social 
+progress. Valuations are, of course, involved in all such approaches 
+(including utilitarianism, libertarianism, and other approaches, to 
+be discussed in chapter 3), even though they are often made implic­
+itly. Those who prefer a mechanical index, without the need to be 
+explicit about what values are being used and why, have a tendency 
+to grumble that the freedom-based approach requires that valuations 
+be explicitly made. Such complaints have frequently been aired. But 
+explicitness, I shall argue, is an important asset for a valuational 
+exercise, especially for it to be open to public scrutiny and criticism. 
+Indeed, one of the strongest arguments in favor of political freedom 
+lies precisely in the opportunity it gives citizens to discuss and 
+debate-and to participate in the selection of-values in the choice of 
+priorities (to be discussed in chapters 6 through II). 
+1 
+.
+
+
+
+--- [Book Page 31 | PDF Page 48] ---
+
+,. 
+The Perspective of Freedom 
+3I 
+Individual freedom is quintessentially a social product, and there 
+is a two-way relation between ( r) social arrangements to expand 
+individual freedoms and (2) the use of individual freedoms not 
+only to improve the respective lives but also to make the social 
+arrangements more appropriate and effective. Also, individual con­
+ceptions of justice and propriety, which influence the specific uses that 
+individuals make of their freedoms, depend on social associations­
+particularly on the interactive formation of public perceptions and 
+on collaborative comprehension of problems and remedies. The 
+analysis and assessment of public policies have to be sensitive to these 
+diverse connections. 
+TRADITION, CULTURE AND DEMOCRACY 
+The issue of participation is also central to some of the foundational 
+questions that have plagued the force and reach of development 
+theory. For example, it has been argued by some that economic 
+development as we know it may actually be harmful for a nation, 
+since it may lead to the elimination of its traditions and cultural heri­
+tage. 29 Objections of this kind are often quickly dismissed on the 
+ground that it is better to be rich and happy than to be impoverished 
+and traditional. This may be a persuasive slogan, but it is scarcely an 
+adequate response to the critique under discussion. Nor does it reflect 
+a serious engagement with the critical valuational issue that is being 
+raised by development skeptics. 
+The more serious issue, rather, concerns the source of author­
+ity and legitimacy. There is an inescapable valuational problem in­
+volved in deciding what to choose if and when it turns out that 
+some parts of tradition cannot be maintained along with economic 
+or social changes that may be needed for other reasons. It is a choice 
+that the people involved have to face and assess. The choice is nei­
+ther closed (as many development apologists seem to suggest), nor 
+is it one for the elite "guardians" of tradition to settle (as many 
+development skeptics seem to presume). If a traditional way of life 
+has to be sacrificed to escape grinding poverty or minuscule longev­
+ity (as many traditional societies have had for thousands of years), 
+then it is the people directly involved who must have the opportu­
+nity to participate in deciding what should be chosen. The real con­
+flict is between 
+
+
+
+--- [Book Page 32 | PDF Page 49] ---
+
+32 
+DEVELOPMENT 
+AS 
+FREEDOM 
+I) 
+the basic value that the people must be allowed to decide 
+freely what traditions they wish or not wish to follow; and 
+2) 
+the insistence that established traditions be followed (no mat­
+ter what), or, alternatively, people must obey the decisions by reli­
+gious or secular authorities who enforce traditions-real or imagined. 
+The force of the former precept lies in the basic importance of 
+human freedom, and once that is accepted there are strong implica­
+tions on what can or cannot be done in the name of tradition. The 
+approach of "development as freedom" emphasizes this precept. 
+Indeed, in the freedom-oriented perspective the liberty of all to 
+participate in deciding what traditions to observe cannot be ruled out 
+by the national or local "guardians"-neither by the ayatollahs (or 
+other religious authorities), nor by political rulers (or governmen­
+tal dictators), nor by cultural "experts" (domestic or foreign). The 
+pointer to any real conflict between the preservation of tradition and 
+the advantages of modernity calls for a participatory resolution, not 
+for a unilateral rejection of modernity in favor of tradition by politi­
+cal rulers, or religious authorities, or anthropological admirers of the 
+legacy of the past. The question is not only not closed, it must be 
+wide open for people in the society to address and join in deciding. 
+An attempt to choke off participatory freedom on grounds of tradi­
+tional values (such as religious fundamentalism, or political custom, 
+or the so-called Asian values) simply misses the issue of legitimacy 
+and the need for the people affected to participate in deciding what 
+they want and what they have reason to accept. 
+This basic recognition has remarkable reach and powerful impli­
+cations. A pointer to tradition does not provide ground for any gen­
+eral suppression of media freedom, or of the rights of communication 
+between one citizen and another. Even if the oddly distorted view of 
+how authoritarian Confucius really was is accepted as being histori­
+cally correct (a critique of that interpretation will be taken up in 
+chapter Io), this still does not give anyone an adequate ground for 
+practicing authoritarianism through censorship or political restric­
+tion, since the legitimacy of adhering today to the views enunciated 
+in the sixth century B.c. has to be decided by those who live today. 
+Also, since participation requires knowledge and . basic educa­
+tional skills, denying the opportunity of schooling to any group-
+
+
+
+--- [Book Page 33 | PDF Page 50] ---
+
+The Perspective of Freedom 
+33 
+say, female children-is immediately contrary to the basic conditions 
+of participatory freedom. While these rights have often been disputed 
+(one of the severest onslaughts coming recently from the leadership 
+of the Taliban in Afghanistan), that elementary requirement cannot 
+be escaped in a freedom-oriented perspective. The approach of devel­
+opment as freedom has far-reaching implications not only for the 
+ultimate objectives of development, but also for processes and proce­
+dures that have to be respected. 
+CONCLUDING REMARKS 
+Seeing development in terms of the substantive freedoms of people 
+has far-reaching implications for our understanding of the process of 
+development and also for the ways and means of promoting it. On 
+the evaluative side, this involves the need to assess the requirements 
+of development in terms of removing the unfreedoms from which the 
+members of the society may suffer. The process of development, in 
+this view, is not essentially different from the history of overcoming 
+these unfreedoms. While this history is not by any means unrelated 
+to the process of economic growth and accumulation of physical 
+and human capital, its reach and coverage go much beyond these 
+variables. 
+In focusing on freedoms in evaluating development, it is not being 
+suggested that there is some unique and precise "criterion" of devel­
+opment in terms of which the different development experiences can 
+always be compared and ranked. Given the heterogeneity of distinct 
+components of freedom as well as the need to take note of differ­
+ent persons' diverse freedoms, there will often be arguments that go 
+in contrary directions. The motivation underlying the approach of 
+"development as freedom" is not so much to order all states-or all 
+alternative scenarios-into one "complete ordering," but to draw 
+attention to important aspects of the process of development, each of 
+which deserves attention. Even after such attention is paid, there will 
+no doubt remain differences in possible overall rankings, but their 
+presence is not embarrassing to the purpose at hand. 
+What would be damaging would be the neglect-often to be seen 
+in the development literature-of centrally relevant concerns because 
+of a lack of interest in the freedoms of the people involved. An 
+
+
+
+--- [Book Page 34 | PDF Page 51] ---
+
+34 
+DEVELOPMENT 
+AS 
+FREEDOM 
+adequately broad view of development is sought in order to focus the 
+evaluative scrutiny on things that really matter, and in particular to 
+avoid the neglect of crucially important subjects. While it may be 
+nice to think that considering the relevant variables will automati­
+cally take different people to exactly the same conclusions on how to 
+rank alternative scenarios, the approach requires no such unanimity. 
+Indeed, debates on such matters, which can lead to important politi­
+cal arguments, can be part of the process of democratic participation 
+that characterizes development. There will be occasion, later on in 
+this book, to examine the substantial issue of participation as a part 
+of the process of development. 
+
+
+
+--- [Book Page 35 | PDF Page 52] ---
+
+CHAPTER 
+2 
+THE ENDS AND THE MEANS 
+OF DEVELOPMENT 
+Let me start off with a distinction between two general attitudes to 
+the process of development that can be found both in professional 
+economic analysis and in public discussions and debates. r One view 
+sees development as a "fierce,' process, with much "blood, swea] and 
+tears" -a world in which wisdom demands toughness. In particular, 
+it demands calculated neglect of various concerns that are seen as 
+"soft-headed" (even if the critics are often too polite to call them 
+that). Depending on what the author's favorite poison is, the tempta­
+tions to be resisted can include having social safety nets that protect 
+the very poor, providing social services for the population at large, 
+departing from rugged institutional guidelines in response to identi­
+fied hardship, and favoring-"much too early'' -political and civil 
+rights and the "luxury,' of democracy. These things, it is argued in 
+this austere attitudinal mode, could be supported later on, when the 
+development process has borne enough fruit: what is needed here and 
+now is "toughness and discipline." The different theories that share 
+this general outlook diverge from one another in pointing to dis­
+tinct areas of softness that are particularly to be avoided, varying 
+from financial softness to political relaxation, from plentiful social 
+expenditures to complaisant poverty relief. 
+This hard-knocks attitude contrasts with an alternative out­
+look that sees development as essentially a "friendly" process. De­
+pending on the particular version of this attitude, the congeniality 
+of the process is seen as exemplified by such things as mutually 
+
+
+
+--- [Book Page 36 | PDF Page 53] ---
+
+36 
+DEVELOPMENT 
+AS 
+FREEDOM 
+beneficial exchanges (of which Adam Smith spoke eloquently), or by 
+the working of social safety nets, or of political liberties, or of social 
+development-or some combination or other of these supportive 
+activities. 
+CONSTITUTIVE AND INSTRUMENTAL 
+ROLES OF FREEDOM 
+The approach of this book is much more compatible with the lat­
+ter approach than with the former . .z. It is mainly an attempt to see 
+development as a process of expanding the real freedoms that peo­
+ple enjoy. In this approach, expansion of freedom is viewed as both 
+(r) the primary end and (2) the principal means of development. 
+They can be called respectively the "constitutive role" and the "in­
+strumental role, of freedom in development. The constitutive role of 
+freedom relates to the importance of substantive freedom in enrich­
+ing human life. The substantive freedoms include elementary capa­
+bilities like being able to avoid such deprivations as starvation, under­
+nourishment, escapable morbidity and premature mortality, as well 
+as the freedoms that are associated with being literate and numerate, 
+enjoying political participation and uncensored speech and so on. In 
+this constitutive perspective, development involves expansion of 
+these and other basic freedoms. Development, in this view, is the 
+process of expanding human freedoms, and the assessment of devel­
+opment has to be informed by this consideration. 
+Let me refer here to an example that was briefly discussed in 
+the introduction (and which involves an often raised question in the 
+development literature) in order to illustrate how the recognition of 
+the "constitutive" role of freedom can alter developmental analysis. 
+Within the narrower views of development (in terms of, say, GNP 
+growth or industrialization) it is often asked whether the freedom of 
+political participation and dissent is or is not ''conducive to develop­
+ment." In the light of the foundational view of development as free­
+dom, this question would seem to be defectively formulated, since it 
+misses the crucial understanding that political participation and dis­
+sent are constitutive parts of development itself. Even a very rich per­
+son who is prevented from speaking freely, or from participating in 
+public debates and decisions, is deprived of something that she has 
+'
+
+
+
+--- [Book Page 37 | PDF Page 54] ---
+
+The Ends and the Means of Development 
+3 7 
+reason to value. The process of development, when judged by the 
+enhancement of human freedom, has to include the removal of this 
+person's deprivation. Even if she had no immediate interest in exer­
+cising the freedom to speak or to participate, it would still be a depri­
+vation of her freedoms if she were to be left with no choice on these 
+matters. Development seen as enhancement of freedom cannot but 
+address such deprivations. The relevance of the deprivation of basic 
+political freedoms or civil rights, for an adequate understanding of 
+development, does not have to be established through their indirect 
+contribution to other features of development (such as the growth of 
+GNP or the promotion of industrialization). These freedoms are part 
+and parcel of enriching the process of development. 
+This fundamental point is distinct from the "instrumental, argu­
+ment that these freedoms and rights may also be very effective in 
+contributing to economic progress. That instrumental connection is 
+important as well (and will be discussed particularly in chapters 5 
+and 6), but the significance of the instrumental role of political free­
+dom as means to development does not in any way reduce the evalu­
+ative importance of freedom as an end of development. 
+The intrinsic importance of human freedom as the preeminent 
+objective of development has to be distinguished from the instru­
+mental effectiveness of freedom of different kinds to promote human 
+freedom. Since the focus of the last chapter was mainly on the intrin­
+sic importance of freedom, I shall now concentrate more on the effec­
+tiveness of freedom as means-not just as end. The instrumental role 
+of freedom concerns the way different kinds of rights, opportunities, 
+and entitlements contribute to the expansion of human freedom in 
+general, and thus to promoting development. This relates not merely 
+to the obvious connection that expansion of freedom of each kind 
+must contribute to development since development itself can be seen 
+as a process of enlargement of human freedom in general. There is 
+much more in the instrumental connection than this constitutive link­
+age. The effectiveness of freedom as an instrument lies in the fact that 
+different kinds of freedom interrelate with one another, and freedom 
+of one type may greatly help in advancing freedom of other types. 
+The two roles are thus linked by empirical connections, relating free­
+dom of one kind to freedom of other kinds. 
+
+
+
+--- [Book Page 38 | PDF Page 55] ---
+
+38 
+DEVELOPMENT 
+AS 
+FREEDOM 
+INSTRUMENTAL FREEDOMS 
+In presenting empirical studies in this work, I shall have the occasion 
+to discuss a number of instrumental freedoms that contribute, 
+directly or indirectly, to the overall freedom people have to live the 
+way they would like to live. The diversities of the instruments 
+involved are quite extensive. However, it may be convenient to iden­
+tify five distinct types of freedom that may be particularly worth 
+emphasizing in this instrumental perspective. This is by no means an 
+exhaustive list, but it may help to focus on some particular policy 
+issues that demand special attention at this time. 
+In particular, I shall consider the following types of instrumen­
+tal freedoms: (I) political freedoms, (2) economic facilities, (3) social 
+opportunities, (4) transparency guarantees and (5) protective secu­
+rity. These instrumental freedoms tend to contribute to the general 
+capability of a person to live more freely, but they also serve to com­
+plement one another. While development analysis must, on the one 
+hand, be concerned with the objectives and aims that make these 
+instrumental freedoms consequentially important, it must also take 
+note of the empirical linkages that tie the distinct types of freedom 
+together, strengthening their joint importance. Indeed, these connec­
+tions are central to a fuller understanding of the instrumental role of 
+freedom. The claim that freedom is not only the primary object of 
+development but also its principal means relates particularly to these 
+linkages. 
+Let me comment a little on each of these instrumental freedoms. 
+Political freedoms, broadly conceived (including what are called civil 
+rights), refer to the opportunities that people have to determine who 
+should govern and on what principles, and also include the possi­
+bility to scrutinize and criticize authorities, to have freedom of politi­
+cal expression and an uncensored press, to enjoy the freedom to 
+choose between different political parties, and so on. They include 
+the political entitlements associated with democracies in the broadest 
+sense (encompassing opportunities of political dialogue, dissent and 
+critique as well as voting rights and participatory selection of legisla­
+tors and executives). 
+Economic facilities refer to the opportunities that individuals 
+' 
+
+
+
+--- [Book Page 39 | PDF Page 56] ---
+
+The Ends and the Means of Development 
+3 9 
+respectively enjoy to utilize economic resources for the purpose of 
+consumption, or production, or exchange. The .economic entitle­
+ments that a person has will depend on the resources owned or avail­
+able for use as well as on conditions of exchange, such as relative 
+prices and the working of the markets. Insofar as the process of eco­
+nomic development increases the income and wealth of a country, 
+they are reflected in corresponding enhancement of economic entitle­
+ments of the population. It should be obvious that in the relation 
+between national income and wealth, on the one hand, and the eco­
+nomic entitlements of individuals (or families), on the other, distribu­
+tional considerations are important, in addition to aggregative ones. 
+How the additional incomes generated are distributed will clearly 
+make a difference. 
+The availability and access to finance can be a crucial influence on 
+the economic entitlements that economic agents are practically able 
+to secure. This applies all the way from large enterprises (in which 
+hundreds of thousands of people may work) to tiny establishments 
+that are run on micro credit. A credit crunch, for example, can 
+severely affect the economic entitlements that rely on such credit. 
+Social opportunities refer to the arrangements that society makes 
+for education, health care and so on, which influence the individual's 
+substantive freedom to live better. These facilities are important not 
+only for the conduct of private lives (such as living a healthy life and 
+avoiding preventable morbidity and premature mortality), but also 
+for more effective participation in economic and political activities. 
+For example, illiteracy can be a major barrier to participation in eco­
+nomic activities that require production according to specification or 
+demand strict quality control (as globalized trade increasingly does). 
+Similarly, political participation may be hindered by the inability to 
+read newspapers or to communicate in writing with others involved 
+in political activities. 
+I turn now to the fourth category. In social interactions, individu­
+als deal with one another on the basis of some presumption of what 
+they are being offered and what they can expect to get. In this sense, 
+the society operates on some basic presumption of trust. Transpar­
+ency guarantees deal with the need for openness that people can 
+expect: the freedom to deal with one another under guarantees of 
+disclosure and lucidity. When that trust is seriously violated, the 
+
+
+
+--- [Book Page 40 | PDF Page 57] ---
+
+DEVELOPMENT 
+AS 
+FREEDOM 
+lives of many people-both direct parties and third parties-may be 
+adversely affected by the lack of openness. Transparency guarantees 
+(including the right to disclosure) can thus be an important category 
+of instrumental freedom. These guarantees have a clear instrumen­
+tal role in preventing corruption, financial irresponsibility and under­
+hand dealings. 
+Finally, no matter how well an economic system operates, some 
+people can be typically on the verge of vulnerability and can actually 
+succumb to great deprivation as a result of material changes that 
+adversely affect their lives. Protective security is needed to provide a 
+social safety net for preventing the affected population from being 
+reduced to abject misery, and in some cases even starvation and 
+death. The domain of protective security includes fixed institutional 
+arrangements such as unemployment benefits and statutory income 
+supplements to the indigent as well as ad hoc arrangements such as 
+famine relief or emergency public employment to generate income 
+for destitutes. 
+INTERCONNECTrONS AND COMPLEMENTARITY 
+These instrumental freedoms directly enhance the capabilities of 
+people, but they also supplement one another, and can furthermore 
+reinforce one another. These interlinkages are particularly impor­
+tant to seize in considering development policies. 
+The fact that the entitlement to economic transactions tends to 
+be typically a great engine of economic growth has been widely 
+accepted. But many other connections remain underrecognized, and 
+they have to be seized more fully in policy analysis. Economic growth 
+can help not only in raising private incomes but also in making it pos­
+sible for the state to finance social insurance and active public inter­
+vention. Thus the contribution of economic growth has to be judged 
+not merely by the increase in private incomes, but also by the expan­
+sion of social services (including, in many cases, social safety nets) 
+that economic growth may make possible.J 
+Similarly, the creation of social opportunities, through such ser­
+vices as public education, health care, and the development of a free 
+and energetic press, can contribute both to economic development 
+and to significant reductions in mortality rates. Reduction of mor-
+
+
+
+--- [Book Page 41 | PDF Page 58] ---
+
+The Ends and the Means of Development 
+4 r 
+tality rates, in turn, can help to reduce birth rates, reinforcing the influ­
+ence of basic education-especially female literac;y and schooling­
+on fertility behavior. 
+The pioneering example of enhancing economic growth through 
+social opportunity, especially in basic education, is of course Japan. 
+It is sometimes forgotten that Japan had a higher rate of literacy than 
+Europe had even at the time of the Meiji restoration in the mid­
+nineteenth century, when industrialization had not yet occurred there 
+but had gone on for many decades in Europe. Japan's economic 
+development was clearly much helped by the human resource devel­
+opment related to the social opportunities that were generated. The 
+so-called East Asian miracle involving other countries in East Asia 
+was, to a great extent, based on similar causal connections.4 
+This approach goes against-and to a great extent undermines­
+the belief that has been so dominant in many policy circles that "hu­
+man development" (as the process of expanding education, health 
+care and other conditions of human life is often called) is really a 
+kind of luxury that only richer countries can afford . Perhaps the most 
+important impact of the type of success that the East Asian econo­
+mies, beginning with Japan, have had is the total undermining of that 
+implicit prejudice. These economies went comparatively early for 
+massive expansion of education, and later also of health care, and 
+this they did, in many cases, before they broke the restraints of gen­
+eral poverty. And they have reaped as they have sown. Indeed, as 
+Hiromitsu Ishi has pointed out, the priority to human resource devel­
+opment applies particularly to the early history of Japanese economic 
+development, beginning with the Meiji era (I868-I9II), and that 
+focus has not intensified with economic affluence as Japan has grown 
+richer and much more opulent.s 
+DIFFERENT ASPECTS OF CHINA .. JNDIA CONTRAST 
+The central role of individual freedoms in the process of development 
+makes it particularly important to examine their determinants. Sub­
+stantial attention has to be paid to the social influences, including 
+state actions, that help to determine the nature and reach of indi­
+vidual freedoms. Social arrangements may be decisively important in 
+securing and expanding the freedom of the individual. Individual 
+
+
+
+--- [Book Page 42 | PDF Page 59] ---
+
+42 
+DEVELOPMENT 
+AS 
+FREEDOM 
+freedoms are influenced, on one side, by the social safeguarding of 
+liberties, tolerance, and the possibility of exchange and transactions. 
+They are also influenced, on the other side, by substantive public sup­
+port in the provision of those facilities (such as basic health care or 
+essential education) that are crucial for the formation and use of 
+human capabilities. There is need to pay attention to both types of 
+determinants of individual freedoms. 
+The contrast between India and China has some illustrative 
+importance in this context. The governments of both China and 
+India have been making efforts for some time now (China from 1979 
+and India from 1991) to move toward a more open, internationally 
+active, market-oriented economy. While Indian efforts have slowly 
+met with some success, the kind of massive results that China has 
+seen has failed to occur in India. An important factor in this contrast 
+lies in the fact that from the standpoint of social preparedness, China 
+is a great deal ahead of India in being able to make use of the market 
+economy. 6 While pre-reform China was deeply skeptical of markets, 
+it was not skeptical of basic education and widely shared health care. 
+When China turned to marketization in 1979, it already had a highly 
+literate people, especially the young, with good schooling facilities 
+across the bulk of the country. In this respect, China was not very far 
+from the basic educational situation in South Korea or Taiwan, 
+where too an educated population had played a major role in seiz­
+ing the economic opportunities offered by a supportive market sys­
+tem. In contrast, India had a half-illiterate adult population when 
+it turned to marketization in 1991, and the situation is not much 
+improved today. 
+The health conditions in China were also much better than in 
+India because of the social commitment of the pre-reform regime to 
+health care as well as education. Oddly enough, that commitment, 
+while totally unrelated to its helpful role in market-oriented eco­
+nomic growth, created social opportunities that could be brought 
+into dynamic use after the country moved toward marketization. The 
+social backwardness of India, with its elitist concentration on higher 
+education and massive negligence of school education, and its sub­
+stantial neglect of basic health care, left that country poorly prepared 
+for a widely shared economic expansion. The contrast between India 
+and China does, of course, have many other aspects (including the 
+' 
+I
+l
+I
+
+
+
+--- [Book Page 43 | PDF Page 60] ---
+
+, 
+The Ends and the Means of Development 
+4 3 
+differences in their respective political systems, and the much greater 
+variation within India of social opportunities such as literacy and 
+health care); these issues will be addressed later. But the relevance of 
+the radically different levels of social preparedness in China and 
+India for widespread market-oriented development is worth noting 
+even at this preliminary stage of the analysis. 
+It must, however, also be noted that there are real handicaps that 
+China experiences compared with India because it lacks democratic 
+freedoms. This is particularly so when it comes to flexibility of eco­
+nomic policy and the responsiveness of public action to social crisis 
+and unforeseen disasters. The most prominent contrast lies perhaps 
+in the fact that China has had what is almost certainly the largest 
+recorded famine in history (when thirty million people died in the 
+famine that followed the failure of the Great Leap Forward in 
+I958-I961), whereas India has not had a famine since independence 
+in I 94 7. When things go well, the protective power of democracy 
+may be less missed, but dangers can lie round the corner (as indeed 
+the recent experiences of some of the East Asian and Southeast Asian 
+economies bring out). This issue too will have to be discussed more 
+fully Ia ter on in this book. 
+There are very many different interconnections between distinct 
+instrumental freedoms. Their respective roles and their specific influ­
+ences on one another are important aspects of the process of devel­
+opment. In the chapters to follow, there will be opportunities to 
+discuss a number of these interconnections and their extensive reach. 
+However, to illustrate how these interconnections work, let me here 
+go a little into the diverse influences on longevity and life expectancy 
+at birth-capabilities that people value almost universally. 
+GROWTH"MEDIATED SOCIAL ARRANGEMENTS 
+The impact of social arrangements on the freedom to survive can be 
+very strong and may be influenced by quite different instrumental 
+connections. The point is sometimes made that this is not a separate 
+consideration from economic growth (in the form of raising the level 
+of per capita income) since there is a close relation between income 
+per head and longevity. Indeed , it has been argued that it is a mis­
+take to worry about the discord between income achievements and 
+
+
+
+--- [Book Page 44 | PDF Page 61] ---
+
+44 
+DEVELOPMENT 
+AS 
+FREEDOM 
+survival chances, since-in general-the statistical connection between 
+them is observed to be quite close. As a point about intercountry sta­
+tistical connections, seen in isolation, this is indeed correct, but this 
+statistical relation needs further scrutiny before it can be seen as a 
+convincing ground for dismissing the relevance of social arrange­
+ments (going beyond income-based opulence). 
+It is interesting, in this context, to refer to some statistical analy­
+ses that have recently been presented by Sudhir Anand and Martin 
+Ravallion.7 On the basis of intercountry comparisons, they find that 
+life expectancy does indeed have a significantly positive correla­
+tion with GNP per head, but that this relationship works mainly 
+through the impact of GNP on ( r) the incomes specifically of the 
+poor and (2) public expenditure particularly in health care. In fact, 
+once these two variables are included on their own in the statisti­
+cal exercise, little extra explanation can be obtained from including 
+GNP per head as an additional causal influence. Indeed, with poverty 
+and public expenditure on health as explanatory variables on their 
+own, the connection between GNP per head and life expectancy 
+appears (in the Anand-Ravallion analysis) to vanish altogether. 
+It is important to emphasize that this result, if vindicated by other 
+empirical studies as well, would not show that life expectancy is not 
+enhanced by the growth of GNP per head, but it would indicate that 
+the connection tends to work particularly through public expendi­
+ture on health care, and through the success of poverty removaL The 
+basic point is that the impact of economic growth depends much on 
+how the fruits of economic growth are used. This also helps to 
+explain why some economies, such as South Korea and Taiwan, have 
+been able to raise life expectancy so rapidly through economic 
+growth. 
+The achievements of the East Asian economies have come under 
+critical scrutiny-and some fire-in recent years, partly because of 
+the nature and severity of what is called "the Asian economic crisis., 
+That crisis is indeed serious, and points to particular failures of 
+economies that were earlier seen-mistakenly-as being comprehen­
+sively successful. I shall have the opportunity of considering the spe­
+cial problems and specific failures involved in the Asian economic 
+crisis (particularly in chapters 6 and 7). But it would be an error not 
+to see the great achievements of the East Asian and Southeast Asian 
+economies over several decades, which have transformed the lives 
+' 
+
+
+
+--- [Book Page 45 | PDF Page 62] ---
+
+r 
+The Ends and the Means of Development 
+4 5 
+and longevities of people in the countries involved. The problems 
+that these countries now face {and have potentially harbored for a 
+long time), which demand attention (including the overall need for 
+political freedoms and open participation as well as for protective 
+security), should not induce us to ignore these countries' achieve­
+ments in the fields in which they have done remarkably well. 
+For a variety of historical reasons, including a focus on basic 
+education and basic health care, and early completion of effective 
+land reforms, widespread economic participation was easier to 
+achieve in many of the East Asian and Southeast Asian economies in 
+a way it has not been possible in, say, Brazil or India or Pakistan, 
+where the creation of social opportunities has been much slower 
+and that slowness has acted as a barrier to economic development. 8 
+The expansion of social opportunities has served to facilitate high­
+employment economic development and has also created favorable 
+circumstances for reduction of mortality rates and for expansion of 
+life expectancy. The contrast is sharp with some other high-growth 
+countries-such as Brazil-which have had almost comparable growth 
+of GNP per head, but also have quite a history of severe social in­
+equality, unemployment and neglect of public health care. The lon­
+gevity achievements of these other high-growth economies have moved 
+more slowly. 
+There are two interesting-and interrelated-contrasts here: 
+I) 
+for high economic growth economies& the contrast between: 
+I. r) 
+those with great success in raising the length and quality 
+of life (such as South Korea and Taiwan), and 
+1.2) 
+those without comparable success in these other fields 
+(such as Brazil); 
+2) 
+for economies with high success in raising the length and 
+quality of life, the contrast between: 
+2. I) 
+those with great success in high economic growth (such 
+as South Korea and Taiwan), and 
+2.2) 
+those without much success in achieving high economic 
+growth (such as Sri Lanka, pre-reform China, the Indian state of 
+Kerala). 
+I have already commented on the first contrast (between, say, 
+South Korea and Brazil), but the second contrast too deserves policy 
+
+
+
+--- [Book Page 46 | PDF Page 63] ---
+
+46 
+DEVELOPMENT 
+AS 
+FREEDOA1 
+attention. In our book Hunger and Public Action, Jean Dreze and I 
+have distinguished between two types of success in the rapid reduc­
+tion of mortality, which we called respectively ('growth-mediated" 
+and "support-led" processes.9 The former process works through 
+fast economic growth, and its success depends on the growth process 
+being wide-based and economically broad (strong employment ori­
+entation has much to do with this), and also on utilization of the 
+enhanced economic prosperity to expand the relevant social services, 
+including health care, education and social security. In contrast with 
+the growth-mediated mechanism, the supportled process does not 
+operate through fast economic growth, but works through a pro­
+gram of skillful social support of health care, education. and other 
+relevant social arrangements. This process is well exemplified by the 
+experiences of economies such as Sri Lanka, pre-refonn China, Costa 
+Rica or Kerala, which have had very rapid reductions in mortality 
+rates and enhancement of living conditions, without much economic 
+growth. 
+PUBLIC PROVISIONING, LOW 
+INCOMES AND RELATIVE COSTS 
+The support-led process does not wait for dramatic increases in per 
+capita levels of real income, and it works through priority being 
+given to providing social services (particularly health care and basic 
+education) that reduce mortality and enhance the quality of life. 
+Some examples of this relationship are shown in figure 2..1, which 
+presents the GNP per head and life expectancy at birth of six coun­
+tries (China, Sri Lanka, Namibia, Brazil, South Africa and Gabon) 
+and one sizable state (Kerala) with thirty million people, within a 
+country (India).10 Despite their very low levels of income, the people 
+of Kerala, or China, or Sri Lanka enjoy enormously higher levels of 
+life expectancy than do much richer populations of Brazil, South 
+Africa and Namibia, not to mention Gabon. Even the direction of the 
+inequality points opposite when we compare Kerala, China and Sri 
+Lanka, on one side, with Brazi South Africa, Namibia and Gabon, 
+on the other. Since life expectancy variations relate to a variety of 
+social opportunities that are central to development (including epide­
+miological policies, health care, educational facilities and so on), an 
+
+
+
+--- [Book Page 47 | PDF Page 64] ---
+
+7000 
+6000 
+I 
+v  5000 
+T""' 
+.. 
+--
+{:f.)-
+ 4000 
+2 
+g 
+·a 3ooo 
+CIS 
+u 
+ i2000 
+0 1000 
+r-
+The Ends and the Means of Development 
+4 7 
+FIGURE 2.r: GNP per Capita (U.S. Dollars) 
+and Life Expectancy at Birth, I994 
+-
+1--.. --... . . 
+_ .. 
+..... _ 
+· . - · · - - ·  .. 
+·A 
+··---••"''"''--""" 
+__ ......... 
+_,_ ......... ,_ 
+r-........................ 
+. ...... .. .. 
+---·-· ___ .. 
+_ -....................... .................. -............. ............ -........ ..... . 
+............ -.......................... 
+r-
+----
+-- ----···· ·-----·-···- . 
+r-· 
+- --
+----- ---
+-· 
+··--·-
+. ....... 
+, ........... -....... .
+...... 
+f"·-· ........... -.-·-· 
+- ---.. --... -
+-
+. 
+..
+...
+. --··-····· 
+··-·······-··-···
+········-··· .. 
+.. . -
+-
+r-
+__ , 
+........... ,_ .. 
+.. .......... 
+ 
+:•/ 
+_ ........ . . . . . . .  
+-. 
+. . . .  ................ . .  ... .. 
+---
+-
+·
+-
+· 
+1·-- ... 
+	y 
+' 
+
+j 
+· -
+t 
+1  t.	 
+:- -.. 
+- · : 
+ 
+i 
+1·:- 1[;\ 
+f
+ 
+· - 
+,. 
+: 
+H 
+· 
+f,1 
+;
+·
+; 
+74 
+72 
+70 
+68 
+66 
+64 
+62 
+60 
+58 
+56 
+54 
+.I 
+l1 
+i 
+, 
+;;tl 
+litJ 
+0 
+52 
+Kerala 
+China 
+Sri Lanka Namibia Brazil South Africa Gabon 
+Sources: Country data, I994, World Bank, World Development Report r996; Ker­
+ala dat. Life expectancy, I989-1993, Sample Registration System cited in Govern 
+ment of India (I997), Department of Education, Women in India: A Statistical 
+Profile; Domestic product per capita, 1992-1993, Government of India (1997}, 
+Minisuy of Finance, Economic Survey 1996-1997. 
+income-centered view is in serious need of supplementation, in order 
+to have a fuller understanding of the process of development. :n These 
+contrasts are of considerable policy relevance, and bring out the 
+in1portance of the supportY led process.n. 
+Surprise may well be expressed about the possibility of financing 
+support-led processes in poor countries, since resources are surely 
+needed to expand public services, including health care and educa­
+tion. In fact, the need for resources is frequently presented as an argu­
+ment for postponing socially important investments until a country is 
+already richer. Where (as the famous rhetorical question goes) are the 
+poor countries going to find the means for "supporting" these ser­
+vices? This is indeed a good question, but it also has a good answer, 
+which lies very considerably in the economics of relative costs. The 
+0 
+-.:r 
+0\ 
+0\ 
+T""' 
+" 
+...... 
+Cf.) 
+1-. 
+t1S 
+ 
+-
+..c: 
+.... 
+1-. 
+·-
+,::Q 
+ 
+CIS 
+>-
+u 
+c 
+CIS 
+.... 
+u 
+Q) 
+st 
+ 
++ 
+·-
+1-l 
+
+
+
+--- [Book Page 48 | PDF Page 65] ---
+
+DEVELOPMENT 
+AS 
+FREEDOM 
+viability of this support-led process is dependent on the fact that the 
+relevant social services (such as health care and basic education) are 
+very labor intensive, and thus are relatively inexpensive in poor­
+and low-wage-economies. A poor economy may have less money 
+to spend on health care and education, but it also needs less money to 
+spend to provide the same services, which would cost much more in 
+the richer countries. Relative prices and costs are important parame­
+ters in determining what a country can afford. Given an appropriate 
+social commitment, the need to take note of the variability of rela­
+tive costs is particularly important for social services in health and 
+education.13 
+It is obvious that the growth-mediated process has an advantage 
+over its support-led alternative; it may, ultimately, offer more, since 
+there are more deprivations-other than premature mortality, or 
+high morbidity, or illiteracy-that are very directly connected with 
+the lowness of incomes (such as being inadequately clothed and shel­
+tered). It is clearly better to have high income as well as high 
+longevity (and other standard indicators of quality of life), rather 
+than only the latter. This is a point worth emphasizing, since there is 
+some danger of being "overconvinced" by the statistics of life expec­
+tancy and other such basic indicators of quality of life. 
+For example, the fact that the Indian state of Kerala has achieved 
+impressively high life expectancy, low fertility, high literacy and so on 
+despite its low income level per head is certainly an achievement 
+worth celebrating and learning from. And yet the question remains as 
+to why Kerala has not been able to build on its successes in human 
+development to raise its income levels as well, which would have 
+made its success more complete; it can scarcely serve as a "model" 
+case, as some have tried to claim. From a policy point of view, this 
+requires a critical scrutiny of Kerala 's economic policies regarding 
+incentives and investments (''economic facilities," in general), despite 
+its unusual success in raising life expectancy and the quality of life. 14 
+Support-led success does, in this sense, remain shorter in achievement 
+than growth-mediated success, where the increase in economic opu­
+lence and the enhancement of quality of life tend to move together. 
+On the other hand, the success of the support-led process as a 
+route does indicate that a country need not wait until it is much 
+richer (through what may be a long period of economic growth) 
+
+
+
+--- [Book Page 49 | PDF Page 66] ---
+
+' 
+. 
+I 
+r 
+The Ends and the Means of Development 
+4 9 
+before embarking on rapid expansion of basic education and health 
+care. The quality of life can be vastly raised, despite low incomes, 
+through an adequate program of social services. The fact that educa­
+tion and health care are also productive in raising economic growth 
+adds to the argument for putting major emphasis on these social 
+arrangements in poor economies, without having to wait for "getting 
+rich" first.rs The support-led process is a recipe for rapid achieve­
+ment of higher quality of life, and this has great policy importance, 
+but there remains an excellent case for moving on from there to 
+broader achievements that include economic growth as well as the 
+raising of the standard features of quality of life. 
+MORTALITY REDUCTION IN 
+TWENTIETH-CENTURY BRITAIN 
+In this context, it is also instructive to reexamine the time pattern of 
+mortality reduction and of the increase in life expectancy in the 
+advanced industrial economies. The role of public provision of health 
+care and nutrition, and generally of social arrangements, in mortality 
+reduction in Europe and the United States over the last few centuries 
+has been well analyzed by Robert Fogel, Samuel Preston and oth­
+ers.16 The time pattern of the expansion of life expectancy in this cen­
+tury itself is of particular interest, bearing in mind that at the turn of 
+the last century, even Britain-then the leading capitalist market 
+economy-still had a life expectancy at birth that was lower than the 
+average life expectancy for low-income countries today. However, 
+longevity in Britain did rise rapidly over the century, influenced 
+partly by strategies of social programs, and the time pattern of this 
+increase is of some interest. 
+The expansion of programs of support for nutrition, health care 
+and so on in Britain was not uniformly fast over the decades. There 
+were two periods of remarkably fast expansion of support-oriented 
+policies in this century; they occurred during the two world wars. 
+Each war situation produced much greater sharing of means of sur­
+vival, including sharing of health care and the limited food supply 
+(through rationing and subsidized nutrition). During the First World 
+War, there were remarkable developments in social attitudes about 
+"sharing" and public policies aimed at achieving that sharing, as has 
+
+
+
+--- [Book Page 50 | PDF Page 67] ---
+
+50 
+DEVELOPMENT 
+AS 
+FR EEDOM 
+FIGURE 2.2: Improvements in Life Expectancy 
+in England and Wales, I90I-z96o 
+8I--
+ 
+7----
+-
+6.5 
+6 
+------·-···---' 
+i --·---··- ----------
+5 ·----------·1 
+i --­
+' 
+J 
+J 
+ 4 ---D--
+4--,---
+­
+ 
+---fl' 
+.--
+-
+---·----
+-
+-
+---·-·-: 
+E 
+.... 
+t:: 3 1---1 
+Cl) 
+e 
+Cl) 
+! 
+> 2 '-··--· 
+0 
+l-o 
+p. 
+e 
+: 
+-
+1 
+_ .. 
+___ ; 
+:---··--; 
+'r------
+· 
+E 
+' 
+1 
+' 
+' 
+{ 
+2.4 
+--·---- ·-----·-4i 
+1.4 
+· 
+.
+...... .......... --·-i 
+6 .. 8 
+'1--·-------
+·-------·---· 
+·--·-·--.. ·----1 
+F----t.-8-·--
+______ ,, 
+__ .... ,' 
+--·-
+··-·· 
+\ 
+0 F---
+C 
+........ 
+B----
+=-_..._ 
+__
+__ 
+__....
+. 
+"-"
+' 
+. . '-'1 .__ 
+__ 
+---"'....., 
+_
+__
+__ 
+""'---"
+......_ 
+__
+_ 
+......,
+A
+'-------J 
+1901-11 
+1911-21 
+1921-31 
+1931-40 
+1940-51 
+1951-60 
+Sources: S. Preston, N. Keyfitz, and R. Schoen, Causes of Death: Life Tables for 
+National Population (New York: Seminar Press, 1992}. 
+been well analyzed by Jay Winter.17 During the Second World War 
+also, unusually supportive and shared social arrangements devel­
+oped, related to the psychology of sharing in beleaguered Britain, 
+which made these radical public arrangements for the distribution of 
+food and health care acceptable and effective.18 Even the National 
+Health Service was born during those war years. 
+Did this make any real difference to health and survival? Was 
+there, in fact, a correspondingly faster mortality reduction in these 
+periods of support-led policies in Britain? It is, in fact, confirmed by 
+detailed nutritional studies that during the Second World War, even 
+though the per capita availability of food fell significantly in Britain, 
+cases of undernourishment also declined sharply, and extreme under­
+nourishment almost entirely disappeared.19 Mortality rates also went 
+down sharply (except of course for war mortality itself). A similar 
+thing had happened during the First World War.z.o 
+Indeed, it is remarkable that interdecade comparisons, based on 
+
+
+
+--- [Book Page 51 | PDF Page 68] ---
+
+, 
+The Ends and the Means of Development 
+5 I 
+decadal censuses, show that by a very wide margin the most speedy 
+expansion of life expectancy occurred precisely during those two 
+"war decades" (as shown in figure 2.2, which presents the increase in 
+life expectancy in years during each of the first six decades of this 
+century). 2.1 While in the other decades life expectancy rose rather 
+moderately (between one year and four years), in each of the two war 
+decades it jumped up by nearly seven years. 
+We must also ask whether the much sharper increase in life 
+expectancy during the war decades can be explained alternatively, 
+by faster economic growth over those decades. The answer seems to 
+be in the negative. In fact, the decades of fast expansion of life 
+expectancy happened to be periods of slow growth of gross domestic 
+product per head, as shown in figure 2. 3. It is, of course, possible to 
+hypothesize that the GDP growth had its effects on life expectancy 
+with a time lag of a decade, and while this is not contradicted by fig­
+ure 2. 3 itself, it does not stand up much to other scrutiny, including 
+the analysis of possible causal processes. A much more plausible 
+explanation of the rapid increase in British life expectancy is pro­
+vided by the changes in the extent of social sharing during the war 
+decades, and the sharp increases in public support for social services 
+(including nutritional support and health care) that went with this. 
+Much light is thrown on these contrasts by studies of health and 
+other living conditions of the population through the war periods, 
+and their connection with social attitudes and public arrangements. 22 
+DEMOCRACY AND POLITICAL INCENTIVES 
+Illustrations of linkages can come from a great many other connec­
+tions. Let me briefly comment on one more: that between political 
+liberty and civil rights, on the one hand, and the freedom to avoid 
+economic disasters, on the other. The most elementary vindication 
+of this connection can be seen in the fact, on which I commented 
+earlier (in chapter r, and indirectly-in discussing the China-India 
+contrast-in the present chapter) that famines do not occur in de­
+mocracies. Indeed, no substantial famine has ever occurred in a 
+democratic country-no matter how poor.23 This is because famines 
+are extremely easy to prevent if the government tries to prevent them, 
+and a government in a multiparty democracy with elections and free 
+
+
+
+--- [Book Page 52 | PDF Page 69] ---
+
+8 
+7 
+6 
+5 
+4 
+3 
+2 
+1 
+DEVELOPMENT 
+AS 
+FREEDOM 
+FIGURE 2.3: Growth of GDP (U.K.) and Decadal Increases in Life 
+Expectancy at Birth (England and Wales), I90I-I960 
+-
+· 
+ 
+I '\ --
+I. 
+I 
+I 
+\ 
+ 
+I 
+1901-11 
+1911-21 
+1 v 
+I 
+\I 
+'II 
+1\ 
+I \ 
+K 
+ 
+1921-31 
+h 
+·
+-
+-·-
+/ \ 
+\ 
+I 
+\ 
+\' V ' 
+\ 
+_\ /\ ... 
+I ) { \ 
+I 
+\ 
+I 
+\ 
+I 
+· · ·
+-
+.
+. 
+' 
+.... 
+·
+--
+· 
+I 
+I 
+I 
+1 
+1931-40 
+1940-51 
+1951-60 
+· -
+0.4 
+0.3 
+0.2 
+0.1 
+0 
+-0.1 
+-0.2 
+•Decadal Improvement in Life Expectancy, England and Wales (Left Scale) 
++Percentage Decadal Growth of GDP per Capita in U.K., 1901-1960 (Right Scale) 
+Sources: A. Madison, Phases of Capitalist Development (New York: Oxford Uni­
+versity Press, 1982.); S. Preston et al., Causes of Death (New York: Seminar Press, 
+1972). 
+media has strong political incentives to undertake famine prevention. 
+This would indicate that political freedom in the form of democratic 
+arrangements helps to safeguard economic freedom (especially free­
+dom from extreme starvation) and the freedom to survive (against 
+famine mortality). 
+The security provided by democracy may not be much missed 
+when a country is lucky enough to be facing no serious calamity, 
+when everything is running along smoothly. But the danger of inse­
+curity, arising from changes in the economic or other circumstances 
+
+
+
+--- [Book Page 53 | PDF Page 70] ---
+
+r 
+The Ends and the Means of Development 
+53 
+or from uncorrected mistakes of policy, can lurk behind what looks 
+like a healthy state. When this connection is discussed more fully (in 
+chapters 6 and 7), the political aspects of the recent "Asian economic 
+crisis'' will need to be addressed. 
+A CONCLUDING REMARK 
+The analysis presented in this chapter develops the basic idea that 
+enhancement of human freedom is both the main object and the pri­
+mary means of development. The objective of development relates to 
+the valuation of the actual freedoms enjoyed by the people involved. 
+Individual capabilities crucially depend on, among other things, eco­
+nomic, social, and political arrangements. In making appropriate 
+institutional arrangements, the instrumental roles of distinct types of 
+freedom have to be considered, going well beyond the foundational 
+importance of the overall freedom of individuals. 
+The instrumental roles of freedom include several distinct but inter­
+related components, such as economic facilities, political freedoms, 
+social opportunities, transparency guarantees and protective security. 
+These instrumental rights, opportunities and entitlements have strong 
+interlinkages, which can go in different directions. The process of 
+development is crucially influenced by these interconnections. Cor­
+responding to multiple interconnected freedoms, there is a need to 
+develop and support a plurality of institutions, including democratic 
+systems, legal mechanisms, market structures, educational and health 
+provisions, media and other communication facilities and so on. The 
+institutions can incorporate private initiatives as well as public arrange­
+ments and also more mixed structures, such as nongovernmental 
+organizations and cooperative entities. 
+The ends and means of development call for placing the perspective 
+of freedom at the center of the stage. The people have to be seen, in 
+this perspective, as being actively involved-given the opportunity­
+in shaping their own destiny, and not just as passive recipients of the 
+fruits of cunning development programs. The state and the society 
+have extensive roles in strengthening and safeguarding human capaW 
+bilities. This is a supporting role, rather than one of ready-made deliv­
+ery. The freedom-centered perspective on the ends and the means of 
+development has some claim to our attention. 
+
+
+
+--- [Book Page 54 | PDF Page 71] ---
+
+CHAPTER 
+3 
+FREEDOM AND THE 
+FOUNDATIONS OF JUSTICE 
+Let me begin with a parable. Annapurna wants someone to clear up 
+the garden, which has suffered from past neglect, and three unem­
+ployed laborers-Dinu, Bishanno and Rogini-all very much want 
+the job. She can hire any one of them, but the work is indivisible and 
+she cannot distribute it among the three. Annapurna would get much 
+the same work done for much the same payment from any of them, 
+but being a reflective person, she wonders who would be the right 
+person to employ. 
+She gathers that while all of them are poor, Dinu is the poorest of 
+the three; everyone agrees on that fact. This makes Annapurna rather 
+inclined to hire him ("What can be more important," she asks her­
+self, "than helping the poorest?''). 
+However, she also gathers that Bishanno has recently been impov­
+erished and is psychologically most depressed about his predicament. 
+Dinu and Rogini are, in contrast, experienced in being poor and are 
+used to it. Everyone agrees that Bishanno is the unhappiest of the 
+three and would certainly gain more in happiness than the other two. 
+This makes Annapurna rather favorable to the idea of giving the job 
+to Bishanno ("Surely removing unhappiness has to be," she tells her­
+self, "the first priority"). 
+But Annapurna is also told that Rogini is debilitated from a 
+chronic ailment-borne stoically-and could use the money to be 
+earned to rid herself of that terrible disease. It is not denied that 
+Rogini is less poor than the others (though certainly poor} and also 
+
+
+
+--- [Book Page 55 | PDF Page 72] ---
+
+t[ 
+Freedom and the Foundations of Justice 
+55 
+not the unhappiest since she bears her deprivation rather cheerfully, 
+used-as she has been-to being deprived all her life (coming from a 
+poor family, and having been trained to reconcile herself to the gen­
+eral belief that, as a young woman, she must neither grumble nor 
+entertain much ambition). Annapurna wonders whether, neverthe­
+less, it might not be right to give the job to Rogini ("It would make 
+the biggest difference," she surmises, "to the quality of life and free­
+dom from illness"). 
+Annapurna wonders what she really should do. She recognizes 
+that if she knew only the fact that Dinu is the poorest (and knew 
+nothing else), she would have definitely opted for giving the work to 
+Dinu. She also reflects that had she known only the fact that Bish­
+anno is the unhappiest and would get the most pleasure from the 
+opportunity (and knew nothing else), she would have had excellent 
+reasons to hire Bishanno. And she can also see that if she was 
+apprised only of the fact that Rogini's debilitating ailment could be 
+cured with the money she would earn {and knew nothing else), she 
+would have had a simple and definitive reason for giving the job to 
+her. But she knows all the three relevant facts, and has to choose 
+among the three arguments, each of which has some pertinence. 
+There are a number of interesting issues of practical reason in this 
+simple example, but the point I want to emphasize here is that the 
+differences in the principles involved relate to the particular informa­
+tion that is taken to be decisive. If all the three facts are known, the 
+decision rests on which information is given the most weight. The 
+principles thus can best be seen in terms of their respective "informa­
+tional bases." Dinu's income-egalitarian case focuses on income­
+poverty; Bishanno's classical utilitarian case concentrates on the 
+metric of pleasure and happiness; Rogini's quality-of-life case centers 
+on the kinds of life the three respectively can lead. The first two argu­
+ments are among the most discussed and most used in the economic 
+and ethical literatures. I shall present some arguments for the third. 
+But for the moment my intention is very modest: only to illustrate 
+the critical importance of the informational bases of competing 
+principles. 
+In the discussion that follows, I comment on both (I) the general 
+question of the importance of the informational base for evalua­
+tive judgments and ( 2) the particular issues of the adequacy of the 
+
+
+
+--- [Book Page 56 | PDF Page 73] ---
+
+DEVELOPMENT 
+AS 
+FREEDOM 
+respective informational bases of some standard theories of social 
+ethics and justice, in particular utilitarianism, libertarianism and 
+Rawlsian theory of justice. While there is clearly much to be learned 
+from the way the informational issue is dealt with in these major 
+approaches in political philosophy, it is also argued that each of the 
+informational bases respectively used-explicitly or implicity-by 
+utilitarianism, libertarianism and Rawlsian justice has serious flaws, 
+if substantive individual freedoms are taken to be important. This 
+diagnosis motivates the discussion of an alternative approach to 
+evaluation that focuses directly on freedom, seen in the form of indi­
+vidual capabilities to do things that a person has reason to value. 
+It is this last, constructive part of the analysis that is extensively 
+utilized in the rest of the book. If the reader is not much interested in 
+the critiques of other approaches (and the respective advantages and 
+difficulties of utilitarianism, libertarianism or Rawlsian justice), there 
+would be no particular problem in skipping these critical discussions 
+and proceeding directly to the latter part of the chapter. 
+INCLUDED AND EXCLUDED INFORMATION 
+Each evaluative approach can, to a great extent, be characterized 
+by its informational basis: the information that is needed for making 
+judgments using that approach and-no less important-the infor[ 
+mation that is "excluded" from a direct evaluative role in that 
+approach. x Informational exclusions are important constituents of 
+an evaluative approach. The excluded information is not permitted 
+to have any direct influence on evaluative judgments, and while this 
+is usually done in an implicit way, the character of the approach may 
+be strongly influenced by insensitivity to the excluded information. 
+For example, utilitarian principles rest ultimately on utilities only, 
+and even though much instrumental account may be taken of incen­
+tives, it is utility information that is seen, eventually, as the only 
+proper basis for evaluation of states of affairs, or for the assessment 
+of actions or rules. In utilitarianism's classical form, as developed 
+particularly by Jeremy Bentham, utility is defined as pleasure, or hap­
+piness, or satisfaction, and everything thus turns on these mental 
+achievements.2 Such potentially momentous matters as individual 
+freedom, the fulfillment or violation of recognized rights, aspects of 
+quality of life not adequately reflected in the statistics of pleasure, 
+
+
+
+--- [Book Page 57 | PDF Page 74] ---
+
+r 
+. 
+r 
+I 
+Freedom and the Foundations of Justice 
+57 
+cannot directly swing a normative evaluation in this utilitarian struc­
+ture. They can have an indirect role only through their effects on util­
+ity numbers (that is, only to the extent that they may have an impact 
+on mental satisfaction, pleasure or happiness). Furthermore, the 
+aggregative framework of utilitarianism has no interest in-or sensi­
+tivity to-the actual distribution of utilities, since the concentration 
+is entirely on the total utility of everyone taken together. All this pro­
+duces a very limited informational base, and this pervasive insensi­
+tivity is a significant limitation of utilitarian ethics.3 
+In modern forms of utilitarianism, the content of "utility" is often 
+seen differently: not as pleasure, satisfaction or happiness, but as the 
+fulfillment of desire, or as some kind of representation of a person's 
+choice behavior. 4 I shall consider these distinctions presently, but it i 
+not hard to see that this redefinition of utility does not in itself elimi 
+nate the indifference to freedoms, rights and liberties that is a cha 
+acteristic feature of utilitarianism in general. 
+Turning now to libertarianism, it has, in contrast with utilitarian 
+theory, no direct interest either in happiness or in desire fulfillment) 
+and its informational base consists entirely of liberties and rights of 
+various kinds. Even without going into the exact formulas that are 
+used by utilitarianism or by libertarianism respectively to characterize 
+justice, it is clear from the mere contrast of their informational bases 
+that they must take very different-and typically incompatible­
+views of justice. 
+In fact, the real "bite" of a theory of justice can, to a great extent, 
+be understood from its informational base: what information is-or 
+is not-taken to be directly relevant.s For example, classical utilitar­
+ianism tries to make use of the information of different persons' 
+respective happiness or pleasures (seen in a comparative framework), 
+whereas libertarianism demands compliance with certain rules of lib­
+erty and propriety, assessing the situation through information on 
+this compliance. They go in different directions, largely driven by 
+what information they respectively take as being central to judging 
+the justice or acceptability of different social scenarios. The informa­
+tional basis of normative theories in general, and of theories of jus­
+tice in particular, is of decisive significance, and can be the crucial 
+point of focus in many debates on practical policies (as will be seen 
+in arguments to be taken up later). 
+In the next few pages, the informational bases of some distin-
+
+
+
+--- [Book Page 58 | PDF Page 75] ---
+
+ss 
+DEVELOPMENT 
+AS 
+FREEDOM 
+guished approaches to justice will be examined, beginning with 
+utilitarianism. The merits and limitations of each approach can, to a 
+great extent, be understood by examining the reach and limits of its 
+informational base. On the basis of the problems encountered in the 
+different approaches that are commonly used in the context of 
+evaluation and policy making, an alternative approach to justice will 
+be briefly outlined. It concentrates on the informational base of indi­
+vidual freedoms (not utilities), but incorporates sensitivity to conse­
+quences which, I would argue, is an appreciable asset of the utilitarian 
+perspective. I shall examine this "capability approach" to justice 
+more fully later on in the present chapter and in the next one. 
+UTILITY AS AN INFORMATIONAL BASE 
+/II. 
+The informational base of standard utilitarianism is te .:u.tility..sum 
+{1 tg.tal in.the states ... of.affairs. In the classical, Benthamite form of util­
+itarianism, the "utility" of a person stands for some measure of his or 
+her pleasure or happiness. The idea is to pay attention to each per­
+son's well-being, and in particular to see well-being as essentially a 
+mental characteristic, viz., the pleasure or happiness generated. Inter­
+personal comparisons of happiness cannot, of course, be done very 
+precisely, nor through standard scientific methods. 6 Nevertheless, 
+most of us do not find it absurd (or "meaningless") to identify some 
+people as being decidedly less happy and more miserable than others. 
+Utilitarianism has been the dominant ethical theory-and, inter 
+alia, the most influential theory of justice-for much over a century. 
+The traditional economics of welfare and of public policy was for a 
+very long time dominated by this approach, initiated in its modern 
+form by Jeremy Bentham, and pursued by such economists as John 
+Stuart Mill, William Stanley Jevons, Henry Sidgwick, Francis Edge­
+worth, Alfred Marshall and A. C. Pigou.7 
+The requirements of utilitarian evaluation can be split into three 
+distinct components. The first component is "consequentialism" (not 
+a prepossessing word), and it stands for the claim that all choices (of 
+actions, rules, institutions, and so on) must be judged by their conse­
+quences, that is, by the results they generate. This focus on the con­
+sequent state of affairs denies particularly the tendency of some 
+normative theories to regard some principles to be right irrespec-
+
+
+
+--- [Book Page 59 | PDF Page 76] ---
+
+I I 
+l 
+i 
+' 
+I 
+l 
+• 
+I 
+L
+Freedom and the Foundations of justice 
+59 
+tive of their results. In fact, it goes further than demanding only 
+consequence-sensitivity, since it rules out that anything other than 
+consequences can ultimately matter. How much of a restriction is 
+imposed by consequentialism has to be judged further, but it is worth 
+mentioning here that this must partly depend on what is or is not 
+included in the list of consequences (for example, whether an action 
+performed can be seen as one of the "consequences" of that action, 
+which-in an obvious sense-it clearly is). 
+The second component of utilitarianism is 'wel1ari.sm," which 
+restricts the judgments of state of affairs to the utilities in the respec­
+tive states (paying no direct attention to such things as 0/Jfillmen:t_ 
+or violation of rights, duties, and so on). When welfarism is com-
+l;Iiiedwith 
+____ conseqe.tili-,+- :We. ge·t··-th2 requirement that every 
+choice must be judged by the respective utilities it generates. For 
+example, any action is judged by the consequent state of affairs 
+(because of consequentialism), and the consequent state of affairs is 
+judged by utilities in that state (because of welfarism). 
+The third component is "sum-ranking," which requires that the 
+utilities of different people be simply summed together to get their 
+aggregate merit, without paying attention to the distribution of that 
+total over the individuals (that is, the utility sum is to be maximized 
+irrespective of the extent of inequality in the distribution of utilities). 
+The three components together yield the classic utilitarian formula of 
+judging every choice by the sum total of utilities generated through 
+that choice. 8 
+(>::::J 
+In this utilitarian view, init:.3ti.4e- consists in aggregate loss of util­
+ity compared with what could have been achieved. An unjust society, 
+in this view, is one in which people are significantly less happy, taken 
+together, than they need be. The concentration on happiness or plea­
+sure has been removed in some modern forms of utilitarianism. In 
+one variation, utility is defined as desire fulfillment. In this view, what 
+is relevant is the strength of the desire that is being fulfilled, and not 
+the intensity of the happiness that is generated. 
+Since neither happiness nor desire is very easy to measure, utility 
+is often defined in modern economic analysis as some numerical 
+. representation of a person's observabL_oic· There are some tech­
+i · nical issues in representability, which :riet;d-not detain us here. The 
+i lsic frmula is thi:
+. 
+if a 
+_
+persn wo chos an
+. 
+al!ema
+,
+tive  over 
+'. ,t\ .._ 
+'v
+•
+·.t'
+• 
+- -
+.
+,
+ 
+. . .
+. 
+... 
+..... v\..• 
+"....,. 
+..
+... '
+-
+. 
+• 
+· 
+. ... . 
+... , . 
+.. 
+. '\ 
+. 
+
+
+
+--- [Book Page 60 | PDF Page 77] ---
+
+6o 
+DEVELOPMENT 
+AS 
+FREEDOM 
+another,  then and only then that person has more utility from x 
+than from y. The "scaling,' of utility has to follow this rule, among 
+others, and in this framework it is not substantively different to 
+affirm that a person has more utility from x than from y than to say 
+that she would choose x given the choice between the two.9 
+MERITS OF THE UTILITARIAN APPROACH 
+The procedure of choice-based accounting has some general merits as 
+well as demerits. In the context of utilitarian calculus, its major 
+' 
+demerit is that it does not lead immediately to any way of making 
+interpersonal comparisons, since it concentrates on each individual's 
+choice seen separately. This is obviously inadequate for utilitarian­
+ism, since it cannot accommodate sum-ranking, which does require 
+interpersonal comparability. As a matter of fact, the choice-based 
+view of utility has been used mainly in the context of approaches that 
+invoke welfarism and consequentialism only. It is a kind of utility­
+based approach without being utilitarianism proper. 
+While the merits of the utilitarian approach can be subjected to 
+some debate, it does make insightful points, in particular: 
+I) 
+the importance of taking account of the results of social 
+arrangements in judging them (the case for consequence-sensitivity 
+may be very plausible even when full consequentialism seems too 
+extreme); 
+2) 
+the need to pay attention to the well-being of the people 
+·finvolved when judging social arrangements and their results (the 
+interest in people's well-being has obvious attractions, even if we dis­
+agree on the utility-centered mental-metric way of judging well­
+., being). 
+To illustrate the relevance of results, consider the fact that many 
+social arrangements are advocated because of the attractions of their 
+constitutive features, without any note being taken of their conse­
+quential outcomes. Take property rights. Some have found it to be 
+constitutive of individual independence and have gone on to ask that 
+no restriction be placed on the ownership, inheritance and use of 
+property, rejecting even the idea of taxing property or income. Oth-
+I 
+
+
+
+--- [Book Page 61 | PDF Page 78] ---
+
+I 
+I 
+L
+Freedom and the Foundations of Justice 
+6r 
+ers, on the opposite side of the political divide, have been repelled by 
+the idea of inequalities of ownership-some haviag so much while 
+others have so little-and they have gone on to demand the abolition 
+of private property. 
+One can indeed entertain different views on the intrinsic attrac­
+tions or repulsive features of private property. The consequentialist 
+approach suggests that we must not be swayed only by these features, 
+and must examine the consequences of having-or not having­
+property rights. Indeed, the more influential defenses of private prop­
+erty tend to come from pointers to its positive consequences. It is 
+pointed out that private property has proved to be, in terms of 
+results, quite a powerful engine of economic expansion and general 
+prosperity. In the consequentialist perspective that fact must occupy 
+a central position in assessing the merits of private property. On 
+the other side, once again in terms of results, there is also much evi­
+dence to suggest that unconstrained use of private property-without 
+restrictions and taxes-can contribute to entrenched poverty and 
+make it difficult to have social support for those who fall behind for 
+reasons beyond their control (including disability, age, illness and 
+economic and social misfortune). It can also be defective in ensur­
+ing environmental preservation, and in the development of social 
+infrastructure. 
+ro 
+Thus, neither of the purist approaches emerges unscathed in terms 
+of analysis by results, suggesting that arrangements regarding prop­
+erty may have to be judged, at least partly, by their likely conse­
+quences. This conclusion is in line with the utilitarian spirit, even 
+though full utilitarianism would insist on a very specific way of judg­
+ing consequences and their relevance. The general case for taking full 
+note of results in judging policies and institutions is a momentous 
+and plausible requirement, which has gained much from the advo­
+cacy of utilitarian ethics. 
+Similar arguments can be presented in favor of taking note of 
+human well-being in judging results, rather than looking only at 
+some abstract and alienated characteristics of states of affairs. The 
+focusing on consequences and on well-being, thus, have points in 
+their favor, and this endorsement-it is only a partial endorsement­
+of the utilitarian approach to justice relates directly to its informa­
+tional base. 
+
+
+
+--- [Book Page 62 | PDF Page 79] ---
+
+62 
+DEVELOPMENT 
+AS 
+FREEDOM 
+LIMITATIONS OF THE UTILITARIAN PERSPECTIVE 
+The handicaps of the utilitarian approach can also be traced to its 
+informational base. Indeed, it is not hard to find fault with the utili­
+tarian conception of justice. :n To mention just a few, the following 
+would appear to be among the deficiencies that a fully utilitarian 
+approach yields. 
+ 
+I) 
+Distributional indifference: The utilitarian calculus tends to 
+ignore inequalities in the distribution of happiness (only the sum 
+total matters-no Il').attex. how unequally- distributed). We may be 
+--
+•• 
+uolo 
+•• 
+o 
+interested in general happiness, and yet want to pay attention not 
+just to "aggregate" magnitudes, but also to extents of inequalities in 
+happiness. 
+2) .--. N_
+g!t _Q[.Jlgkt$.8 freedo_1J?§ 
+_
+_ an_d _?t9:!__!!on-utility conc;rns: 
+The utilitarian approach attaches no intrinsic importance to claims 
+of rights and freedoms (they are valued only indirectly and only to 
+the extent they influence utilities). It is sensible enough to take note 
+of happiness, but we do not necessarily want to be happy slaves or 
+delirious vassals. 
+3) ,Adaptation and mentaLcondit.ioning: Even the view the utili-
+"-
+-----
+.. 
+tarian appr-oach takes of individual well-being is not very robust, 
+since it can be easily swayed by mental conditioning and adaptive 
+attitudes. 
+The first two criticisms are rather more immediate than the third, 
+and perhaps I should comment a little only on the third-the issue of 
+mental conditioning and its effect on the utilitarian calculus. Con­
+centrating exclusively on mental characteristics (such as pleasure, 
+happiness or desires) can be particularly restrictive when making 
+interpersonal comparisons of well-being and deprivation. Our desires 
+and pleasure-taking abilities adjust to circumstances, especially to 
+make life bearable in adverse situations. The utility calculus can be 
+deeply unfair to those who are persistently deprived: for example, the 
+usual underdogs in stratified societies, perennially oppressed minori­
+ties in intolerant communities, traditionally precarious sharecroppers 
+living in a world of uncertainty, routinely overworked sweatshop 
+,. 
+
+
+
+--- [Book Page 63 | PDF Page 80] ---
+
+Freedom and the Foundations of Justice 
+6 3 
+employees in exploitative economic arrangements, hopelessly sub­
+dued housewives in severely sexist cultures. The deprived people tend 
+to come to terms with their deprivation because of the sheer necessity 
+of survival, and they may, as a result, lack the courage to demand any 
+radical change, and may even adjust their desires and expectations to 
+what they unambitiously see as feasible.n. The mental metric of plea­
+sure or desire is just too malleable to be a firm guide to deprivation 
+and disadvantage. 
+It is thus important not only to take note of the fact that in the 
+scale of utilities the deprivation of the persistently deprived may look 
+muffled and muted, but also to favor the creation of conditions in 
+which people have real opportunities of judging the kind of lives they 
+would like to lead. Social and economic factors such as basic educa­
+tion, elementary health care, and secure employment are important 
+not only on their own, but also for the role they can play in giving 
+people the opportunity to approach the world with courage and free­
+dom. These considerations require a broader informational base, 
+focusing particularly on people's capability to choose the lives they 
+have reason to value. 
+JOHN RAWLS AND THE PRIORITY OF LIBERTY 
+I turn now to the most influential-and in many ways the most 
+important-of contemporary theories of justice, that of John Rawls.13 
+His theory has many components, but I start with a particular 
+requirement that John Rawls has called "the priority of liberty." 
+Rawls's own formulation of this priority is comparatively moderate, 
+but that priority takes a particularly sharp form in modern liber­
+tarian theory, which in some formulations (for example, in the ele­
+gantly uncompromising construction presented by Robert Nozick) 
+puts extensive classes of rights-varying from personal liberties to 
+property rights-as having nearly complete political precedence over 
+the pursuit of social goals (including the removal of deprivation and 
+destitution).14 These rights take the form of "side constraints," which 
+simply must not be violated. The procedures that are devised to guar­
+antee rights, which are to be accepted no matter what consequences 
+follow from them, are simply not on the same plane (so the argument 
+goes) as the things that we may judge to be desirable (utilities, well-
+
+
+
+--- [Book Page 64 | PDF Page 81] ---
+
+ I 
+ I 
+ I I , 
+i 
+:. I ' ' 
+ I 
+I 
+r I 
+II 
+I I 
+II 
+I I ' 
+1 
+I.' 
+I 
+I I 
+t 
+DEVELOPMENT 
+AS 
+FREEDOM 
+being, equity of outcomes or opportunities, and so on). The issue, 
+then, in this formulation, is not the comparative importance of 
+rights, but their absolute priority. 
+In less demanding formulations of "priority of liberty" presented 
+in liberal theories (most notably, in the writings of John Rawls), the 
+rights that receive precedence are much less extensive, and essentially 
+consist of various personal liberties, including some basic political 
+and civil rights.r5 But the precedence that these more limited rights 
+receive is meant to be quite complete, and while these rights are much 
+more confined in coverage than those in libertarian theory, they too 
+cannot be in any way compromised by the force of economic needs. 
+The case for such a complete priority can be disputed by demon­
+strating the force of other considerations, including that of economic 
+needs. Why should the status of intense economic needs, which can 
+be matters of life and death, be lower than that of personal liberties? 
+This issue was forcefully raised in a general form by Herbert Hart a 
+long time ago (in a famous article in 1973 ). John Rawls has acknowl­
+edged the force of this argument in his later book Political Liberalism 
+and suggested ways of accommodating it within the structure of his 
+theory of justice. I6 
+If the "priority of liberty" is to be made plausible even in the con­
+text of countries that are intensely poor, the content of that priority 
+would have to be, I would argue, considerably qualified. This does 
+not, however, amount to saying that liberty should not have priority, 
+but rather that the form of that demand should not have the effect of 
+making economic needs be easily overlooked. It is, in fact, possible to 
+distinguish between (I) Rawls's strict proposal that liberty should 
+receive overwhelming precedence in the case of a conflict, and ( 2) his 
+general procedure of separating out personal liberty from other types 
+of advantages for special treatment. The more general second claim 
+concerns the need to assess and evaluate liberties differently from 
+individual advantages of other kinds. 
+The critical issue, I would submit, is not complete precedence, but 
+whether a person's liberty should get just the same kind of impor­
+tance (no more) that other types of personal advantages-incomes, 
+utilities and so on-have. In particular, the question is whether the 
+significance of liberty for the society is adequately reflected by the 
+weight that the person herself would tend to give to it in judging her 
+'
+
+
+
+--- [Book Page 65 | PDF Page 82] ---
+
+r 
+Freedom and the Foundations of Justice 
+6 5 
+own overall advantage. The claim of preeminence of liberty (includ­
+ing basic political liberties and civil rights) disputes that it is adequate 
+to judge liberty simply as an advantage-like an extra unit of 
+income-that the person herself receives from that liberty. 
+In order to prevent a misunderstanding, I should explain that the 
+contrast is not with the value that citizens attach-and have reason 
+to attach-to liberty and rights in their political judgments. Quite the 
+contrary: the safeguarding of liberty has to be ultimately related to 
+the general political acceptability of its importance. The contrast, 
+rather, is with the extent to which having more liberty or rights 
+increases an individual's own personal advantage, which is only a 
+part of what is involved. The claim here is that the political signifi­
+cance of rights can far exceed the extent to which the personal advan­
+tage of the holders of these rights is enhanced by having these rights. 
+The interests of others are also involved (since liberties of different 
+people are interlinked), and also the violation of liberty is a proce­
+dural transgression that we may have reason to resist as a bad thing 
+in itself. There is, thus, an asymmetry with other sources of indi­
+vidual advantage, for example incomes, which would be valued 
+largely on the basis of how much they contribute to the respective 
+personal advantages. The safeguarding of liberty and basic political 
+rights would have the procedural priority that follows from this 
+asymmetric prominence. 
+This issue is particularly important in the context of the constitu­
+tive role of liberty and political and civil rights in making it possible 
+to have public discourse and communicative emergence of agreed 
+norms and social values. I shall examine this difficult issue more fully 
+in chapters 6 and ro. 
+ROBERT NOZICK AND LIBERTARIANISM 
+I return now to the issue of complete priority of rights, including 
+property rights, in the more demanding versions of libertarian theory. 
+For example, in Nozick's theory (as presented in Anarchy, State and 
+Utopia), the "entitlements" that people have through the exercise 
+of these rights cannot, in general, be outweighed because of their 
+results-no matter how nasty those results may be. A very exceph 
+tional exemption is given by Nozick to what he calls "catastrophic 
+
+
+
+--- [Book Page 66 | PDF Page 83] ---
+
+66 
+DEVELOPMENT 
+AS 
+FREEDOM 
+moral horrors," but this exemption is not very well integrated with 
+the rest of Nozick's approach, nor is this exemption matched with a 
+proper justification (it remains quite ad hoc). The uncompromising 
+priority of libertarian rights can be particularly problematic since the 
+actual consequences of the operation of these entitlements can, quite 
+possibly, include rather terrible results. It can, in particular, lead to 
+the violation of the substantive freedom of individuals to achieve 
+those things to which they have reason to attach great importance, 
+including escaping avoidable mortality, being well nourished and 
+healthy, being able to read, write and count and so on. The impor­
+tance of these freedoms cannot be ignored on grounds of the "pri­
+ority of liberty." 
+For example, as is shown in my Poverty and FaminesJ even 
+gigantic famines can result without anyone's libertarian rights (in­
+cluding property rights) being violated. r7 The destitutes such as the 
+unemployed or the impoverished may starve precisely because their 
+"entitlements "-legitimate as they are-do not give them enough 
+food. This might look like a special case of a "catastrophic moral 
+horror," but horrors of any degree of seriousness-all the way from 
+gigantic famines to regular undernourishment and endemic but 
+nonextreme hunger-can be shown to be consistent with a system in 
+which no one's libertarian rights are violated. Similarly, deprivation 
+of other types (for example, the lack of medical care for curable ill­
+nesses) can coexist with all libertarian rights (including rights of 
+property ownership) being fully satisfied. 
+The proposal of a consequence-independent theory of political 
+priority is afflicted by considerable indifference to the substantive 
+freedoms that people end up having-or not having. We can scarcely 
+agree to accept simple procedural rules irrespective of consequences­
+no matter how dreadful and totally Wlacceptable these consequences 
+might be for the lives of the people involved. Consequential reason­
+ing, in contrast, can attach great importance to the fulfillment or vio­
+lation of individual liberties (and may even give it a specially favored 
+treatment) without ignoring other considerations, including the 
+actual impact of the respective procedures on the substantive free­
+doms that people actually have. rs To ignore consequences in general, 
+including the freedoms that people get-or do not get-to exercise, 
+can hardly be an adequate basis for an acceptable evaluative system. 
+
+
+
+--- [Book Page 67 | PDF Page 84] ---
+
+r 
+Freedom and the Foundations of Justice 
+In terms of its informational basis, libertarianism as an approach 
+is just too limited. Not only does it ignore those variables to which 
+utilitarian and welfarist theories attach great importance, but it also 
+neglects the most basic freedoms that we have reason to treasure and 
+demand. Even if liberty is given a special status, it is highly implausi­
+ble to claim that it would have as absolute and relentless a priority as 
+libertarian theories insist it must have. We need a broader informa­
+tional basis of justice. 
+UTILITY, REAL INCOME AND 
+INTERPERSONAL COMPARISONS 
+In traditional utilitarian ethics, "utility" is defined simply as happi­
+ness or pleasure, and sometimes as the fulfillment of desires. These 
+ways of seeing utility in terms of mental metrics (of happiness or of 
+desire) have been used not only by such pioneering philosophers as 
+Jeremy Bentham, but also by utilitarian economists such as Francis 
+Edgeworth, Alfred Marshall, A. C. Pigou and Dennis Robertson. As 
+was discussed earlier in this chapter, this mental metric is subject to 
+distortions brought about by psychological adjustment to persistent 
+deprivation. This is indeed a major limitation of the reliance on the 
+subjectivism of mental metrics such as pleasures or desires. Can utili­
+tarianism be rescued from this limitation? 
+In modern use of "utility" in contemporary choice theory, its 
+identification with pleasure or desire-fulfillment has been largely 
+abandoned in favor of seeing utility simply as the numerical repre­
+sentation of a person's choice. I should explain that this change has 
+occurred not really in response to the problem of mental adjustment, 
+but mainly in reaction to the criticisms made by Lionel Robbins and 
+other methodological positivists that interpersonal comparisons of 
+different people's minds were "meaningless" from the scientific point 
+of view. Robbins argued that there are "no means whereby such 
+comparisons can be accomplished." He even cited-and agreed 
+with-the doubts first expressed by W. S. Jevons, the utilitarian guru, 
+himself: "Every mind is inscrutable to every other mind and no com­
+mon denominator of feelings is possible." 19 As economists convinced 
+themselves that there was indeed something methodologically wrong 
+in using interpersonal comparison of utilities, the fuller version of the 
+
+
+
+--- [Book Page 68 | PDF Page 85] ---
+
+68 
+DEVELOPMENT 
+AS 
+FREEDOM 
+utilitarian tradition soon gave way to various compromises. The par­
+ticular compromise that is extensively used now is to take utility to 
+be nothing other than the representation of a person's preference. As 
+was mentioned earlier, in this version of utility theory, to say that a 
+person has more utility in state x than in state y is not essentially dif-
+.1 ferent from saying that she would choose to be in state x rather than 
+i win_statx_y.,. 
+- - - -
+· 
+-
+---
+.. ---
+\ 
+-1 
+This approach has the advantage of not requiring that we under-
+take the difficult exercise of comparing different persons' mental con­
+ditions (such as pleasures or desires), but correspondingly, it closes 
+the door altogether to the possibility of direct interpersonal com­
+parisons of utilities (utility is each individual's separately scaled rep­
+resentation of her preferences). Since a person does not really have 
+the option of becoming someone else, interpersonal comparisons of 
+choice-based utility cannot be "read off" from the actual choices.:w 
+If different persons have different preferences (reflected in, say, 
+different demand functions), there is obviously no way of getting 
+interpersonal comparisons from these diverse preferences. But what 
+if they shared the same preference and made the same choices in simi­
+lar circumstances? Admittedly, this would be a very special case 
+(indeed, as Horace noted, ''there are as many preferences as there are 
+people"), but it is still interesting to ask whether interpersonal com­
+parisons can be made under this very special assumption. Indeed, the 
+assumption of common preference and choice behavior is quite often 
+made in applied welfare economics, and this is frequently used to jus­
+tify the assumption that everyone has the same utility function. This 
+is stylized interpersonal utility comparison with a vengeance. Is that 
+presumption legitimate for the interpretation of utility as a numerical 
+representation of preference? 
+The answer, unfortunately, is in the negative. It is certainly true 
+that the assumption that everyone has the same utility function 
+would yield the same preferences and choice behavior for all, but so 
+would many other assumptions. For example, if a person gets exactly 
+half (or one-third, or one-hundredth, or one-millionth) of the utility 
+from every commodity bundle that another person gets, both will 
+have the same choice behavior and identical demand function, but 
+clearly-by construction-not the same level of utility from any com­
+modity bundle. More mathematically, the numerical representation 
+
+
+
+--- [Book Page 69 | PDF Page 86] ---
+
+I r 
+Freedom and the Foundations of Justice 
+,· .. 
+of choice behavior is not unique; each choice behavior can be repre-
+' 
+· 
+sented by a wide set of possible utility functions. 21 The coincidence of 
+choice behavior need not entail any congruence of utilitieS.22 
+This is not just a "fussy', difficulty in pure theory; it can make a 
+very big difference in practice as well. For example, even if a person : 
+who is depressed or disabled or ill happens to have the same demand ;. ·: ', 
+function over commodity bundles as another who is not disadvan-
+\ .
+.
+ 
+-.: 
+\ : 
+taged in this way, jt woukLbe quiÕÖb×u.£d.Ø insist that shÙis_haying 
+· 
+the same utility (or well-being, or quality of life) J"9ID:.c:l given com­
+modity bundle as the other can get .from it. For example, a poor ·per­
+son with' a''parasii:!c. stomach ailment may prefer two kilos of rice ! ·' 
+over one, in much the same way that another person-equally poor ) 
+but with no ailment-may, but it would be hard to argue that both i ;. 
+do equally well with, say, one kilo of rice. Thus, the assumption ofç!· 
+the same choice behavior and same demand function (not a particu­
+larly realistic presumption, anyway) would provide no reason to 
+ÚÛpect t!.e same :!J:ÜgÝÞy.JgnèPP.· Interpersonal comparisons are quite 
+a distinct matter from explaining choice behavior, and the two can be 
+identified only through a conceptual confusion. 
+These difficulties are often ignored in what are taken to be utility 
+comparisons based on choice behavior, but which amount, at best, to 
+comparisons of "real incomes" only-or of the commodity basis of 
+utility. Even real-income comparisons are not easy when different 
+persons have diverse demand functions, and this limits the rationale 
+of such comparisons (even of the commodity basis of utility, not to 
+mention utilities themselves). The limitations of treating real-income 
+comparisons as putative utility comparisons are quite severe, partly 
+because of the complete arbitrariness (even when demand functions 
+of different persons are congruent) of the assumption that the same 
+commodity bundle must yield the same level of utility to different 
+persons, and also because of the difficulties in indexing even the com­
+modity basis of utility (when demand functions are divergent).:z.3 
+At the practical level, perhaps the biggest difficulty in the real- i 
+' 
+. 
+income approach 9 .
+. well-being lies in the diversity C?.f...hgman-heingst_J • 
+Differences in age, gender, special t3.lentß; qisabilit.y, proneness to ill-
+l 
+':: 
+ness, and so on ca-n.11:1ake àáo diffâãent persons 
+__ h.aäå . .9#$._4ivi·ge_f 
+.
+: 
+opportunities of quality of life even when they share exactly the same 
+\i 
+·
+. 
+commodity bundle. Human· diversity-is among· the difficulties that 
+·æ 
+·· 
+.
+. ,_ 
+.. 
+_
+__ 
+,._,, 
+. . . . 
+' 
+• 
+. 
+
+
+
+--- [Book Page 70 | PDF Page 87] ---
+
+-
+. 
+\ { 
+70 
+DEVELOPMENT 
+AS 
+FREEDOM 
+limit the usefulness of real-income comparisons for judging different 
+persons' respective advantages. The different difficulties are briefly 
+considered in the next section, before I proceed to consider an alter­
+native approach to interpersonal comparison of advantages. 
+WELL-BEING: DlVERSITIES AND HETEROGENEITIES 
+/ We use incomes and commodities as the material basis of our well-
+1 
+l 
+. 
+. 
+···
+--
+\: being. But_ what use we can respectively m¨i<©--ª9.t¬:grven:}?.-e o 
+. 
+· commodities, or m.ore generally of a given level of income, depends 
+«··_,'crucially on a number of contingent circumstances;-both personal 
+.-: · and social.24 It is easy to identify at least five distinct sources of varia­
+.·t' tion between our real incomes and the advantages-the well-being 
+: and freedom-we get out of them. 
+r) 
+Personal heterogeneities: People have disparate physical char­
+acteristics connected with disability; illness, age or gender, and these 
+make their needs diverse. For example, an ill person may need more 
+income to fight her illness-income that a person without such an ill .. 
+ness would not need; and even with medical treatment the ill person 
+may not enjoy the sam.e quality of life that a given level of income 
+would y ield for the other person. A disabled person may need some 
+prosthesis, an older person more support and help, a pregnant woman 
+more nutritional intake, and so on. The "compensation" needed for 
+disadvantages will vary, and furthermore some disadvantages may 
+net.be fully "correctable" even with income transfer. 
+(, .. } 
+Environmental diversities: Variations in environmental con­
+ditions, such as climatic circumstances (temperature ranges, rainfall, 
+flooding and so on), can influence what a person gets out of a given 
+level of income. Heating and clothing requirements of the poor in 
+colder climates cause problems that may not be shared by equally 
+poor people in warmer lands. The presence of infectious diseases in a 
+region (from malaria and cholera to AIDS) alters the quality of life 
+that inhabitants of that region may enjoy. So do pollution and other 
+environmental handicaps. 
+3) 
+Variations in social climate: The conversion of personal 
+incomes and resources into the quality of life is influenced also by 
+social conditions, including public educational arrangements, and 
+
+
+
+--- [Book Page 71 | PDF Page 88] ---
+
+j 
+ 
+ 
+F1·eedom and the Foundations of Justice 
+the prevalence or absence of crime and violence . in the particular 
+location. Issues of epidemiology and pollution are both environmen­
+tal and socially influenced. Aside from public facilities, the nature of 
+community relationships can be very important, as the recent litera­
+ture on "social capital,, has tended to emphasize . .2.s 
+4) 
+Differences in relational perspectives: The commodity re­
+quirements of established patterns of behavior tnay vary between 
+communities, depending on conventions and customs. For example, 
+being relatively poor in a rich community can prevent a person from 
+achieving some elementary nfunctionings" (such as taking part in the 
+life of the community) even though her income, in absolute terms, 
+may be much higher than the level of income at which members of 
+poorer communities can function with great ease and success. For 
+example, to be able to "appear in public without shame" may require 
+higher standards of clothing and other visible consumption in a 
+richer society than in a poorer one (as Adam Smith noted more than 
+two centuries ago).2.6 The same parametric variability may apply to 
+the personal resources needed for the fulfillment of self-respect. This 
+is primarily an intersocietal variation, rather than an interindividual 
+variation within a given society, but the two issues are frequently 
+interlinked. 
+5) 
+Distribution within the family: Incomes earned by one or 
+more members of a family are shared by all-nonearners as well as 
+ea.rners. The family is thus the basic unit for consideration of incomes 
+from the standpoint of their use. The well-being or freedom of indi­
+viduals in a family will depend on how the family income is used in 
+furtherance of the interests and objectives of different members of the 
+family. Thus, intrafamily distribution of incomes is quite a crucial 
+parametric variable in linking individual achievements and opportu­
+nities with the overall level of family income. Distributional rules fol .. 
+lowed within the family (for exan1ple, related to gender or age or 
+perceived needs) can make a major difference to the attainments and 
+predicaments of individual members.27 
+These different sources of variation in the relation between 
+income and well-being make opulence-in the sense of high real 
+income a limited guide to welfare and the quality of life. I shall 
+come back to these variations and their impact later on in this book 
+
+
+
+--- [Book Page 72 | PDF Page 89] ---
+
+DEVELOPMENT 
+AS 
+FREEDOM 
+(particularly in chapter 4), but there must be some attempt before 
+that to address the question: What is the alternative? That is the 
+question I take up next. 
+INCOMES, RESOURCES AND FREEDOMS 
+The view that poverty is simply shortage of income is fairly well 
+established in the literature on the subject. It is not a silly view, since 
+income-properly defined-has an enormous influence on what we 
+can or cannot do. The inadequacy of income is often the major cause 
+of deprivations that we standardly associate with poverty, including 
+starvation and famines. In studying poverty, there is an excellent 
+argument for beginning with whatever information we have on the 
+distribution of incom.es, particularly low real incomes.28 
+There is, however, an equally good case for not ending with 
+ :;·income analysis only. John Rawls's classic analysis of ¿'primary 
+. I . 
+. 
+. · [=goods" provides a broader picture of resources that people need no 
+:, 1 matter what their respective ends are; this includes income but also 
+·t other general-purpose nmeans." Primary goods are general-purpose 
+r 
+:f means that help anyone to promote his or her ends, and include 
+• 
+"rights, liberties and opportunities, income and wealth, and the 
+social bases of self-respect. ,,7.9 The concentration on primary goods 
+in the Rawlsian framework relates to his view of individual advan­
+tage in terms of the opportunities the individuals enjoy to pursue 
+their respective objectives. Rawls saw these objectives as the pursuit 
+of individual "conceptions of the good," which would vary from per­
+son to person. If, despite having the same basket of primary goods as 
+another (or even having a larger basket), a person ends up being less 
+happy than the other person (for example, because of having expen­
+sive tastes), then no injustice need be involved in this inequality in the 
+utility space. A person, Rawls _arguea:··ha·s. to take responsibility for 
+·-
+., 
+his or her own preferences.·i.?,.· 
+ 
+· 
+The broadening of the
+·
+'iÀforrnational foc·us from incomes to pri-
+mary goods is not, however, adequate···ro deal with all the relevant 
+variations in the relationship between income and resources, on the 
+one hand, and well-being and freedom, on the other. Indeed, primary 
+goods themselves are mainly various types of general resources, and 
+the use of these resources to generate the ability to do valuable things 
+is subject to much the same list of variations we considered in the last 
+J 
+
+
+
+--- [Book Page 73 | PDF Page 90] ---
+
+! 
+I 
+I 
+Freedom and the Foundations of Justice 
+73 
+section in the context of reviewing the relationship between income 
+and well-being! personal heterogeneities, environmental diversities, 
+variations in social climate, differences in relational perspectives and 
+distribution within the family.31 Personal health and the capability to 
+be healthy can, for example, depend on a great variety of influences.32 
+An alternative to focusing on means of good living is to concen¦ 
+trate on the actual living that people manage to achieve (or going 
+beyond that, on the freedom to achieve actual livings that one can 
+have reason to value). There have, in fact, been many attempts in 
+contemporary economics to be concerned directly with "levels of Jiv­
+ing" and its constituent elements, and with the fulfillment of basic 
+needs, at least from A. C. Pigou onward.n Beginning in 1990, under 
+the pioneering leadership of Mahbub ul Haq (the great Pakistani 
+economist, who died suddenly in 1998), the United Nations Devel­
+opment Programme (UNDP) has been publishing annual reports on 
+"human development" that have thrown systematic light on the 
+actual lives lived by people, especially by the relatively deprived.H 
+Taking an interest in the lives that people actually lead is not new 
+in economics (as was pointed out in chapter I). Indeed, the Aris­
+totelian account of the human good (as Martha Nussbaum discusses) 
+was explicitly linked to the necessity to "first ascertain the function 
+of man" and then proceeded to explore "life in the sense of activity" 
+as the basic block of normative analysis.35 Interest in living condi­
+tions is also strongly reflected (discussed earlier) in the writings on 
+national accounts and economic prosperity by pioneering economic 
+analysts, such as William Petty, Gregory King, Fran§ois Quesnay, 
+Antoine-Laurent Lavoisier and Joseph-Louis Lagrange. 
+It is also an approach that much engaged Adam Smith. As men­
+tioned earlier, he was concerned with such capability to function as 
+"the ability to appear in public without shame" (rather than only 
+with real income or the commodity bundle possessed).36 What counts 
+as "necessity" in a society is to be determined, in Smithian analysis, 
+by its need to generate some minimally required freedoms, such as 
+the ability to appear in public without shame, or to take part in the 
+life of the community. Adam Smith put the issue thus: 
+By necessaries I understand not only the commodities which are 
+indispensably necessary for the support of life, but what ever 
+the customs of the country renders it indecent for creditable 
+
+
+
+--- [Book Page 74 | PDF Page 91] ---
+
+74 
+DEVELOPMENT 
+AS 
+FREEDOM 
+people, even the lowest order to be without. A linen shirt, for 
+example, is, strictly speaking, not a necessary of life. The 
+Greeks and Romans lived, I suppose, very comfortably though 
+they had no linen. But in the present times, through the greater 
+part of Europe, a creditable day-labourer would be ashamed 
+to appear in public without a linen shirt, the want of which 
+would be supposed to denote that disgraceful degree of pov­
+erty which, it is presumed, nobody can well fall into without 
+extreme bad conduct. Custom, in the same manner, has ren­
+dered leather shoes a necessary of life in England. The poorest 
+creditable person of either sex would be ashamed to appear in 
+public without them.37 
+In the same way, a family in contemporary America or Western 
+Europe may find it hard to take part in the life of the community 
+without possessing some specific commodities (such as a telephone, a 
+television or an automobile) that are not necessary for community 
+life in poorer societies. The focus has to be, in this analysis, on the 
+freedoms generated by commodities, rather than on the commodities 
+seen on their own. 
+WELL .. BEING, FREEDOM AND CAPABILITY 
+I have tried to argue for some time now that for many evaluative pur­
+poses, the appropriate "space" is neither that of utilities (as claimed 
+by welfarists), nor that of primary goods (as demanded by Rawls), 
+but that of the substantive freedoms-the capabilities-to choose a 
+life one has reason to value.38 If the object is to concentrate on the 
+individual's real opportunity to pursue her objectives (as Rawls 
+explicitly recommends), then account would have to be taken not 
+only of the primary goods the persons respectively hold, but also of 
+the relevant personal characteristics that govern the conversion of 
+primary goods into the person's ability to promote her ends. For 
+example, a person who is disabled may have a larger basket of pri­
+mary goods and yet have less chance to lead a normal life (or to pur­
+sue her objectives) than an able-bodied person with a smaller basket 
+of primary goods. Similarly, an older person or a person more prone 
+to illness can be more disadvantaged in a generally accepted sense 
+even with a larger bundle of primary goods.39 
+
+
+
+--- [Book Page 75 | PDF Page 92] ---
+
+Freedom and the Foundations of Justice 
+75 
+The concept of "functionings," which has distinctly Aristotelian 
+roots, reflects the various things a person may value doing or being.4° 
+The valued functionings may vary from elementary ones, such as 
+being adequately nourished and being free from avoidable disease,41 
+to very complex activities or personal states, such as being able to 
+take part in the life of the community and having self-respect. 
+A person's "capability" refers to the alternative combinations of 
+functionings that are feasible for her to achieve. Capability is thus a 
+kind of freedom: the substantive freedom to achieve alternative func­
+tioning combinations (or, less formally put, the freedom to achieve 
+various lifestyles). For example, an affluent person who fasts may 
+have the same functioning achievement in terms of eating or nour­
+ishment as a destitute person who is forced to starve, but the first per­
+son does have a different "capability set" than the second (the first 
+can choose to eat well and be well nourished in a way the second 
+cannot). 
+There can be substantial debates on the particular functionings 
+that should be included in the list of important achievements and the 
+corresponding capabilities.42 This valuational issue is inescapable in 
+an evaluative exercise of this kind, and one of the main merits of the 
+approach is the need to address these judgmental questions in an 
+explicit way, rather than hiding them in some implicit framework. 
+This is not the occasion to go much into the technicalities of 
+representation and analysis of functionings and capabilities. The 
+amount or the extent of each functioning enjoyed by a person may be 
+represented by a real number, and when this is done, a person's actual 
+achievement can be seen as a functioning vector. The "capability set" 
+would consist of the alternative functioning vectors that she can 
+choose from.4.3 While the combination of a person's functionings 
+reflects her actual achievements, the capability set represents the free­
+dom to achieve: the alternative functioning combinations from which 
+this person can choose. 44 
+The evaluative focus of this "capability approach,, can be either on 
+the realized functionings (what a person is actually able to do) or 
+on the capability set of alternatives she has (her real opportunities). 
+The two give different types of information-the former about the 
+things a person does and the latter about the things a person is sub­
+stantively free to do. Both versions of the capability approach have 
+been used in the literature, and sometimes they have been combined.4s 
+
+
+
+--- [Book Page 76 | PDF Page 93] ---
+
+DEVELOPMENT 
+AS 
+FREEDOM 
+According to a well-established tradition in economics, the real 
+value of a set of options lies in the best use that can be made of them, 
+and-given maximizing behavior and the absence of uncertainty­
+the use that is actually made. The use value of the opportunity, then, 
+lies derivatively on the value of one element of it (to wit, the best 
+option or the actually chosen option).46 In this case, the focusing on 
+a chosen functioning vector coincides with concentration on the 
+capability set since the latter is judged, ultimately, by the former. 
+The freedom reflected in the capability set can be used in other 
+ways as well, since the value of a set need not invariably be identi­
+fied with the value of the best-or the chosen-element of it. It is 
+possible to attach importance to having opportunities that are not 
+taken up. This is a natural direction to go if the process through 
+which outcomes are generated has significance of its own.47 Indeed, 
+"ch9osing" itself can be seen as a valuable functioning, and having 
+an x when there is no alternative may be sensibly distinguished from 
+choosing x when substantial alternatives exist.48 Fasting is not the 
+same thing as being forced to starve. Having the option of eating 
+makes fasting what it is, to wit, choosing not to eat when one could 
+have eaten. 
+WEIGHTS, VALUATIONS AND SOCIAL CHOICE 
+Individual functionings can lend themselves to easier interpersonal 
+comparison than comparisons of utilities (or happiness, pleasures or 
+desires). Also, many of the relevant functionings-typically the non­
+mental characteristics-can be seen distinctly from their mental 
+assessment (not subsumed in "mental adjustment"). The variability 
+in the conversion of means into ends (or into freedom to pursue ends) 
+is already reflected in the extents of those achievements and freedoms 
+that may figure in the list of ends. These are advantages in using the 
+capability perspective for evaluation and assessment. 
+However, interpersonal comparisons of overall advantages also 
+require "aggregation" over heterogeneous components. The capabil 
+ity perspective is inescapably pluralist. First, there are different func 
+tionings, some more important than others. Second, there is the issue 
+of what weight to attach to substantive freedom (the capability set) 
+vis-a-vis the actual achievement (the chosen functioning vector). 
+
+
+
+--- [Book Page 77 | PDF Page 94] ---
+
+Freedom and the Foundations of Justice 
+77 
+Finally, since it is not claimed that the capability perspective exhausts 
+all relevant concerns for evaluative purposes (we might, for example, 
+attach importance to rules and procedures and not just to freedoms 
+and outcomes), there is the underlying issue of how much weight 
+should be placed on the capabilities, compared with any other relet 
