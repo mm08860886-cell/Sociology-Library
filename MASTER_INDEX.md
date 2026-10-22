@@ -1,19 +1,20 @@
-# 🗺️ نقشه گنج کتابخانه جامعه‌شناسی
+# 🌍 نقشه گنج جامع کتابخانه
 
-این فایل برای دسترسی هوش مصنوعی به تمام منابع کتابخانه طراحی شده است.
+این فایل شامل تمام منابع PDF و TXT در همه پوشه‌هاست.
 
-## 📚 بخش انگلیسی (English Sources)
-
-### 📖 کتاب: Development as Freedom (Amartya Sen)
-
-- **Part 01**: [مشاهده متن](https://raw.githubusercontent.com/mm08860886-cell/Sociology-Library/main/English_Sources/Development_as_Freedom_Sen/Development_as_Freedom_Part_01.txt)
-- **Part 02**: [مشاهده متن](https://raw.githubusercontent.com/mm08860886-cell/Sociology-Library/main/English_Sources/Development_as_Freedom_Sen/Development_as_Freedom_Part_02.txt)
-- **Part 03**: [مشاهده متن](https://raw.githubusercontent.com/mm08860886-cell/Sociology-Library/main/English_Sources/Development_as_Freedom_Sen/Development_as_Freedom_Part_03.txt)
-- **Part 04**: [مشاهده متن](https://raw.githubusercontent.com/mm08860886-cell/Sociology-Library/main/English_Sources/Development_as_Freedom_Sen/Development_as_Freedom_Part_04.txt)
-- **Part 05**: [مشاهده متن](https://raw.githubusercontent.com/mm08860886-cell/Sociology-Library/main/English_Sources/Development_as_Freedom_Sen/Development_as_Freedom_Part_05.txt)
-
----
-
-## 📚 بخش فارسی (Persian Sources)
-
-*(این بخش به زودی با فایل‌های کتاب جامعه‌شناسی توسعه اضافه خواهد شد...)*
+| مسیر پوشه | نام فایل | عنوان (تخمینی) | سال | چکیده کوتاه | لینک دانلود |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Bahman_pdfs | A_Conceptual_History_of_the_Emergence_of_Bounded_R.pdf | **A conceptual history of the emergence of bounded rationality** | 2003 | © 2003 Matthias Klaes and Esther-Mirjam Sent. Reproduction in any form of storage only with written permission of the authors. All rights reserved. Pl... | [📥 دانلود](https://raw.githubusercontent.com/mm08860886-cell/Sociology-Library/main/Bahman_pdfs/A_Conceptual_History_of_the_Emergence_of_Bounded_R.pdf) |
+| Bahman_pdfs | A_critical_post_to_critical_realism.pdf | **A critical** | 2002 | Cambridge Journal of Economics 2002, 26, 709–726 A critical ‘post’ to critical realism Nitasha Kaul* The aim of this paper is to initiate a dialogue b... | [📥 دانلود](https://raw.githubusercontent.com/mm08860886-cell/Sociology-Library/main/Bahman_pdfs/A_critical_post_to_critical_realism.pdf) |
+| Bahman_pdfs | A_set_of_principles_for_conducting_and_e.pdf | **RINCIPLES FOR** | نامشخص | This article discusses the conduct and evaluation of interpretive research in information systems. While the conventions for evaluating information... | [📥 دانلود](https://raw.githubusercontent.com/mm08860886-cell/Sociology-Library/main/Bahman_pdfs/A_set_of_principles_for_conducting_and_e.pdf) |
+| Bahman_pdfs | BullandBoasFDS.pdf | **Forum for Development Studies** | 2012 | This article was downloaded by: [Universitetsbiblioteket i Oslo] On: 17 October 2012, At: 10:58 Publisher: Routledge Informa Ltd Registered in England... | [📥 دانلود](https://raw.githubusercontent.com/mm08860886-cell/Sociology-Library/main/Bahman_pdfs/BullandBoasFDS.pdf) |
+| Bahman_pdfs | New Text Document.txt | **نامشخص** | نامشخص | خلاصه یافت نشد. | [📥 دانلود](https://raw.githubusercontent.com/mm08860886-cell/Sociology-Library/main/Bahman_pdfs/New%20Text%20Document.txt) |
+| Bahman_pdfs | Oli25.pdf | **A FILOSOFIA TRANSCENDENTAL DE KANT ENQUANTO FILOSOFIA DA** | 2025 | Hegel’s Philosophy is configured as a confrontation with the basic thesis of modern  philosophy: the scheme of subject/object thought that constitu... | [📥 دانلود](https://raw.githubusercontent.com/mm08860886-cell/Sociology-Library/main/Bahman_pdfs/Oli25.pdf) |
+| Bahman_pdfs | paper_94122c1881445078ad8f8a0283d5ab6c.pdf | **A Comparative Analysis of Twelve Research Paradigms Across Six** | 2024 | This study investigates whether a single research paradigm can dominate knowledge acquisition across empirical  and interpretive domains or if a mu... | [📥 دانلود](https://raw.githubusercontent.com/mm08860886-cell/Sociology-Library/main/Bahman_pdfs/paper_94122c1881445078ad8f8a0283d5ab6c.pdf) |
+| Bahman_pdfs | Rahchamandi - Capabilities of Genealogy for “Development Studies”.pdf | **Capabilities of Genealogy for “Development Studies”** | 2024 | Original Article       Vol.30, No. 118, Spring 2024                               Quarterly                                                   ISSN: 16... | [📥 دانلود](https://raw.githubusercontent.com/mm08860886-cell/Sociology-Library/main/Bahman_pdfs/Rahchamandi%20-%20Capabilities%20of%20Genealogy%20for%20%E2%80%9CDevelopment%20Studies%E2%80%9D.pdf) |
+| Bahman_pdfs | Web14 (2).pdf | **Comparative Philosophy and the** | 2014 | Comparison is fundamental to the practice and subject-matter of philosophy, but has received scant attention by philosophers. This is even so in “c... | [📥 دانلود](https://raw.githubusercontent.com/mm08860886-cell/Sociology-Library/main/Bahman_pdfs/Web14%20%282%29.pdf) |
+| English_Sources/Development_as_Freedom_Sen | Development_as_Freedom_Part_01.txt | **Book: Development as Freedom** | 2000 | Author: Amartya Sen ============================================================ --- [Front Matter - PDF Page 1] --- ALSO... | [📥 دانلود](https://raw.githubusercontent.com/mm08860886-cell/Sociology-Library/main/English_Sources/Development_as_Freedom_Sen/Development_as_Freedom_Part_01.txt) |
+| English_Sources/Development_as_Freedom_Sen | Development_as_Freedom_Part_02.txt | **ion.49** | نامشخص | Is this plurality an embarrassment for advocacy of the capability perspective for evaluative purposes? Quite the contrary. To insist that there should... | [📥 دانلود](https://raw.githubusercontent.com/mm08860886-cell/Sociology-Library/main/English_Sources/Development_as_Freedom_Sen/Development_as_Freedom_Part_02.txt) |
+| English_Sources/Development_as_Freedom_Sen | Development_as_Freedom_Part_03.txt | **er to achieve the desired effect.** | نامشخص | This is, of course, a basic feature of freedoms in general-much depends on how freedoms are actually exercised. THE PRACTICE OF DEMOCRACY AND THE ROLE... | [📥 دانلود](https://raw.githubusercontent.com/mm08860886-cell/Sociology-Library/main/English_Sources/Development_as_Freedom_Sen/Development_as_Freedom_Part_03.txt) |
+| English_Sources/Development_as_Freedom_Sen | Development_as_Freedom_Part_04.txt | **cles in India in the preceding centuries.** | نامشخص | It is, however, interesting to look in this context at another Indian author whose treatise on governance and political economy was also profoundly in... | [📥 دانلود](https://raw.githubusercontent.com/mm08860886-cell/Sociology-Library/main/English_Sources/Development_as_Freedom_Sen/Development_as_Freedom_Part_04.txt) |
+| English_Sources/Development_as_Freedom_Sen | Development_as_Freedom_Part_05.txt | **e in many different fields has been** | 1992 | well explored, inter alia, in a number of doctoral dissertations done at Harvard that I have been privileged to supervise, in particular: A. K. Shiva ... | [📥 دانلود](https://raw.githubusercontent.com/mm08860886-cell/Sociology-Library/main/English_Sources/Development_as_Freedom_Sen/Development_as_Freedom_Part_05.txt) |
